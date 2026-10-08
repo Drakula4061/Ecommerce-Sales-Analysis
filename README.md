@@ -62,3 +62,28 @@ This project also helped me understand how to turn a raw dataset into visual rep
 ## About Me
 
 I'm learning data analytics and building projects to improve my skills in Python, SQL, and Power BI. This is one of my projects as I work towards becoming a Data Analyst.
+
+## 📊 Power BI Dashboard
+
+I created a three-page Power BI dashboard to explore sales performance, product performance, and business insights.
+
+### 1. Sales Overview
+
+![Sales Overview](Screenshot%202026-10-09%20031620.png)
+
+### 2. Product & Customer Analysis
+
+![Product & Customer Analysis](Screenshot%202026-10-09%20031111.png)
+
+### 3. Business Insights
+
+![Business Insights](Screenshot%202026-10-09%20031143.png)
+
+## 🛠️ Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Power BI
+* DAX
+* CSV
