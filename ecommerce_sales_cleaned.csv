@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,City,Category,Product,Customer_Segment,Quantity,Unit_Price,Discount_Percent,Gross_Sales,Discount_Amount,Net_Sales,Cost,Profit,Payment_Method,Order_Status
+ORD0001,2025-11-27,Delhi,Beauty,Face Wash,Consumer,5,3972,5,19860,993.0,18867.0,11171.5,7695.5,Cash on Delivery,Delivered
+ORD0002,2025-07-11,Hyderabad,Sports,Running Shoes,Consumer,4,2791,25,11164,2791.0,8373.0,5085.19,3287.81,UPI,Delivered
+ORD0003,2025-02-28,Kolkata,Home & Kitchen,Air Fryer,Corporate,4,6896,0,27584,0.0,27584.0,17340.18,10243.82,Cash on Delivery,Delivered
+ORD0004,2025-05-15,Chennai,Clothing,Sneakers,Consumer,1,1567,10,1567,156.7,1410.3,1103.11,307.19,Credit Card,Delivered
+ORD0005,2025-12-06,Hyderabad,Electronics,Smartwatch,Home Office,2,74769,0,149538,0.0,149538.0,82890.54,66647.46,Cash on Delivery,Delivered
+ORD0006,2025-02-19,Ahmedabad,Sports,Dumbbells,Corporate,3,4414,25,13242,3310.5,9931.5,6510.96,3420.54,Credit Card,Delivered
+ORD0007,2025-09-27,Kolkata,Sports,Cricket Bat,Home Office,2,6945,15,13890,2083.5,11806.5,9488.47,2318.03,Cash on Delivery,Delivered
+ORD0008,2025-07-07,Hyderabad,Sports,Dumbbells,Consumer,5,737,5,3685,184.25,3500.75,2837.77,662.98,UPI,Cancelled
+ORD0009,2025-03-04,Delhi,Sports,Yoga Mat,Home Office,1,2968,15,2968,445.2,2522.8,1587.45,935.35,UPI,Delivered
+ORD0010,2025-02-10,Hyderabad,Clothing,T-Shirt,Home Office,5,4774,5,23870,1193.5,22676.5,14666.84,8009.66,UPI,Delivered
+ORD0011,2025-08-02,Delhi,Home & Kitchen,Mixer Grinder,Home Office,5,7715,10,38575,3857.5,34717.5,24637.29,10080.21,UPI,Delivered
+ORD0012,2025-09-12,Pune,Sports,Cricket Bat,Home Office,3,5981,0,17943,0.0,17943.0,13365.15,4577.85,Debit Card,Delivered
+ORD0013,2025-08-19,Bengaluru,Home & Kitchen,Air Fryer,Consumer,5,7535,10,37675,3767.5,33907.5,18936.86,14970.64,Cash on Delivery,Returned
+ORD0014,2025-01-13,Ahmedabad,Sports,Cricket Bat,Home Office,5,6774,10,33870,3387.0,30483.0,18436.93,12046.07,Debit Card,Delivered
+ORD0015,2025-05-14,Hyderabad,Beauty,Moisturizer,Corporate,5,2929,25,14645,3661.25,10983.75,7919.49,3064.26,Debit Card,Delivered
+ORD0016,2025-05-01,Hyderabad,Beauty,Face Wash,Consumer,1,3502,0,3502,0.0,3502.0,2141.62,1360.38,UPI,Delivered
+ORD0017,2025-06-21,Ahmedabad,Clothing,T-Shirt,Home Office,5,4713,0,23565,0.0,23565.0,13723.4,9841.6,Debit Card,Returned
+ORD0018,2025-10-22,Mumbai,Electronics,Smartwatch,Home Office,1,55184,5,55184,2759.2,52424.8,42456.79,9968.01,UPI,Cancelled
+ORD0019,2025-12-09,Chennai,Electronics,Smartwatch,Consumer,2,27536,5,55072,2753.6,52318.4,34581.42,17736.98,UPI,Delivered
+ORD0020,2025-11-20,Kolkata,Home & Kitchen,Mixer Grinder,Home Office,2,2207,25,4414,1103.5,3310.5,2037.13,1273.37,Debit Card,Delivered
+ORD0021,2025-07-06,Pune,Sports,Dumbbells,Consumer,3,597,0,1791,0.0,1791.0,1057.93,733.07,Debit Card,Delivered
+ORD0022,2025-07-18,Hyderabad,Beauty,Perfume,Consumer,3,1569,10,4707,470.7,4236.3,2728.77,1507.53,UPI,Delivered
+ORD0023,2025-10-25,Delhi,Electronics,Headphones,Home Office,1,8955,0,8955,0.0,8955.0,5430.75,3524.25,Cash on Delivery,Delivered
+ORD0024,2025-02-06,Ahmedabad,Electronics,Smartwatch,Home Office,1,2849,25,2849,712.25,2136.75,1692.84,443.91,UPI,Delivered
+ORD0025,2025-04-30,Bengaluru,Clothing,Jacket,Home Office,3,2555,15,7665,1149.75,6515.25,5143.88,1371.37,UPI,Delivered
+ORD0026,2025-12-04,Mumbai,Beauty,Moisturizer,Corporate,1,3383,10,3383,338.3,3044.7,2475.0,569.7,Debit Card,Cancelled
+ORD0027,2025-05-15,Delhi,Electronics,Smartwatch,Consumer,1,39267,25,39267,9816.75,29450.25,18785.08,10665.17,UPI,Delivered
+ORD0028,2025-10-10,Delhi,Clothing,Jacket,Corporate,5,4865,10,24325,2432.5,21892.5,17313.74,4578.76,Net Banking,Returned
+ORD0029,2025-10-31,Delhi,Electronics,Smartwatch,Home Office,1,40590,20,40590,8118.0,32472.0,19877.74,12594.26,UPI,Delivered
+ORD0030,2025-04-09,Hyderabad,Beauty,Hair Dryer,Consumer,5,2405,25,12025,3006.25,9018.75,7188.06,1830.69,Net Banking,Cancelled
+ORD0031,2025-07-10,Chennai,Electronics,Smartphone,Consumer,3,46036,15,138108,20716.2,117391.8,91602.3,25789.5,UPI,Delivered
+ORD0032,2025-10-07,Mumbai,Home & Kitchen,Mixer Grinder,Home Office,2,6354,10,12708,1270.8,11437.2,8050.83,3386.37,Credit Card,Delivered
+ORD0033,2025-06-25,Kolkata,Home & Kitchen,Air Fryer,Consumer,1,1284,0,1284,0.0,1284.0,949.74,334.26,Credit Card,Delivered
+ORD0034,2025-11-09,Hyderabad,Clothing,Jeans,Consumer,5,5316,15,26580,3987.0,22593.0,15545.39,7047.61,Cash on Delivery,Delivered
+ORD0035,2025-08-03,Kolkata,Beauty,Perfume,Corporate,4,1366,5,5464,273.2,5190.8,2986.66,2204.14,Debit Card,Delivered
+ORD0036,2025-12-08,Bengaluru,Home & Kitchen,Coffee Maker,Corporate,5,11953,25,59765,14941.25,44823.75,31803.57,13020.18,Debit Card,Delivered
+ORD0037,2025-01-05,Kolkata,Sports,Yoga Mat,Corporate,5,6807,15,34035,5105.25,28929.75,17597.15,11332.6,Net Banking,Delivered
+ORD0038,2025-05-27,Bengaluru,Clothing,Jacket,Home Office,2,4664,15,9328,1399.2,7928.8,5890.63,2038.17,Debit Card,Delivered
+ORD0039,2025-10-06,Kolkata,Home & Kitchen,Coffee Maker,Consumer,5,10061,5,50305,2515.25,47789.75,38705.64,9084.11,Cash on Delivery,Cancelled
+ORD0040,2025-03-30,Ahmedabad,Electronics,Smartphone,Consumer,2,17696,25,35392,8848.0,26544.0,15271.98,11272.02,Net Banking,Delivered
+ORD0041,2025-03-17,Mumbai,Sports,Cricket Bat,Home Office,5,5199,25,25995,6498.75,19496.25,14565.86,4930.39,Net Banking,Returned
+ORD0042,2025-04-04,Pune,Electronics,Laptop,Corporate,4,62189,20,248756,49751.2,199004.8,114511.82,84492.98,Cash on Delivery,Cancelled
+ORD0043,2025-10-16,Pune,Beauty,Hair Dryer,Corporate,2,2465,20,4930,986.0,3944.0,2673.39,1270.61,Net Banking,Delivered
+ORD0044,2025-04-06,Bengaluru,Home & Kitchen,Air Fryer,Consumer,4,3349,5,13396,669.8,12726.2,9149.91,3576.29,Net Banking,Delivered
+ORD0045,2025-06-27,Delhi,Home & Kitchen,Mixer Grinder,Consumer,3,9587,15,28761,4314.15,24446.85,17244.27,7202.58,UPI,Cancelled
+ORD0046,2025-11-26,Delhi,Clothing,Jacket,Consumer,3,5687,0,17061,0.0,17061.0,13811.25,3249.75,Net Banking,Delivered
+ORD0047,2025-03-31,Ahmedabad,Home & Kitchen,Mixer Grinder,Consumer,2,11238,10,22476,2247.6,20228.4,12963.77,7264.63,Credit Card,Delivered
+ORD0048,2025-11-10,Chennai,Home & Kitchen,Air Fryer,Corporate,3,917,0,2751,0.0,2751.0,1881.49,869.51,Net Banking,Delivered
+ORD0049,2025-06-13,Mumbai,Sports,Dumbbells,Consumer,1,7987,20,7987,1597.4,6389.6,5183.54,1206.06,UPI,Delivered
+ORD0050,2025-06-01,Kolkata,Electronics,Headphones,Corporate,2,18755,0,37510,0.0,37510.0,28493.78,9016.22,Net Banking,Delivered
+ORD0051,2025-09-30,Bengaluru,Electronics,Headphones,Corporate,1,71980,10,71980,7198.0,64782.0,37433.85,27348.15,Cash on Delivery,Delivered
+ORD0052,2025-08-21,Delhi,Sports,Cricket Bat,Consumer,1,7586,15,7586,1137.9,6448.1,3565.32,2882.78,Cash on Delivery,Returned
+ORD0053,2025-01-25,Hyderabad,Beauty,Perfume,Home Office,5,3777,20,18885,3777.0,15108.0,9505.45,5602.55,Net Banking,Delivered
+ORD0054,2025-07-05,Kolkata,Sports,Cricket Bat,Corporate,1,1567,20,1567,313.4,1253.6,1004.57,249.03,Credit Card,Cancelled
+ORD0055,2025-03-17,Bengaluru,Clothing,Jacket,Corporate,3,1032,10,3096,309.6,2786.4,1620.59,1165.81,Credit Card,Delivered
+ORD0056,2025-10-10,Mumbai,Electronics,Laptop,Corporate,5,45061,5,225305,11265.25,214039.75,140644.65,73395.1,Net Banking,Cancelled
+ORD0057,2025-05-25,Kolkata,Sports,Running Shoes,Home Office,5,2786,0,13930,0.0,13930.0,10972.62,2957.38,UPI,Cancelled
+ORD0058,2025-07-01,Kolkata,Beauty,Hair Dryer,Home Office,4,3341,10,13364,1336.4,12027.6,9138.93,2888.67,Credit Card,Delivered
+ORD0059,2025-05-06,Mumbai,Clothing,Jacket,Consumer,5,3822,20,19110,3822.0,15288.0,10080.98,5207.02,UPI,Delivered
+ORD0060,2025-11-08,Bengaluru,Clothing,T-Shirt,Corporate,1,4585,15,4585,687.75,3897.25,2444.13,1453.12,Net Banking,Returned
+ORD0061,2025-08-01,Delhi,Home & Kitchen,Bedsheet,Consumer,5,6816,20,34080,6816.0,27264.0,15314.69,11949.31,Cash on Delivery,Delivered
+ORD0062,2025-05-23,Kolkata,Clothing,Sneakers,Consumer,2,3812,0,7624,0.0,7624.0,4639.5,2984.5,Net Banking,Returned
+ORD0063,2025-08-12,Ahmedabad,Clothing,Sneakers,Corporate,1,770,10,770,77.0,693.0,433.72,259.28,Cash on Delivery,Delivered
+ORD0064,2025-07-05,Hyderabad,Sports,Dumbbells,Corporate,4,1545,15,6180,927.0,5253.0,3546.82,1706.18,Cash on Delivery,Delivered
+ORD0065,2025-07-20,Bengaluru,Sports,Yoga Mat,Consumer,3,5235,25,15705,3926.25,11778.75,6581.09,5197.66,Cash on Delivery,Cancelled
+ORD0066,2025-03-23,Delhi,Beauty,Hair Dryer,Consumer,5,1124,25,5620,1405.0,4215.0,2404.97,1810.03,UPI,Delivered
+ORD0067,2025-04-29,Ahmedabad,Home & Kitchen,Bedsheet,Consumer,2,9489,10,18978,1897.8,17080.2,9602.64,7477.56,UPI,Delivered
+ORD0068,2025-10-10,Bengaluru,Electronics,Headphones,Consumer,2,63092,0,126184,0.0,126184.0,102445.87,23738.13,UPI,Delivered
+ORD0069,2025-01-06,Hyderabad,Electronics,Headphones,Consumer,1,9502,20,9502,1900.4,7601.6,4296.59,3305.01,Net Banking,Cancelled
+ORD0070,2025-05-25,Chennai,Clothing,T-Shirt,Corporate,5,3936,5,19680,984.0,18696.0,14571.75,4124.25,UPI,Returned
+ORD0071,2025-10-15,Mumbai,Electronics,Headphones,Home Office,5,54732,15,273660,41049.0,232611.0,142295.95,90315.05,Credit Card,Delivered
+ORD0072,2025-02-23,Hyderabad,Home & Kitchen,Air Fryer,Consumer,3,10857,10,32571,3257.1,29313.9,18558.63,10755.27,Debit Card,Delivered
+ORD0073,2025-03-16,Delhi,Electronics,Smartwatch,Home Office,5,19998,20,99990,19998.0,79992.0,57804.42,22187.58,Cash on Delivery,Delivered
+ORD0074,2025-11-04,Bengaluru,Home & Kitchen,Air Fryer,Corporate,3,8517,10,25551,2555.1,22995.9,18261.57,4734.33,UPI,Delivered
+ORD0075,2025-07-03,Bengaluru,Home & Kitchen,Coffee Maker,Corporate,5,10820,20,54100,10820.0,43280.0,25522.64,17757.36,UPI,Delivered
+ORD0076,2025-07-24,Pune,Beauty,Hair Dryer,Home Office,2,4364,25,8728,2182.0,6546.0,4470.96,2075.04,Debit Card,Delivered
+ORD0077,2025-12-26,Hyderabad,Clothing,Jacket,Consumer,3,1060,25,3180,795.0,2385.0,1761.01,623.99,Debit Card,Delivered
+ORD0078,2025-10-04,Chennai,Clothing,T-Shirt,Corporate,2,971,20,1942,388.4,1553.6,935.14,618.46,Cash on Delivery,Delivered
+ORD0079,2025-12-12,Pune,Sports,Running Shoes,Corporate,1,5924,20,5924,1184.8,4739.2,3196.17,1543.03,UPI,Returned
+ORD0080,2025-08-02,Kolkata,Home & Kitchen,Mixer Grinder,Corporate,2,7740,0,15480,0.0,15480.0,10525.0,4955.0,Debit Card,Cancelled
+ORD0081,2025-06-29,Kolkata,Electronics,Smartphone,Home Office,1,65091,0,65091,0.0,65091.0,46296.96,18794.04,Credit Card,Delivered
+ORD0082,2025-04-21,Kolkata,Home & Kitchen,Mixer Grinder,Corporate,3,7309,10,21927,2192.7,19734.3,14654.78,5079.52,Debit Card,Delivered
+ORD0083,2025-04-29,Chennai,Sports,Running Shoes,Corporate,3,7349,10,22047,2204.7,19842.3,12212.28,7630.02,UPI,Delivered
+ORD0084,2025-03-09,Mumbai,Home & Kitchen,Air Fryer,Home Office,1,5132,20,5132,1026.4,4105.6,2916.08,1189.52,UPI,Cancelled
+ORD0085,2025-02-11,Bengaluru,Home & Kitchen,Coffee Maker,Consumer,2,6871,0,13742,0.0,13742.0,9652.43,4089.57,Cash on Delivery,Delivered
+ORD0086,2025-10-16,Chennai,Home & Kitchen,Coffee Maker,Corporate,3,10667,20,32001,6400.2,25600.8,16363.88,9236.92,Net Banking,Returned
+ORD0087,2025-02-09,Chennai,Beauty,Moisturizer,Home Office,1,3717,10,3717,371.7,3345.3,2313.67,1031.63,Credit Card,Delivered
+ORD0088,2025-03-03,Bengaluru,Beauty,Perfume,Corporate,1,203,25,203,50.75,152.25,90.76,61.49,Debit Card,Delivered
+ORD0089,2025-01-20,Bengaluru,Clothing,T-Shirt,Home Office,4,5829,10,23316,2331.6,20984.4,12671.78,8312.62,UPI,Delivered
+ORD0090,2025-06-10,Pune,Sports,Running Shoes,Corporate,4,4634,20,18536,3707.2,14828.8,10288.21,4540.59,Credit Card,Cancelled
+ORD0091,2025-11-15,Chennai,Home & Kitchen,Bedsheet,Consumer,5,7541,5,37705,1885.25,35819.75,20550.66,15269.09,UPI,Delivered
+ORD0092,2025-03-10,Pune,Clothing,Jacket,Corporate,3,2338,25,7014,1753.5,5260.5,3044.82,2215.68,Net Banking,Delivered
+ORD0093,2025-03-01,Ahmedabad,Electronics,Smartphone,Consumer,3,74498,0,223494,0.0,223494.0,167643.42,55850.58,Debit Card,Delivered
+ORD0094,2025-12-05,Delhi,Sports,Running Shoes,Corporate,3,6347,20,19041,3808.2,15232.8,9144.7,6088.1,Credit Card,Returned
+ORD0095,2025-10-22,Ahmedabad,Beauty,Face Wash,Corporate,1,1265,5,1265,63.25,1201.75,925.93,275.82,Debit Card,Cancelled
+ORD0096,2025-11-05,Ahmedabad,Electronics,Headphones,Home Office,1,19374,0,19374,0.0,19374.0,12514.59,6859.41,Debit Card,Returned
+ORD0097,2025-06-06,Bengaluru,Clothing,Jacket,Corporate,2,1502,15,3004,450.6,2553.4,1951.79,601.61,Debit Card,Delivered
+ORD0098,2025-10-16,Pune,Sports,Running Shoes,Corporate,5,1520,20,7600,1520.0,6080.0,4622.1,1457.9,Credit Card,Delivered
+ORD0099,2025-06-08,Kolkata,Sports,Cricket Bat,Consumer,1,2265,25,2265,566.25,1698.75,1310.99,387.76,Cash on Delivery,Cancelled
+ORD0100,2025-04-05,Delhi,Sports,Yoga Mat,Home Office,4,6590,15,26360,3954.0,22406.0,16992.89,5413.11,Cash on Delivery,Delivered
+ORD0101,2025-12-26,Pune,Home & Kitchen,Coffee Maker,Corporate,4,2616,10,10464,1046.4,9417.6,7618.37,1799.23,Credit Card,Returned
+ORD0102,2025-04-21,Ahmedabad,Clothing,Sneakers,Home Office,5,2565,25,12825,3206.25,9618.75,5552.08,4066.67,Cash on Delivery,Delivered
+ORD0103,2025-10-14,Mumbai,Beauty,Hair Dryer,Consumer,5,3135,5,15675,783.75,14891.25,11291.09,3600.16,Debit Card,Cancelled
+ORD0104,2025-12-12,Pune,Electronics,Smartphone,Corporate,1,48682,25,48682,12170.5,36511.5,22406.91,14104.59,UPI,Delivered
+ORD0105,2025-11-09,Chennai,Clothing,Sneakers,Corporate,1,3008,20,3008,601.6,2406.4,1541.31,865.09,UPI,Delivered
+ORD0106,2025-07-29,Delhi,Beauty,Face Wash,Corporate,3,1825,25,5475,1368.75,4106.25,2642.43,1463.82,Debit Card,Delivered
+ORD0107,2025-01-25,Kolkata,Clothing,Jacket,Corporate,3,5271,10,15813,1581.3,14231.7,8781.26,5450.44,Net Banking,Delivered
+ORD0108,2025-02-18,Kolkata,Electronics,Laptop,Consumer,2,5557,15,11114,1667.1,9446.9,5738.27,3708.63,Cash on Delivery,Delivered
+ORD0109,2025-11-23,Bengaluru,Electronics,Smartwatch,Consumer,4,53653,20,214612,42922.4,171689.6,102980.28,68709.32,Debit Card,Delivered
+ORD0110,2025-10-13,Ahmedabad,Clothing,Jeans,Home Office,5,2379,0,11895,0.0,11895.0,6659.63,5235.37,Credit Card,Delivered
+ORD0111,2025-04-24,Pune,Clothing,Jacket,Corporate,2,3357,25,6714,1678.5,5035.5,3368.78,1666.72,Debit Card,Delivered
+ORD0112,2025-06-11,Hyderabad,Electronics,Smartwatch,Consumer,3,13142,5,39426,1971.3,37454.7,23338.06,14116.64,Cash on Delivery,Delivered
+ORD0113,2025-09-12,Chennai,Sports,Dumbbells,Corporate,1,1232,10,1232,123.2,1108.8,679.02,429.78,UPI,Cancelled
+ORD0114,2025-03-19,Ahmedabad,Clothing,Jacket,Corporate,2,3975,10,7950,795.0,7155.0,4405.02,2749.98,Debit Card,Delivered
+ORD0115,2025-01-07,Mumbai,Beauty,Face Wash,Home Office,5,4477,25,22385,5596.25,16788.75,10562.64,6226.11,UPI,Cancelled
+ORD0116,2025-03-23,Mumbai,Clothing,Sneakers,Consumer,3,3752,15,11256,1688.4,9567.6,6923.02,2644.58,Net Banking,Delivered
+ORD0117,2025-10-20,Pune,Clothing,Jeans,Corporate,3,1709,15,5127,769.05,4357.95,3374.26,983.69,UPI,Delivered
+ORD0118,2025-10-07,Bengaluru,Sports,Dumbbells,Corporate,4,6386,5,25544,1277.2,24266.8,18349.91,5916.89,Debit Card,Returned
+ORD0119,2025-08-25,Bengaluru,Electronics,Smartphone,Home Office,1,36754,25,36754,9188.5,27565.5,20681.17,6884.33,UPI,Returned
+ORD0120,2025-04-08,Kolkata,Clothing,Jeans,Consumer,2,2351,5,4702,235.1,4466.9,3542.94,923.96,Debit Card,Returned
+ORD0121,2025-01-17,Chennai,Home & Kitchen,Bedsheet,Consumer,4,10781,0,43124,0.0,43124.0,26909.16,16214.84,Credit Card,Delivered
+ORD0122,2025-05-14,Delhi,Sports,Running Shoes,Corporate,5,741,10,3705,370.5,3334.5,2644.28,690.22,Cash on Delivery,Cancelled
+ORD0123,2025-07-09,Mumbai,Electronics,Laptop,Corporate,2,74982,20,149964,29992.8,119971.2,93132.31,26838.89,Credit Card,Delivered
+ORD0124,2025-01-29,Chennai,Clothing,T-Shirt,Home Office,5,3166,15,15830,2374.5,13455.5,10201.51,3253.99,Debit Card,Delivered
+ORD0125,2025-04-21,Ahmedabad,Electronics,Headphones,Corporate,3,11846,25,35538,8884.5,26653.5,18085.3,8568.2,Net Banking,Delivered
+ORD0126,2025-12-03,Pune,Home & Kitchen,Bedsheet,Home Office,4,9442,10,37768,3776.8,33991.2,24156.56,9834.64,Net Banking,Delivered
+ORD0127,2025-10-23,Bengaluru,Home & Kitchen,Mixer Grinder,Consumer,2,653,20,1306,261.2,1044.8,671.79,373.01,UPI,Cancelled
+ORD0128,2025-04-18,Hyderabad,Clothing,Sneakers,Home Office,3,4420,10,13260,1326.0,11934.0,6814.27,5119.73,Credit Card,Delivered
+ORD0129,2025-01-17,Mumbai,Clothing,T-Shirt,Consumer,3,3415,10,10245,1024.5,9220.5,7466.45,1754.05,UPI,Delivered
+ORD0130,2025-07-17,Ahmedabad,Clothing,Sneakers,Consumer,5,4362,0,21810,0.0,21810.0,15874.88,5935.12,Credit Card,Delivered
+ORD0131,2025-02-16,Ahmedabad,Beauty,Perfume,Corporate,2,3842,0,7684,0.0,7684.0,6184.82,1499.18,UPI,Delivered
+ORD0132,2025-11-24,Mumbai,Sports,Running Shoes,Home Office,5,4745,0,23725,0.0,23725.0,14282.49,9442.51,Net Banking,Delivered
+ORD0133,2025-09-30,Pune,Beauty,Perfume,Home Office,2,3242,10,6484,648.4,5835.6,4515.63,1319.97,Debit Card,Delivered
+ORD0134,2025-07-02,Kolkata,Beauty,Face Wash,Home Office,5,330,10,1650,165.0,1485.0,953.02,531.98,UPI,Delivered
+ORD0135,2025-04-18,Pune,Sports,Running Shoes,Corporate,5,1320,5,6600,330.0,6270.0,4329.09,1940.91,Debit Card,Delivered
+ORD0136,2025-04-06,Delhi,Home & Kitchen,Air Fryer,Home Office,5,4846,20,24230,4846.0,19384.0,12670.74,6713.26,Cash on Delivery,Cancelled
+ORD0137,2025-08-24,Kolkata,Electronics,Laptop,Consumer,4,74772,0,299088,0.0,299088.0,211396.73,87691.27,Credit Card,Returned
+ORD0138,2025-06-26,Delhi,Electronics,Headphones,Consumer,4,4230,20,16920,3384.0,13536.0,10121.05,3414.95,Credit Card,Delivered
+ORD0139,2025-03-14,Kolkata,Home & Kitchen,Air Fryer,Consumer,1,4888,0,4888,0.0,4888.0,3889.83,998.17,UPI,Delivered
+ORD0140,2025-07-17,Kolkata,Beauty,Perfume,Home Office,5,2241,20,11205,2241.0,8964.0,5557.01,3406.99,Debit Card,Returned
+ORD0141,2025-05-28,Chennai,Sports,Running Shoes,Home Office,4,7720,15,30880,4632.0,26248.0,16078.25,10169.75,Net Banking,Delivered
+ORD0142,2025-08-29,Mumbai,Sports,Running Shoes,Home Office,3,3801,5,11403,570.15,10832.85,7081.48,3751.37,Net Banking,Cancelled
+ORD0143,2025-06-27,Mumbai,Electronics,Laptop,Corporate,2,63283,0,126566,0.0,126566.0,75553.79,51012.21,UPI,Delivered
+ORD0144,2025-12-23,Mumbai,Clothing,Jeans,Home Office,5,5176,0,25880,0.0,25880.0,18377.23,7502.77,UPI,Delivered
+ORD0145,2025-01-09,Kolkata,Clothing,Sneakers,Consumer,1,1518,5,1518,75.9,1442.1,1128.84,313.26,Net Banking,Delivered
+ORD0146,2025-06-25,Mumbai,Clothing,Jeans,Corporate,4,1283,25,5132,1283.0,3849.0,2386.89,1462.11,Net Banking,Delivered
+ORD0147,2025-10-28,Ahmedabad,Sports,Dumbbells,Corporate,5,4436,0,22180,0.0,22180.0,12567.4,9612.6,Net Banking,Delivered
+ORD0148,2025-10-16,Pune,Home & Kitchen,Coffee Maker,Home Office,2,2091,10,4182,418.2,3763.8,2948.61,815.19,Cash on Delivery,Delivered
+ORD0149,2025-06-30,Mumbai,Clothing,Jacket,Home Office,5,2004,10,10020,1002.0,9018.0,5541.08,3476.92,Debit Card,Returned
+ORD0150,2025-01-23,Mumbai,Beauty,Perfume,Corporate,2,756,0,1512,0.0,1512.0,843.54,668.46,Debit Card,Cancelled
+ORD0151,2025-08-12,Chennai,Home & Kitchen,Bedsheet,Corporate,5,9280,15,46400,6960.0,39440.0,21760.0,17680.0,Debit Card,Delivered
+ORD0152,2025-06-12,Ahmedabad,Electronics,Laptop,Corporate,2,32766,15,65532,9829.8,55702.2,30772.66,24929.54,Debit Card,Returned
+ORD0153,2025-08-10,Chennai,Home & Kitchen,Mixer Grinder,Consumer,2,9939,15,19878,2981.7,16896.3,12178.99,4717.31,Cash on Delivery,Delivered
+ORD0154,2025-07-12,Pune,Beauty,Moisturizer,Corporate,4,1240,25,4960,1240.0,3720.0,2757.69,962.31,Debit Card,Delivered
+ORD0155,2025-08-15,Hyderabad,Home & Kitchen,Air Fryer,Consumer,5,5299,15,26495,3974.25,22520.75,16944.75,5576.0,Cash on Delivery,Cancelled
+ORD0156,2025-01-26,Mumbai,Clothing,T-Shirt,Corporate,3,4299,10,12897,1289.7,11607.3,8525.44,3081.86,Credit Card,Cancelled
+ORD0157,2025-10-15,Mumbai,Beauty,Face Wash,Home Office,5,238,20,1190,238.0,952.0,600.29,351.71,Cash on Delivery,Returned
+ORD0158,2025-04-02,Chennai,Clothing,Jacket,Consumer,1,4078,25,4078,1019.5,3058.5,1806.92,1251.58,Net Banking,Delivered
+ORD0159,2025-09-14,Mumbai,Beauty,Moisturizer,Corporate,1,1882,20,1882,376.4,1505.6,1228.08,277.52,Credit Card,Cancelled
+ORD0160,2025-07-27,Delhi,Clothing,Sneakers,Corporate,1,3356,15,3356,503.4,2852.6,2002.36,850.24,UPI,Delivered
+ORD0161,2025-07-18,Delhi,Sports,Yoga Mat,Consumer,3,919,25,2757,689.25,2067.75,1433.36,634.39,Cash on Delivery,Cancelled
+ORD0162,2025-08-10,Pune,Beauty,Moisturizer,Home Office,4,3146,25,12584,3146.0,9438.0,6368.44,3069.56,UPI,Returned
+ORD0163,2025-11-15,Pune,Beauty,Hair Dryer,Corporate,1,1963,25,1963,490.75,1472.25,899.39,572.86,Net Banking,Cancelled
+ORD0164,2025-10-04,Mumbai,Home & Kitchen,Bedsheet,Corporate,3,1083,20,3249,649.8,2599.2,1534.53,1064.67,Credit Card,Returned
+ORD0165,2025-09-24,Pune,Clothing,T-Shirt,Home Office,1,1028,15,1028,154.2,873.8,664.58,209.22,UPI,Delivered
+ORD0166,2025-08-30,Hyderabad,Beauty,Face Wash,Consumer,4,3317,15,13268,1990.2,11277.8,7256.41,4021.39,Credit Card,Delivered
+ORD0167,2025-04-13,Mumbai,Electronics,Laptop,Corporate,1,45804,20,45804,9160.8,36643.2,20931.19,15712.01,Credit Card,Returned
+ORD0168,2025-11-13,Delhi,Home & Kitchen,Air Fryer,Home Office,2,3541,15,7082,1062.3,6019.7,3480.79,2538.91,UPI,Returned
+ORD0169,2025-11-24,Mumbai,Electronics,Headphones,Corporate,1,26815,5,26815,1340.75,25474.25,20443.2,5031.05,Cash on Delivery,Returned
+ORD0170,2025-11-10,Pune,Clothing,Jacket,Corporate,3,2354,15,7062,1059.3,6002.7,4197.75,1804.95,Debit Card,Delivered
+ORD0171,2025-03-28,Hyderabad,Beauty,Moisturizer,Consumer,3,4309,5,12927,646.35,12280.65,6954.47,5326.18,UPI,Cancelled
+ORD0172,2025-04-29,Chennai,Clothing,Jeans,Home Office,4,3938,20,15752,3150.4,12601.6,7550.52,5051.08,Debit Card,Delivered
+ORD0173,2025-11-08,Bengaluru,Home & Kitchen,Air Fryer,Home Office,3,7557,25,22671,5667.75,17003.25,10877.4,6125.85,Debit Card,Delivered
+ORD0174,2025-08-01,Kolkata,Home & Kitchen,Coffee Maker,Corporate,1,6736,15,6736,1010.4,5725.6,3418.37,2307.23,Net Banking,Delivered
+ORD0175,2025-06-01,Mumbai,Sports,Dumbbells,Consumer,4,3179,25,12716,3179.0,9537.0,7788.54,1748.46,Debit Card,Delivered
+ORD0176,2025-10-22,Mumbai,Beauty,Moisturizer,Home Office,2,4011,5,8022,401.1,7620.9,5823.12,1797.78,Debit Card,Delivered
+ORD0177,2025-08-13,Delhi,Sports,Dumbbells,Corporate,5,4114,5,20570,1028.5,19541.5,14080.07,5461.43,Cash on Delivery,Returned
+ORD0178,2025-02-10,Pune,Home & Kitchen,Bedsheet,Corporate,2,1025,20,2050,410.0,1640.0,1280.32,359.68,Cash on Delivery,Cancelled
+ORD0179,2025-01-28,Mumbai,Electronics,Smartwatch,Home Office,1,70150,10,70150,7015.0,63135.0,40045.27,23089.73,Net Banking,Cancelled
+ORD0180,2025-10-14,Delhi,Electronics,Smartwatch,Corporate,4,62167,20,248668,49733.6,198934.4,122145.23,76789.17,Debit Card,Returned
+ORD0181,2025-05-13,Hyderabad,Home & Kitchen,Mixer Grinder,Home Office,4,6397,25,25588,6397.0,19191.0,11310.3,7880.7,Cash on Delivery,Delivered
+ORD0182,2025-06-24,Chennai,Electronics,Smartwatch,Consumer,4,72435,0,289740,0.0,289740.0,206728.13,83011.87,UPI,Delivered
+ORD0183,2025-11-30,Mumbai,Beauty,Hair Dryer,Consumer,4,2403,10,9612,961.2,8650.8,5019.35,3631.45,Net Banking,Delivered
+ORD0184,2025-02-28,Chennai,Home & Kitchen,Mixer Grinder,Consumer,3,6762,25,20286,5071.5,15214.5,9107.44,6107.06,UPI,Delivered
+ORD0185,2025-10-26,Pune,Beauty,Moisturizer,Corporate,5,475,5,2375,118.75,2256.25,1828.88,427.37,UPI,Delivered
+ORD0186,2025-10-21,Hyderabad,Sports,Yoga Mat,Home Office,3,7606,5,22818,1140.9,21677.1,13927.89,7749.21,Net Banking,Delivered
+ORD0187,2025-09-21,Chennai,Home & Kitchen,Air Fryer,Corporate,2,1391,20,2782,556.4,2225.6,1280.51,945.09,Net Banking,Returned
+ORD0188,2025-04-24,Mumbai,Home & Kitchen,Mixer Grinder,Consumer,2,5738,10,11476,1147.6,10328.4,7585.97,2742.43,Credit Card,Delivered
+ORD0189,2025-01-01,Delhi,Beauty,Perfume,Home Office,1,2063,25,2063,515.75,1547.25,1234.77,312.48,Net Banking,Cancelled
+ORD0190,2025-03-04,Bengaluru,Electronics,Smartphone,Consumer,4,8925,5,35700,1785.0,33915.0,27804.93,6110.07,UPI,Delivered
+ORD0191,2025-04-08,Chennai,Sports,Yoga Mat,Corporate,5,4228,0,21140,0.0,21140.0,12249.78,8890.22,Cash on Delivery,Returned
+ORD0192,2025-12-05,Chennai,Clothing,Jeans,Home Office,2,3853,20,7706,1541.2,6164.8,4718.6,1446.2,UPI,Returned
+ORD0193,2025-05-23,Chennai,Electronics,Laptop,Home Office,1,4526,15,4526,678.9,3847.1,2749.35,1097.75,Cash on Delivery,Cancelled
+ORD0194,2025-09-24,Delhi,Electronics,Laptop,Corporate,1,9727,10,9727,972.7,8754.3,5352.05,3402.25,Credit Card,Delivered
+ORD0195,2025-04-27,Chennai,Electronics,Headphones,Corporate,2,23412,5,46824,2341.2,44482.8,30220.68,14262.12,UPI,Delivered
+ORD0196,2025-02-12,Ahmedabad,Sports,Running Shoes,Home Office,5,4799,15,23995,3599.25,20395.75,13842.75,6553.0,Credit Card,Delivered
+ORD0197,2025-10-30,Chennai,Clothing,Jacket,Home Office,5,1304,10,6520,652.0,5868.0,3239.38,2628.62,UPI,Delivered
+ORD0198,2025-10-02,Mumbai,Clothing,Jacket,Corporate,4,4154,20,16616,3323.2,13292.8,9030.86,4261.94,Net Banking,Delivered
+ORD0199,2025-10-18,Ahmedabad,Sports,Dumbbells,Corporate,3,2941,20,8823,1764.6,7058.4,5412.5,1645.9,Cash on Delivery,Returned
+ORD0200,2025-09-20,Kolkata,Home & Kitchen,Air Fryer,Corporate,4,11328,5,45312,2265.6,43046.4,25092.14,17954.26,Net Banking,Delivered
+ORD0201,2025-09-20,Pune,Home & Kitchen,Mixer Grinder,Consumer,4,6941,15,27764,4164.6,23599.4,16060.74,7538.66,Cash on Delivery,Cancelled
+ORD0202,2025-08-02,Hyderabad,Home & Kitchen,Coffee Maker,Consumer,5,11630,25,58150,14537.5,43612.5,33633.13,9979.37,Credit Card,Delivered
+ORD0203,2025-06-01,Ahmedabad,Home & Kitchen,Bedsheet,Consumer,1,11117,20,11117,2223.4,8893.6,7066.77,1826.83,Credit Card,Delivered
+ORD0204,2025-07-21,Bengaluru,Sports,Dumbbells,Corporate,3,4545,15,13635,2045.25,11589.75,7700.34,3889.41,Debit Card,Delivered
+ORD0205,2025-04-18,Mumbai,Home & Kitchen,Mixer Grinder,Consumer,2,10154,20,20308,4061.6,16246.4,9672.52,6573.88,Net Banking,Delivered
+ORD0206,2025-03-19,Chennai,Sports,Cricket Bat,Consumer,4,2866,10,11464,1146.4,10317.6,6320.83,3996.77,UPI,Returned
+ORD0207,2025-02-11,Pune,Electronics,Smartphone,Consumer,3,18527,20,55581,11116.2,44464.8,32569.45,11895.35,UPI,Delivered
+ORD0208,2025-08-06,Pune,Clothing,Jacket,Corporate,4,3651,25,14604,3651.0,10953.0,6332.03,4620.97,Net Banking,Returned
+ORD0209,2025-12-19,Delhi,Beauty,Hair Dryer,Corporate,4,4648,10,18592,1859.2,16732.8,11015.55,5717.25,UPI,Delivered
+ORD0210,2025-01-27,Ahmedabad,Sports,Yoga Mat,Consumer,2,7371,15,14742,2211.3,12530.7,9599.72,2930.98,Credit Card,Delivered
+ORD0211,2025-08-03,Hyderabad,Beauty,Face Wash,Corporate,3,4353,25,13059,3264.75,9794.25,7157.26,2636.99,UPI,Delivered
+ORD0212,2025-11-29,Chennai,Home & Kitchen,Coffee Maker,Home Office,4,4711,5,18844,942.2,17901.8,14474.66,3427.14,UPI,Delivered
+ORD0213,2025-01-03,Ahmedabad,Electronics,Headphones,Corporate,1,69419,15,69419,10412.85,59006.15,48086.11,10920.04,Net Banking,Delivered
+ORD0214,2025-12-30,Bengaluru,Clothing,Sneakers,Consumer,5,5025,15,25125,3768.75,21356.25,17091.2,4265.05,Net Banking,Delivered
+ORD0215,2025-02-07,Hyderabad,Home & Kitchen,Bedsheet,Corporate,1,10458,20,10458,2091.6,8366.4,6467.55,1898.85,Net Banking,Returned
+ORD0216,2025-09-06,Bengaluru,Beauty,Face Wash,Consumer,1,1801,20,1801,360.2,1440.8,927.16,513.64,Debit Card,Delivered
+ORD0217,2025-05-23,Pune,Beauty,Moisturizer,Consumer,4,1889,5,7556,377.8,7178.2,4947.46,2230.74,Cash on Delivery,Delivered
+ORD0218,2025-10-18,Pune,Beauty,Perfume,Corporate,2,760,25,1520,380.0,1140.0,878.61,261.39,Debit Card,Delivered
+ORD0219,2025-07-25,Hyderabad,Electronics,Headphones,Corporate,2,25026,10,50052,5005.2,45046.8,33228.18,11818.62,Credit Card,Delivered
+ORD0220,2025-08-26,Chennai,Home & Kitchen,Mixer Grinder,Home Office,1,4759,25,4759,1189.75,3569.25,2828.74,740.51,Debit Card,Delivered
+ORD0221,2025-01-25,Kolkata,Electronics,Laptop,Consumer,2,49044,20,98088,19617.6,78470.4,43705.6,34764.8,Cash on Delivery,Delivered
+ORD0222,2025-06-09,Chennai,Beauty,Face Wash,Home Office,4,742,5,2968,148.4,2819.6,1762.23,1057.37,Credit Card,Delivered
+ORD0223,2025-05-10,Pune,Clothing,Jacket,Home Office,3,5936,5,17808,890.4,16917.6,11404.93,5512.67,Credit Card,Cancelled
+ORD0224,2025-06-05,Pune,Electronics,Headphones,Corporate,1,60274,10,60274,6027.4,54246.6,30928.7,23317.9,Debit Card,Delivered
+ORD0225,2025-11-04,Chennai,Electronics,Smartwatch,Corporate,1,47651,20,47651,9530.2,38120.8,27298.66,10822.14,Credit Card,Cancelled
+ORD0226,2025-04-02,Pune,Beauty,Perfume,Corporate,5,967,10,4835,483.5,4351.5,2825.41,1526.09,Net Banking,Cancelled
+ORD0227,2025-09-03,Pune,Sports,Running Shoes,Home Office,2,5702,25,11404,2851.0,8553.0,5815.72,2737.28,Net Banking,Delivered
+ORD0228,2025-08-30,Chennai,Home & Kitchen,Bedsheet,Consumer,5,6042,0,30210,0.0,30210.0,19254.2,10955.8,Net Banking,Delivered
+ORD0229,2025-07-07,Delhi,Sports,Yoga Mat,Home Office,4,1071,0,4284,0.0,4284.0,2483.13,1800.87,Net Banking,Delivered
+ORD0230,2025-09-09,Mumbai,Sports,Running Shoes,Home Office,4,2957,5,11828,591.4,11236.6,7165.16,4071.44,UPI,Cancelled
+ORD0231,2025-04-23,Bengaluru,Beauty,Face Wash,Consumer,2,3693,20,7386,1477.2,5908.8,4775.37,1133.43,UPI,Delivered
+ORD0232,2025-11-10,Ahmedabad,Electronics,Smartphone,Consumer,5,50523,0,252615,0.0,252615.0,196290.78,56324.22,Cash on Delivery,Delivered
+ORD0233,2025-12-10,Chennai,Home & Kitchen,Bedsheet,Home Office,1,7369,0,7369,0.0,7369.0,4185.56,3183.44,Net Banking,Delivered
+ORD0234,2025-04-19,Delhi,Electronics,Headphones,Home Office,5,42791,0,213955,0.0,213955.0,160782.04,53172.96,UPI,Cancelled
+ORD0235,2025-07-30,Kolkata,Beauty,Face Wash,Home Office,2,4527,25,9054,2263.5,6790.5,5552.79,1237.71,Cash on Delivery,Delivered
+ORD0236,2025-01-08,Ahmedabad,Clothing,Jeans,Corporate,5,5680,25,28400,7100.0,21300.0,16491.4,4808.6,Cash on Delivery,Delivered
+ORD0237,2025-11-20,Pune,Electronics,Laptop,Consumer,2,52961,10,105922,10592.2,95329.8,55555.76,39774.04,UPI,Delivered
+ORD0238,2025-05-20,Delhi,Home & Kitchen,Coffee Maker,Corporate,2,4785,5,9570,478.5,9091.5,6960.93,2130.57,Net Banking,Cancelled
+ORD0239,2025-07-02,Bengaluru,Beauty,Moisturizer,Consumer,2,722,0,1444,0.0,1444.0,1156.04,287.96,Debit Card,Returned
+ORD0240,2025-06-21,Ahmedabad,Beauty,Moisturizer,Home Office,4,3897,25,15588,3897.0,11691.0,9360.35,2330.65,UPI,Cancelled
+ORD0241,2025-01-18,Chennai,Clothing,Jeans,Consumer,1,1867,15,1867,280.05,1586.95,1266.56,320.39,Net Banking,Returned
+ORD0242,2025-10-12,Chennai,Beauty,Hair Dryer,Corporate,3,4551,0,13653,0.0,13653.0,10964.65,2688.35,Credit Card,Cancelled
+ORD0243,2025-03-29,Hyderabad,Sports,Cricket Bat,Consumer,3,6979,5,20937,1046.85,19890.15,12086.21,7803.94,Debit Card,Cancelled
+ORD0244,2025-01-30,Kolkata,Sports,Yoga Mat,Home Office,3,3143,25,9429,2357.25,7071.75,4968.3,2103.45,UPI,Cancelled
+ORD0245,2025-04-14,Delhi,Home & Kitchen,Air Fryer,Corporate,1,4227,15,4227,634.05,3592.95,2680.86,912.09,Credit Card,Delivered
+ORD0246,2025-04-22,Chennai,Electronics,Smartphone,Consumer,3,34996,10,104988,10498.8,94489.2,69518.42,24970.78,Cash on Delivery,Delivered
+ORD0247,2025-05-01,Mumbai,Home & Kitchen,Air Fryer,Consumer,4,9005,0,36020,0.0,36020.0,19918.29,16101.71,UPI,Delivered
+ORD0248,2025-04-21,Chennai,Clothing,Sneakers,Corporate,3,2078,20,6234,1246.8,4987.2,2910.89,2076.31,Debit Card,Delivered
+ORD0249,2025-09-17,Hyderabad,Sports,Running Shoes,Consumer,5,5988,5,29940,1497.0,28443.0,20401.85,8041.15,Net Banking,Delivered
+ORD0250,2025-08-17,Ahmedabad,Electronics,Headphones,Corporate,5,68899,25,344495,86123.75,258371.25,192569.08,65802.17,Cash on Delivery,Delivered
+ORD0251,2025-11-01,Kolkata,Home & Kitchen,Air Fryer,Corporate,3,1093,15,3279,491.85,2787.15,2153.81,633.34,Debit Card,Returned
+ORD0252,2025-12-22,Ahmedabad,Sports,Dumbbells,Home Office,2,941,25,1882,470.5,1411.5,856.3,555.2,Net Banking,Delivered
+ORD0253,2025-09-08,Kolkata,Electronics,Headphones,Home Office,4,34737,0,138948,0.0,138948.0,98864.4,40083.6,UPI,Delivered
+ORD0254,2025-07-17,Kolkata,Sports,Yoga Mat,Corporate,4,2848,15,11392,1708.8,9683.2,7379.82,2303.38,Cash on Delivery,Delivered
+ORD0255,2025-05-18,Mumbai,Electronics,Smartphone,Home Office,5,4271,0,21355,0.0,21355.0,15006.13,6348.87,Net Banking,Delivered
+ORD0256,2025-02-20,Chennai,Electronics,Smartphone,Home Office,5,7197,25,35985,8996.25,26988.75,18619.03,8369.72,Credit Card,Delivered
+ORD0257,2025-03-15,Ahmedabad,Home & Kitchen,Coffee Maker,Consumer,5,8499,15,42495,6374.25,36120.75,27694.27,8426.48,Cash on Delivery,Returned
+ORD0258,2025-11-09,Hyderabad,Home & Kitchen,Bedsheet,Corporate,2,7962,10,15924,1592.4,14331.6,9572.79,4758.81,UPI,Returned
+ORD0259,2025-02-05,Chennai,Beauty,Hair Dryer,Corporate,1,4483,15,4483,672.45,3810.55,2771.71,1038.84,Cash on Delivery,Delivered
+ORD0260,2025-12-02,Ahmedabad,Beauty,Perfume,Corporate,4,362,25,1448,362.0,1086.0,670.47,415.53,Credit Card,Delivered
+ORD0261,2025-04-17,Hyderabad,Sports,Running Shoes,Corporate,1,6075,20,6075,1215.0,4860.0,3792.42,1067.58,Credit Card,Delivered
+ORD0262,2025-03-11,Kolkata,Electronics,Laptop,Home Office,2,48099,0,96198,0.0,96198.0,72956.72,23241.28,Credit Card,Delivered
+ORD0263,2025-05-22,Bengaluru,Beauty,Hair Dryer,Consumer,5,3926,5,19630,981.5,18648.5,14425.07,4223.43,Credit Card,Cancelled
+ORD0264,2025-12-11,Chennai,Home & Kitchen,Mixer Grinder,Consumer,2,4170,20,8340,1668.0,6672.0,4688.01,1983.99,Net Banking,Delivered
+ORD0265,2025-03-27,Kolkata,Electronics,Smartphone,Consumer,4,30100,5,120400,6020.0,114380.0,65652.62,48727.38,UPI,Cancelled
+ORD0266,2025-03-27,Bengaluru,Sports,Running Shoes,Consumer,2,6571,10,13142,1314.2,11827.8,6721.39,5106.41,Credit Card,Returned
+ORD0267,2025-05-24,Ahmedabad,Home & Kitchen,Mixer Grinder,Home Office,1,2037,5,2037,101.85,1935.15,1115.31,819.84,Net Banking,Returned
+ORD0268,2025-11-15,Bengaluru,Beauty,Hair Dryer,Home Office,2,4866,10,9732,973.2,8758.8,4940.21,3818.59,Net Banking,Delivered
+ORD0269,2025-08-20,Chennai,Home & Kitchen,Coffee Maker,Home Office,4,9783,25,39132,9783.0,29349.0,16284.16,13064.84,Cash on Delivery,Delivered
+ORD0270,2025-03-07,Bengaluru,Clothing,T-Shirt,Corporate,2,3348,15,6696,1004.4,5691.6,4316.76,1374.84,Debit Card,Delivered
+ORD0271,2025-10-06,Bengaluru,Electronics,Smartphone,Home Office,3,42771,25,128313,32078.25,96234.75,62593.18,33641.57,Credit Card,Delivered
+ORD0272,2025-10-24,Hyderabad,Clothing,T-Shirt,Consumer,3,4702,15,14106,2115.9,11990.1,8288.74,3701.36,Net Banking,Delivered
+ORD0273,2025-09-20,Ahmedabad,Home & Kitchen,Air Fryer,Home Office,4,7471,25,29884,7471.0,22413.0,17127.58,5285.42,Net Banking,Delivered
+ORD0274,2025-01-08,Chennai,Clothing,Jeans,Home Office,1,2198,15,2198,329.7,1868.3,1129.47,738.83,Net Banking,Delivered
+ORD0275,2025-01-16,Bengaluru,Clothing,Sneakers,Home Office,4,2996,10,11984,1198.4,10785.6,7403.3,3382.3,Net Banking,Cancelled
+ORD0276,2025-08-11,Delhi,Sports,Running Shoes,Home Office,2,4764,15,9528,1429.2,8098.8,6634.63,1464.17,Debit Card,Cancelled
+ORD0277,2025-05-13,Delhi,Electronics,Headphones,Consumer,1,27619,15,27619,4142.85,23476.15,18554.84,4921.31,Cash on Delivery,Cancelled
+ORD0278,2025-12-30,Hyderabad,Electronics,Smartwatch,Consumer,3,1445,15,4335,650.25,3684.75,2339.35,1345.4,Net Banking,Delivered
+ORD0279,2025-08-06,Pune,Clothing,Sneakers,Consumer,2,4871,20,9742,1948.4,7793.6,4524.14,3269.46,Net Banking,Delivered
+ORD0280,2025-10-06,Ahmedabad,Beauty,Moisturizer,Corporate,3,4336,5,13008,650.4,12357.6,9295.18,3062.42,UPI,Cancelled
+ORD0281,2025-09-29,Mumbai,Beauty,Perfume,Corporate,3,3109,10,9327,932.7,8394.3,4687.39,3706.91,Debit Card,Delivered
+ORD0282,2025-10-30,Pune,Electronics,Smartwatch,Home Office,1,29595,10,29595,2959.5,26635.5,19641.57,6993.93,Net Banking,Delivered
+ORD0283,2025-02-08,Bengaluru,Electronics,Laptop,Home Office,4,50900,25,203600,50900.0,152700.0,121239.85,31460.15,Cash on Delivery,Cancelled
+ORD0284,2025-04-01,Mumbai,Home & Kitchen,Coffee Maker,Corporate,3,5241,10,15723,1572.3,14150.7,9924.15,4226.55,Cash on Delivery,Cancelled
+ORD0285,2025-12-10,Pune,Clothing,Jacket,Corporate,3,5961,15,17883,2682.45,15200.55,8434.18,6766.37,UPI,Delivered
+ORD0286,2025-06-22,Kolkata,Clothing,Jacket,Corporate,3,1749,0,5247,0.0,5247.0,4075.11,1171.89,UPI,Delivered
+ORD0287,2025-04-30,Pune,Beauty,Perfume,Consumer,4,4928,10,19712,1971.2,17740.8,13937.94,3802.86,Net Banking,Delivered
+ORD0288,2025-07-22,Chennai,Electronics,Smartphone,Home Office,1,50216,15,50216,7532.4,42683.6,26947.93,15735.67,UPI,Delivered
+ORD0289,2025-12-27,Chennai,Electronics,Smartwatch,Corporate,4,33562,15,134248,20137.2,114110.8,89019.12,25091.68,UPI,Cancelled
+ORD0290,2025-02-19,Chennai,Electronics,Smartwatch,Home Office,4,10685,10,42740,4274.0,38466.0,23937.38,14528.62,Net Banking,Cancelled
+ORD0291,2025-07-20,Chennai,Beauty,Face Wash,Consumer,4,2186,0,8744,0.0,8744.0,6550.5,2193.5,Cash on Delivery,Delivered
+ORD0292,2025-11-28,Pune,Electronics,Smartphone,Corporate,1,50679,20,50679,10135.8,40543.2,29900.68,10642.52,UPI,Delivered
+ORD0293,2025-06-06,Delhi,Home & Kitchen,Bedsheet,Home Office,5,7248,10,36240,3624.0,32616.0,21859.78,10756.22,Cash on Delivery,Delivered
+ORD0294,2025-12-13,Kolkata,Beauty,Moisturizer,Consumer,4,778,5,3112,155.6,2956.4,1842.79,1113.61,UPI,Returned
+ORD0295,2025-10-10,Ahmedabad,Electronics,Smartphone,Home Office,5,27312,15,136560,20484.0,116076.0,82773.72,33302.28,Cash on Delivery,Delivered
+ORD0296,2025-10-18,Ahmedabad,Electronics,Laptop,Consumer,1,43404,10,43404,4340.4,39063.6,23553.26,15510.34,Cash on Delivery,Delivered
+ORD0297,2025-05-16,Delhi,Sports,Yoga Mat,Consumer,1,5493,25,5493,1373.25,4119.75,2320.92,1798.83,Credit Card,Cancelled
+ORD0298,2025-08-21,Bengaluru,Sports,Yoga Mat,Consumer,2,1103,10,2206,220.6,1985.4,1115.76,869.64,UPI,Delivered
+ORD0299,2025-02-10,Kolkata,Electronics,Smartwatch,Consumer,3,59956,10,179868,17986.8,161881.2,111212.58,50668.62,Debit Card,Returned
+ORD0300,2025-01-19,Hyderabad,Clothing,Jacket,Consumer,5,1656,0,8280,0.0,8280.0,5425.6,2854.4,Net Banking,Cancelled
+ORD0301,2025-09-07,Chennai,Beauty,Face Wash,Consumer,1,3511,20,3511,702.2,2808.8,2089.68,719.12,Debit Card,Returned
+ORD0302,2025-11-20,Pune,Sports,Cricket Bat,Consumer,1,1126,15,1126,168.9,957.1,703.83,253.27,Cash on Delivery,Delivered
+ORD0303,2025-11-28,Mumbai,Sports,Cricket Bat,Home Office,4,2174,15,8696,1304.4,7391.6,5862.18,1529.42,UPI,Delivered
+ORD0304,2025-09-23,Pune,Sports,Yoga Mat,Corporate,2,601,10,1202,120.2,1081.8,768.39,313.41,Debit Card,Returned
+ORD0305,2025-04-27,Mumbai,Electronics,Laptop,Consumer,3,47419,15,142257,21338.55,120918.45,87330.55,33587.9,Debit Card,Returned
+ORD0306,2025-11-07,Chennai,Home & Kitchen,Mixer Grinder,Home Office,4,4508,10,18032,1803.2,16228.8,10892.61,5336.19,Credit Card,Cancelled
+ORD0307,2025-10-04,Pune,Sports,Running Shoes,Home Office,1,4544,0,4544,0.0,4544.0,2581.87,1962.13,Credit Card,Delivered
+ORD0308,2025-01-30,Hyderabad,Clothing,T-Shirt,Corporate,1,674,20,674,134.8,539.2,422.02,117.18,Debit Card,Delivered
+ORD0309,2025-04-28,Hyderabad,Beauty,Hair Dryer,Consumer,3,3334,5,10002,500.1,9501.9,6175.42,3326.48,Credit Card,Delivered
+ORD0310,2025-05-28,Delhi,Sports,Cricket Bat,Consumer,5,3667,0,18335,0.0,18335.0,11796.5,6538.5,Credit Card,Delivered
+ORD0311,2025-11-01,Bengaluru,Home & Kitchen,Bedsheet,Corporate,3,1942,10,5826,582.6,5243.4,3463.79,1779.61,Net Banking,Delivered
+ORD0312,2025-11-21,Pune,Beauty,Hair Dryer,Home Office,1,3475,15,3475,521.25,2953.75,1758.03,1195.72,Debit Card,Delivered
+ORD0313,2025-11-02,Pune,Sports,Dumbbells,Home Office,3,1578,10,4734,473.4,4260.6,2527.42,1733.18,Net Banking,Cancelled
+ORD0314,2025-12-23,Delhi,Home & Kitchen,Mixer Grinder,Home Office,5,2669,20,13345,2669.0,10676.0,8627.26,2048.74,Cash on Delivery,Delivered
+ORD0315,2025-05-06,Hyderabad,Beauty,Face Wash,Consumer,5,2616,20,13080,2616.0,10464.0,7469.8,2994.2,Net Banking,Returned
+ORD0316,2025-12-08,Chennai,Beauty,Face Wash,Home Office,1,3436,0,3436,0.0,3436.0,2383.59,1052.41,Debit Card,Delivered
+ORD0317,2025-12-07,Pune,Home & Kitchen,Air Fryer,Home Office,5,1939,10,9695,969.5,8725.5,5216.42,3509.08,Cash on Delivery,Cancelled
+ORD0318,2025-10-07,Chennai,Beauty,Perfume,Home Office,4,558,10,2232,223.2,2008.8,1194.46,814.34,Net Banking,Delivered
+ORD0319,2025-09-06,Ahmedabad,Clothing,Sneakers,Corporate,4,3470,5,13880,694.0,13186.0,9471.76,3714.24,Debit Card,Cancelled
+ORD0320,2025-05-27,Kolkata,Sports,Dumbbells,Home Office,5,1707,0,8535,0.0,8535.0,6332.45,2202.55,Net Banking,Delivered
+ORD0321,2025-01-05,Bengaluru,Clothing,Jeans,Consumer,4,2008,25,8032,2008.0,6024.0,3525.7,2498.3,Credit Card,Delivered
+ORD0322,2025-07-02,Mumbai,Electronics,Headphones,Corporate,4,60811,15,243244,36486.6,206757.4,161923.68,44833.72,Debit Card,Delivered
+ORD0323,2025-06-28,Chennai,Clothing,Jacket,Corporate,1,5099,10,5099,509.9,4589.1,3239.29,1349.81,Debit Card,Delivered
+ORD0324,2025-11-25,Ahmedabad,Beauty,Perfume,Consumer,4,4022,20,16088,3217.6,12870.4,8734.5,4135.9,UPI,Delivered
+ORD0325,2025-07-08,Kolkata,Electronics,Laptop,Home Office,3,41310,10,123930,12393.0,111537.0,62272.59,49264.41,Credit Card,Returned
+ORD0326,2025-11-16,Pune,Sports,Running Shoes,Consumer,3,5178,25,15534,3883.5,11650.5,8066.24,3584.26,Cash on Delivery,Delivered
+ORD0327,2025-01-19,Mumbai,Electronics,Smartwatch,Corporate,1,50647,25,50647,12661.75,37985.25,20982.79,17002.46,UPI,Returned
+ORD0328,2025-02-06,Chennai,Clothing,T-Shirt,Consumer,1,3663,20,3663,732.6,2930.4,2197.59,732.81,Cash on Delivery,Delivered
+ORD0329,2025-09-17,Pune,Electronics,Smartwatch,Home Office,1,15838,5,15838,791.9,15046.1,8590.8,6455.3,Debit Card,Delivered
+ORD0330,2025-02-14,Chennai,Clothing,Jeans,Home Office,5,487,20,2435,487.0,1948.0,1438.39,509.61,Debit Card,Returned
+ORD0331,2025-12-24,Hyderabad,Home & Kitchen,Bedsheet,Corporate,2,6276,5,12552,627.6,11924.4,7338.3,4586.1,Credit Card,Delivered
+ORD0332,2025-08-03,Pune,Sports,Dumbbells,Corporate,4,2558,5,10232,511.6,9720.4,6083.72,3636.68,Debit Card,Returned
+ORD0333,2025-09-26,Chennai,Sports,Cricket Bat,Home Office,1,1988,0,1988,0.0,1988.0,1437.18,550.82,Net Banking,Delivered
+ORD0334,2025-02-23,Hyderabad,Electronics,Laptop,Corporate,1,31550,25,31550,7887.5,23662.5,15914.58,7747.92,Credit Card,Delivered
+ORD0335,2025-01-12,Kolkata,Beauty,Face Wash,Home Office,5,2507,10,12535,1253.5,11281.5,8566.53,2714.97,Credit Card,Delivered
+ORD0336,2025-08-29,Mumbai,Home & Kitchen,Coffee Maker,Consumer,4,7516,0,30064,0.0,30064.0,19113.14,10950.86,Credit Card,Delivered
+ORD0337,2025-11-16,Chennai,Electronics,Headphones,Home Office,2,63351,0,126702,0.0,126702.0,81330.03,45371.97,UPI,Delivered
+ORD0338,2025-04-10,Mumbai,Clothing,Jacket,Home Office,3,4532,5,13596,679.8,12916.2,8196.67,4719.53,Debit Card,Cancelled
+ORD0339,2025-07-05,Kolkata,Clothing,T-Shirt,Corporate,4,497,10,1988,198.8,1789.2,1027.19,762.01,Net Banking,Delivered
+ORD0340,2025-01-13,Chennai,Beauty,Perfume,Consumer,2,4000,20,8000,1600.0,6400.0,4752.14,1647.86,Cash on Delivery,Delivered
+ORD0341,2025-07-30,Hyderabad,Electronics,Smartwatch,Consumer,1,54840,20,54840,10968.0,43872.0,29761.0,14111.0,Credit Card,Delivered
+ORD0342,2025-05-26,Ahmedabad,Sports,Running Shoes,Corporate,4,5823,0,23292,0.0,23292.0,15803.88,7488.12,Debit Card,Delivered
+ORD0343,2025-04-10,Kolkata,Electronics,Smartwatch,Corporate,1,39142,20,39142,7828.4,31313.6,20743.89,10569.71,UPI,Delivered
+ORD0344,2025-06-22,Chennai,Clothing,Jeans,Corporate,1,5347,15,5347,802.05,4544.95,3331.49,1213.46,UPI,Delivered
+ORD0345,2025-11-06,Pune,Home & Kitchen,Coffee Maker,Consumer,4,6969,15,27876,4181.4,23694.6,15559.9,8134.7,Cash on Delivery,Cancelled
+ORD0346,2025-05-18,Chennai,Beauty,Perfume,Home Office,1,1748,0,1748,0.0,1748.0,1014.03,733.97,Net Banking,Delivered
+ORD0347,2025-05-18,Delhi,Sports,Yoga Mat,Consumer,2,3573,25,7146,1786.5,5359.5,3974.25,1385.25,Debit Card,Returned
+ORD0348,2025-08-16,Mumbai,Electronics,Smartwatch,Corporate,4,36821,20,147284,29456.8,117827.2,79569.38,38257.82,UPI,Delivered
+ORD0349,2025-10-10,Pune,Beauty,Hair Dryer,Consumer,1,3958,15,3958,593.7,3364.3,2736.94,627.36,Credit Card,Delivered
+ORD0350,2025-01-07,Hyderabad,Electronics,Smartphone,Consumer,5,30916,0,154580,0.0,154580.0,117287.31,37292.69,Cash on Delivery,Delivered
+ORD0351,2025-11-27,Ahmedabad,Sports,Dumbbells,Consumer,4,1372,10,5488,548.8,4939.2,2748.03,2191.17,UPI,Cancelled
+ORD0352,2025-04-08,Mumbai,Clothing,Sneakers,Consumer,3,5011,20,15033,3006.6,12026.4,7355.63,4670.77,Cash on Delivery,Delivered
+ORD0353,2025-11-27,Kolkata,Home & Kitchen,Bedsheet,Corporate,1,5723,20,5723,1144.6,4578.4,3174.2,1404.2,UPI,Delivered
+ORD0354,2025-10-28,Delhi,Clothing,Jeans,Home Office,2,3570,0,7140,0.0,7140.0,5126.89,2013.11,Net Banking,Cancelled
+ORD0355,2025-06-24,Hyderabad,Beauty,Perfume,Corporate,3,3683,10,11049,1104.9,9944.1,7643.65,2300.45,Cash on Delivery,Delivered
+ORD0356,2025-03-25,Hyderabad,Electronics,Smartphone,Consumer,2,36881,0,73762,0.0,73762.0,59102.82,14659.18,Debit Card,Returned
+ORD0357,2025-03-02,Mumbai,Electronics,Smartphone,Consumer,3,27845,5,83535,4176.75,79358.25,48830.02,30528.23,Net Banking,Returned
+ORD0358,2025-01-06,Chennai,Home & Kitchen,Air Fryer,Consumer,5,11041,25,55205,13801.25,41403.75,29042.09,12361.66,Debit Card,Delivered
+ORD0359,2025-06-05,Hyderabad,Electronics,Laptop,Corporate,5,72810,5,364050,18202.5,345847.5,269941.56,75905.94,UPI,Delivered
+ORD0360,2025-11-28,Delhi,Clothing,Sneakers,Consumer,3,3043,5,9129,456.45,8672.55,5993.48,2679.07,UPI,Delivered
+ORD0361,2025-04-18,Delhi,Clothing,Jacket,Consumer,2,1169,5,2338,116.9,2221.1,1230.11,990.99,Debit Card,Cancelled
+ORD0362,2025-05-21,Mumbai,Home & Kitchen,Mixer Grinder,Corporate,2,8936,5,17872,893.6,16978.4,12809.76,4168.64,Cash on Delivery,Returned
+ORD0363,2025-08-30,Pune,Electronics,Headphones,Consumer,1,22342,10,22342,2234.2,20107.8,16272.14,3835.66,Cash on Delivery,Delivered
+ORD0364,2025-09-12,Delhi,Sports,Running Shoes,Consumer,5,4019,15,20095,3014.25,17080.75,13665.84,3414.91,Credit Card,Delivered
+ORD0365,2025-12-15,Delhi,Home & Kitchen,Coffee Maker,Consumer,3,11195,25,33585,8396.25,25188.75,16769.4,8419.35,Net Banking,Delivered
+ORD0366,2025-06-09,Bengaluru,Beauty,Face Wash,Consumer,3,1661,5,4983,249.15,4733.85,3873.14,860.71,UPI,Delivered
+ORD0367,2025-04-01,Mumbai,Beauty,Hair Dryer,Corporate,3,828,10,2484,248.4,2235.6,1803.57,432.03,UPI,Delivered
+ORD0368,2025-11-20,Bengaluru,Sports,Dumbbells,Corporate,4,5356,20,21424,4284.8,17139.2,11085.91,6053.29,UPI,Delivered
+ORD0369,2025-04-15,Chennai,Home & Kitchen,Mixer Grinder,Corporate,2,4199,10,8398,839.8,7558.2,4607.71,2950.49,UPI,Delivered
+ORD0370,2025-09-13,Delhi,Home & Kitchen,Bedsheet,Home Office,1,2272,20,2272,454.4,1817.6,1211.38,606.22,Net Banking,Delivered
+ORD0371,2025-10-30,Kolkata,Beauty,Moisturizer,Home Office,3,4154,20,12462,2492.4,9969.6,6433.62,3535.98,Credit Card,Cancelled
+ORD0372,2025-04-26,Chennai,Sports,Running Shoes,Consumer,2,2579,15,5158,773.7,4384.3,3000.33,1383.97,UPI,Delivered
+ORD0373,2025-07-14,Kolkata,Beauty,Moisturizer,Home Office,3,3776,15,11328,1699.2,9628.8,6063.4,3565.4,Net Banking,Delivered
+ORD0374,2025-06-30,Ahmedabad,Home & Kitchen,Mixer Grinder,Home Office,2,4107,15,8214,1232.1,6981.9,4125.82,2856.08,Net Banking,Cancelled
+ORD0375,2025-02-23,Pune,Sports,Running Shoes,Consumer,1,5176,20,5176,1035.2,4140.8,2743.17,1397.63,UPI,Delivered
+ORD0376,2025-11-28,Pune,Sports,Yoga Mat,Home Office,3,4707,10,14121,1412.1,12708.9,7167.99,5540.91,Cash on Delivery,Delivered
+ORD0377,2025-12-23,Bengaluru,Sports,Yoga Mat,Home Office,2,3814,5,7628,381.4,7246.6,5738.81,1507.79,Debit Card,Returned
+ORD0378,2025-05-29,Ahmedabad,Electronics,Smartphone,Consumer,4,8014,25,32056,8014.0,24042.0,15775.46,8266.54,Debit Card,Delivered
+ORD0379,2025-05-19,Ahmedabad,Home & Kitchen,Bedsheet,Corporate,2,5038,25,10076,2519.0,7557.0,5347.47,2209.53,UPI,Delivered
+ORD0380,2025-08-29,Bengaluru,Beauty,Hair Dryer,Home Office,3,352,20,1056,211.2,844.8,592.39,252.41,UPI,Delivered
+ORD0381,2025-06-16,Chennai,Beauty,Face Wash,Corporate,2,2736,10,5472,547.2,4924.8,3777.07,1147.73,UPI,Delivered
+ORD0382,2025-09-19,Hyderabad,Home & Kitchen,Coffee Maker,Consumer,5,1180,0,5900,0.0,5900.0,3795.13,2104.87,Debit Card,Delivered
+ORD0383,2025-09-28,Hyderabad,Electronics,Smartwatch,Corporate,5,19087,0,95435,0.0,95435.0,60528.28,34906.72,UPI,Delivered
+ORD0384,2025-07-08,Kolkata,Clothing,Sneakers,Home Office,2,3790,0,7580,0.0,7580.0,6154.73,1425.27,Net Banking,Delivered
+ORD0385,2025-12-02,Pune,Electronics,Laptop,Consumer,5,11378,0,56890,0.0,56890.0,36033.29,20856.71,Debit Card,Delivered
+ORD0386,2025-05-31,Mumbai,Beauty,Hair Dryer,Corporate,1,1681,15,1681,252.15,1428.85,1047.11,381.74,Debit Card,Delivered
+ORD0387,2025-03-24,Delhi,Sports,Dumbbells,Corporate,3,2966,5,8898,444.9,8453.1,6550.0,1903.1,Cash on Delivery,Delivered
+ORD0388,2025-05-20,Bengaluru,Electronics,Laptop,Corporate,5,20381,10,101905,10190.5,91714.5,55183.28,36531.22,UPI,Cancelled
+ORD0389,2025-02-02,Pune,Electronics,Smartwatch,Corporate,5,73325,25,366625,91656.25,274968.75,169580.25,105388.5,UPI,Delivered
+ORD0390,2025-07-01,Kolkata,Sports,Cricket Bat,Home Office,4,1873,0,7492,0.0,7492.0,5418.73,2073.27,Debit Card,Returned
+ORD0391,2025-12-27,Bengaluru,Sports,Dumbbells,Corporate,5,6947,5,34735,1736.75,32998.25,26535.33,6462.92,Net Banking,Delivered
+ORD0392,2025-06-18,Chennai,Electronics,Smartphone,Corporate,2,17701,20,35402,7080.4,28321.6,23062.8,5258.8,Credit Card,Delivered
+ORD0393,2025-12-11,Delhi,Electronics,Laptop,Corporate,3,29030,10,87090,8709.0,78381.0,47454.98,30926.02,Cash on Delivery,Delivered
+ORD0394,2025-05-28,Hyderabad,Home & Kitchen,Coffee Maker,Home Office,4,2018,10,8072,807.2,7264.8,4839.82,2424.98,Cash on Delivery,Delivered
+ORD0395,2025-09-23,Bengaluru,Home & Kitchen,Air Fryer,Consumer,3,3349,25,10047,2511.75,7535.25,4654.83,2880.42,UPI,Delivered
+ORD0396,2025-03-24,Mumbai,Beauty,Perfume,Consumer,2,2755,20,5510,1102.0,4408.0,2631.59,1776.41,Credit Card,Cancelled
+ORD0397,2025-12-22,Mumbai,Clothing,Jeans,Corporate,5,3294,10,16470,1647.0,14823.0,11243.56,3579.44,UPI,Cancelled
+ORD0398,2025-05-17,Hyderabad,Beauty,Face Wash,Home Office,5,3128,15,15640,2346.0,13294.0,10672.32,2621.68,UPI,Delivered
+ORD0399,2025-05-25,Mumbai,Beauty,Face Wash,Corporate,2,2293,25,4586,1146.5,3439.5,2799.04,640.46,Debit Card,Returned
+ORD0400,2025-09-28,Hyderabad,Home & Kitchen,Coffee Maker,Consumer,3,2279,20,6837,1367.4,5469.6,4358.88,1110.72,Debit Card,Delivered
+ORD0401,2025-02-10,Mumbai,Clothing,Jeans,Corporate,4,3262,0,13048,0.0,13048.0,9103.02,3944.98,Cash on Delivery,Cancelled
+ORD0402,2025-03-10,Delhi,Electronics,Laptop,Corporate,4,1934,0,7736,0.0,7736.0,4702.64,3033.36,Debit Card,Cancelled
+ORD0403,2025-12-04,Pune,Home & Kitchen,Coffee Maker,Home Office,2,4401,0,8802,0.0,8802.0,6440.21,2361.79,Credit Card,Delivered
+ORD0404,2025-12-24,Bengaluru,Clothing,Sneakers,Home Office,5,2666,25,13330,3332.5,9997.5,6571.47,3426.03,Debit Card,Returned
+ORD0405,2025-04-17,Bengaluru,Clothing,Jeans,Home Office,1,789,0,789,0.0,789.0,477.88,311.12,UPI,Delivered
+ORD0406,2025-07-06,Chennai,Beauty,Face Wash,Corporate,5,1917,0,9585,0.0,9585.0,5362.35,4222.65,Net Banking,Delivered
+ORD0407,2025-04-17,Chennai,Clothing,Jacket,Home Office,2,5607,15,11214,1682.1,9531.9,6619.49,2912.41,Cash on Delivery,Delivered
+ORD0408,2025-09-17,Pune,Home & Kitchen,Coffee Maker,Home Office,3,8329,5,24987,1249.35,23737.65,13196.15,10541.5,Net Banking,Delivered
+ORD0409,2025-08-30,Bengaluru,Beauty,Hair Dryer,Consumer,1,3478,10,3478,347.8,3130.2,2067.85,1062.35,Net Banking,Cancelled
+ORD0410,2025-04-19,Kolkata,Sports,Yoga Mat,Home Office,4,3161,20,12644,2528.8,10115.2,7602.88,2512.32,Debit Card,Delivered
+ORD0411,2025-08-22,Kolkata,Sports,Yoga Mat,Consumer,4,595,15,2380,357.0,2023.0,1354.79,668.21,Net Banking,Cancelled
+ORD0412,2025-02-01,Kolkata,Home & Kitchen,Bedsheet,Consumer,1,4427,20,4427,885.4,3541.6,2242.2,1299.4,Cash on Delivery,Returned
+ORD0413,2025-05-17,Pune,Home & Kitchen,Mixer Grinder,Home Office,1,3354,0,3354,0.0,3354.0,1937.58,1416.42,Net Banking,Delivered
+ORD0414,2025-11-09,Kolkata,Electronics,Smartphone,Corporate,1,33654,15,33654,5048.1,28605.9,22365.99,6239.91,UPI,Cancelled
+ORD0415,2025-04-14,Chennai,Sports,Cricket Bat,Corporate,4,3100,20,12400,2480.0,9920.0,5898.7,4021.3,Net Banking,Returned
+ORD0416,2025-08-23,Ahmedabad,Beauty,Moisturizer,Corporate,1,4957,25,4957,1239.25,3717.75,2063.96,1653.79,Debit Card,Returned
+ORD0417,2025-08-22,Hyderabad,Home & Kitchen,Air Fryer,Home Office,3,11759,15,35277,5291.55,29985.45,17450.69,12534.76,Debit Card,Returned
+ORD0418,2025-01-19,Delhi,Beauty,Hair Dryer,Corporate,5,2610,0,13050,0.0,13050.0,8642.48,4407.52,Credit Card,Delivered
+ORD0419,2025-04-03,Ahmedabad,Sports,Running Shoes,Home Office,3,5873,20,17619,3523.8,14095.2,11065.33,3029.87,Net Banking,Delivered
+ORD0420,2025-09-26,Chennai,Sports,Dumbbells,Corporate,5,3788,5,18940,947.0,17993.0,12384.89,5608.11,UPI,Delivered
+ORD0421,2025-06-20,Bengaluru,Home & Kitchen,Mixer Grinder,Home Office,1,9512,0,9512,0.0,9512.0,6801.66,2710.34,Net Banking,Delivered
+ORD0422,2025-11-06,Hyderabad,Sports,Yoga Mat,Consumer,2,6522,15,13044,1956.6,11087.4,8737.12,2350.28,UPI,Cancelled
+ORD0423,2025-04-28,Bengaluru,Electronics,Smartphone,Home Office,1,15471,10,15471,1547.1,13923.9,8137.05,5786.85,Net Banking,Delivered
+ORD0424,2025-01-30,Bengaluru,Clothing,Jeans,Corporate,5,4308,10,21540,2154.0,19386.0,10732.27,8653.73,Debit Card,Delivered
+ORD0425,2025-06-22,Mumbai,Beauty,Perfume,Corporate,4,2539,15,10156,1523.4,8632.6,6259.03,2373.57,Net Banking,Cancelled
+ORD0426,2025-12-05,Delhi,Beauty,Hair Dryer,Corporate,3,4516,5,13548,677.4,12870.6,8194.89,4675.71,Debit Card,Returned
+ORD0427,2025-08-23,Mumbai,Beauty,Perfume,Corporate,2,3090,10,6180,618.0,5562.0,4454.65,1107.35,UPI,Delivered
+ORD0428,2025-07-20,Mumbai,Beauty,Perfume,Corporate,5,1705,0,8525,0.0,8525.0,6026.1,2498.9,Net Banking,Cancelled
+ORD0429,2025-02-13,Chennai,Home & Kitchen,Bedsheet,Home Office,3,4292,20,12876,2575.2,10300.8,6241.83,4058.97,Cash on Delivery,Delivered
+ORD0430,2025-10-04,Ahmedabad,Beauty,Moisturizer,Corporate,2,3172,0,6344,0.0,6344.0,3931.52,2412.48,Cash on Delivery,Delivered
+ORD0431,2025-09-26,Delhi,Sports,Yoga Mat,Corporate,2,1893,15,3786,567.9,3218.1,2181.74,1036.36,Debit Card,Delivered
+ORD0432,2025-07-26,Ahmedabad,Sports,Cricket Bat,Consumer,4,2833,5,11332,566.6,10765.4,7394.82,3370.58,Credit Card,Delivered
+ORD0433,2025-03-03,Pune,Home & Kitchen,Bedsheet,Consumer,2,870,5,1740,87.0,1653.0,1336.94,316.06,Debit Card,Returned
+ORD0434,2025-04-20,Chennai,Clothing,Jeans,Home Office,5,5548,15,27740,4161.0,23579.0,15916.79,7662.21,Cash on Delivery,Returned
+ORD0435,2025-12-23,Hyderabad,Home & Kitchen,Coffee Maker,Consumer,4,9666,25,38664,9666.0,28998.0,22108.4,6889.6,Cash on Delivery,Delivered
+ORD0436,2025-03-20,Chennai,Sports,Cricket Bat,Corporate,5,2981,20,14905,2981.0,11924.0,9418.59,2505.41,Credit Card,Returned
+ORD0437,2025-03-18,Pune,Electronics,Smartwatch,Corporate,3,66701,20,200103,40020.6,160082.4,106908.36,53174.04,Credit Card,Delivered
+ORD0438,2025-10-14,Delhi,Electronics,Smartphone,Consumer,3,39237,15,117711,17656.65,100054.35,79426.68,20627.67,Credit Card,Delivered
+ORD0439,2025-07-06,Chennai,Sports,Cricket Bat,Home Office,5,6194,20,30970,6194.0,24776.0,14496.98,10279.02,Debit Card,Returned
+ORD0440,2025-07-02,Kolkata,Beauty,Hair Dryer,Home Office,2,3050,0,6100,0.0,6100.0,4610.51,1489.49,Credit Card,Delivered
+ORD0441,2025-01-25,Hyderabad,Clothing,Sneakers,Consumer,5,5104,20,25520,5104.0,20416.0,14464.18,5951.82,Net Banking,Delivered
+ORD0442,2025-07-30,Kolkata,Clothing,Jeans,Home Office,3,872,0,2616,0.0,2616.0,1600.46,1015.54,Credit Card,Delivered
+ORD0443,2025-02-19,Hyderabad,Sports,Cricket Bat,Corporate,5,1738,10,8690,869.0,7821.0,5237.15,2583.85,UPI,Delivered
+ORD0444,2025-06-04,Kolkata,Beauty,Moisturizer,Corporate,3,1237,10,3711,371.1,3339.9,2587.97,751.93,Credit Card,Delivered
+ORD0445,2025-07-01,Mumbai,Sports,Dumbbells,Corporate,1,4116,10,4116,411.6,3704.4,2734.69,969.71,Debit Card,Delivered
+ORD0446,2025-07-28,Chennai,Beauty,Face Wash,Corporate,4,1878,25,7512,1878.0,5634.0,3791.1,1842.9,Credit Card,Delivered
+ORD0447,2025-10-23,Pune,Home & Kitchen,Bedsheet,Corporate,3,9066,10,27198,2719.8,24478.2,16460.77,8017.43,Debit Card,Delivered
+ORD0448,2025-08-18,Mumbai,Home & Kitchen,Air Fryer,Corporate,5,4608,5,23040,1152.0,21888.0,15422.37,6465.63,Credit Card,Delivered
+ORD0449,2025-07-28,Ahmedabad,Beauty,Hair Dryer,Home Office,4,4082,20,16328,3265.6,13062.4,8677.36,4385.04,Debit Card,Cancelled
+ORD0450,2025-09-13,Kolkata,Clothing,Jacket,Consumer,3,5347,20,16041,3208.2,12832.8,9830.18,3002.62,Debit Card,Delivered
+ORD0451,2025-04-05,Chennai,Beauty,Face Wash,Corporate,1,1457,0,1457,0.0,1457.0,984.28,472.72,Cash on Delivery,Delivered
+ORD0452,2025-12-16,Chennai,Sports,Cricket Bat,Home Office,1,7835,0,7835,0.0,7835.0,6112.77,1722.23,Debit Card,Delivered
+ORD0453,2025-02-19,Pune,Home & Kitchen,Coffee Maker,Corporate,2,2911,5,5822,291.1,5530.9,3751.26,1779.64,Cash on Delivery,Cancelled
+ORD0454,2025-04-03,Pune,Beauty,Perfume,Corporate,4,2240,10,8960,896.0,8064.0,5145.55,2918.45,Cash on Delivery,Delivered
+ORD0455,2025-01-04,Kolkata,Beauty,Face Wash,Corporate,4,1236,20,4944,988.8,3955.2,2357.03,1598.17,Credit Card,Delivered
+ORD0456,2025-05-08,Pune,Beauty,Moisturizer,Home Office,5,2343,25,11715,2928.75,8786.25,6684.14,2102.11,Cash on Delivery,Delivered
+ORD0457,2025-06-30,Ahmedabad,Electronics,Laptop,Corporate,2,52734,0,105468,0.0,105468.0,78373.31,27094.69,UPI,Returned
+ORD0458,2025-04-16,Kolkata,Sports,Yoga Mat,Home Office,2,1087,10,2174,217.4,1956.6,1600.07,356.53,Net Banking,Delivered
+ORD0459,2025-11-29,Ahmedabad,Electronics,Smartwatch,Consumer,2,32179,10,64358,6435.8,57922.2,40032.65,17889.55,Cash on Delivery,Delivered
+ORD0460,2025-10-22,Hyderabad,Clothing,Sneakers,Home Office,1,5746,10,5746,574.6,5171.4,3960.9,1210.5,UPI,Returned
+ORD0461,2025-03-18,Bengaluru,Sports,Yoga Mat,Corporate,1,1248,20,1248,249.6,998.4,686.64,311.76,Cash on Delivery,Delivered
+ORD0462,2025-04-30,Hyderabad,Electronics,Laptop,Consumer,3,68031,25,204093,51023.25,153069.75,89629.45,63440.3,Debit Card,Delivered
+ORD0463,2025-03-13,Pune,Clothing,T-Shirt,Consumer,5,3085,25,15425,3856.25,11568.75,9392.44,2176.31,Debit Card,Delivered
+ORD0464,2025-12-15,Kolkata,Clothing,Sneakers,Consumer,4,998,0,3992,0.0,3992.0,2981.85,1010.15,Cash on Delivery,Delivered
+ORD0465,2025-01-13,Chennai,Electronics,Headphones,Home Office,5,30237,5,151185,7559.25,143625.75,99234.95,44390.8,Credit Card,Delivered
+ORD0466,2025-09-30,Ahmedabad,Electronics,Smartwatch,Corporate,5,19731,0,98655,0.0,98655.0,58310.34,40344.66,Credit Card,Delivered
+ORD0467,2025-09-26,Kolkata,Sports,Cricket Bat,Consumer,3,4157,5,12471,623.55,11847.45,9029.76,2817.69,UPI,Delivered
+ORD0468,2025-10-13,Kolkata,Electronics,Laptop,Consumer,2,53295,25,106590,26647.5,79942.5,53249.38,26693.12,Credit Card,Cancelled
+ORD0469,2025-07-20,Hyderabad,Home & Kitchen,Mixer Grinder,Corporate,1,2147,10,2147,214.7,1932.3,1383.69,548.61,Cash on Delivery,Cancelled
+ORD0470,2025-01-01,Hyderabad,Beauty,Moisturizer,Home Office,1,4712,15,4712,706.8,4005.2,3206.82,798.38,Debit Card,Delivered
+ORD0471,2025-03-13,Delhi,Electronics,Smartwatch,Corporate,1,64427,20,64427,12885.4,51541.6,29900.83,21640.77,Cash on Delivery,Delivered
+ORD0472,2025-12-17,Bengaluru,Clothing,Sneakers,Consumer,3,3413,10,10239,1023.9,9215.1,6482.69,2732.41,Credit Card,Cancelled
+ORD0473,2025-07-11,Delhi,Sports,Yoga Mat,Corporate,2,823,25,1646,411.5,1234.5,685.36,549.14,UPI,Delivered
+ORD0474,2025-03-04,Ahmedabad,Clothing,Jacket,Home Office,1,2486,20,2486,497.2,1988.8,1610.14,378.66,Cash on Delivery,Delivered
+ORD0475,2025-10-20,Delhi,Electronics,Smartphone,Corporate,4,12210,5,48840,2442.0,46398.0,33281.11,13116.89,Credit Card,Delivered
+ORD0476,2025-04-15,Hyderabad,Clothing,Sneakers,Home Office,5,2405,15,12025,1803.75,10221.25,7493.1,2728.15,Cash on Delivery,Returned
+ORD0477,2025-07-29,Ahmedabad,Clothing,Jeans,Consumer,3,1678,15,5034,755.1,4278.9,2654.99,1623.91,Cash on Delivery,Delivered
+ORD0478,2025-07-03,Hyderabad,Beauty,Moisturizer,Home Office,3,3763,0,11289,0.0,11289.0,6940.44,4348.56,Net Banking,Delivered
+ORD0479,2025-12-26,Mumbai,Home & Kitchen,Coffee Maker,Home Office,2,1773,0,3546,0.0,3546.0,2669.49,876.51,Debit Card,Cancelled
+ORD0480,2025-06-30,Hyderabad,Clothing,Jeans,Corporate,1,3654,10,3654,365.4,3288.6,1997.37,1291.23,Credit Card,Delivered
+ORD0481,2025-06-07,Delhi,Beauty,Hair Dryer,Corporate,1,4382,25,4382,1095.5,3286.5,1976.71,1309.79,Net Banking,Delivered
+ORD0482,2025-10-21,Chennai,Beauty,Face Wash,Home Office,5,827,25,4135,1033.75,3101.25,2112.48,988.77,Credit Card,Delivered
+ORD0483,2025-03-11,Bengaluru,Beauty,Perfume,Home Office,1,1525,20,1525,305.0,1220.0,863.24,356.76,Cash on Delivery,Delivered
+ORD0484,2025-05-31,Ahmedabad,Clothing,Jeans,Home Office,4,5056,10,20224,2022.4,18201.6,12795.42,5406.18,Credit Card,Delivered
+ORD0485,2025-08-25,Chennai,Electronics,Smartwatch,Home Office,3,34576,20,103728,20745.6,82982.4,63116.15,19866.25,Net Banking,Delivered
+ORD0486,2025-01-02,Bengaluru,Sports,Running Shoes,Home Office,5,4332,0,21660,0.0,21660.0,17151.22,4508.78,Debit Card,Delivered
+ORD0487,2025-08-08,Mumbai,Beauty,Hair Dryer,Corporate,2,4206,20,8412,1682.4,6729.6,4733.28,1996.32,UPI,Delivered
+ORD0488,2025-10-05,Ahmedabad,Sports,Dumbbells,Consumer,4,5169,0,20676,0.0,20676.0,15234.97,5441.03,UPI,Delivered
+ORD0489,2025-01-22,Pune,Electronics,Headphones,Home Office,2,49417,20,98834,19766.8,79067.2,59395.16,19672.04,Net Banking,Returned
+ORD0490,2025-03-19,Chennai,Electronics,Laptop,Corporate,5,60793,0,303965,0.0,303965.0,235676.09,68288.91,Debit Card,Returned
+ORD0491,2025-09-02,Ahmedabad,Sports,Cricket Bat,Home Office,3,3980,20,11940,2388.0,9552.0,6437.7,3114.3,Cash on Delivery,Returned
+ORD0492,2025-10-30,Chennai,Sports,Running Shoes,Corporate,1,7113,0,7113,0.0,7113.0,5067.69,2045.31,Cash on Delivery,Returned
+ORD0493,2025-01-14,Pune,Clothing,Sneakers,Consumer,2,5149,15,10298,1544.7,8753.3,6142.99,2610.31,Cash on Delivery,Delivered
+ORD0494,2025-04-10,Delhi,Clothing,Jacket,Corporate,3,1303,0,3909,0.0,3909.0,2834.12,1074.88,Cash on Delivery,Cancelled
+ORD0495,2025-10-15,Hyderabad,Sports,Yoga Mat,Consumer,3,3798,5,11394,569.7,10824.3,6262.79,4561.51,Credit Card,Returned
+ORD0496,2025-07-09,Hyderabad,Sports,Dumbbells,Consumer,4,4958,10,19832,1983.2,17848.8,9957.34,7891.46,Credit Card,Delivered
+ORD0497,2025-09-28,Delhi,Sports,Running Shoes,Home Office,3,5806,25,17418,4354.5,13063.5,8305.48,4758.02,UPI,Cancelled
+ORD0498,2025-05-05,Bengaluru,Home & Kitchen,Bedsheet,Home Office,4,7226,10,28904,2890.4,26013.6,16973.78,9039.82,Credit Card,Returned
+ORD0499,2025-04-08,Delhi,Home & Kitchen,Air Fryer,Corporate,5,5816,20,29080,5816.0,23264.0,15296.58,7967.42,Net Banking,Cancelled
+ORD0500,2025-01-06,Ahmedabad,Home & Kitchen,Mixer Grinder,Corporate,4,3041,15,12164,1824.6,10339.4,7831.01,2508.39,Credit Card,Delivered
+ORD0501,2025-11-19,Mumbai,Electronics,Laptop,Home Office,4,10217,25,40868,10217.0,30651.0,19549.42,11101.58,Debit Card,Delivered
+ORD0502,2025-08-02,Ahmedabad,Beauty,Perfume,Corporate,1,1675,0,1675,0.0,1675.0,1016.62,658.38,Debit Card,Returned
+ORD0503,2025-01-03,Bengaluru,Electronics,Smartwatch,Home Office,3,14991,20,44973,8994.6,35978.4,29408.37,6570.03,UPI,Delivered
+ORD0504,2025-03-10,Kolkata,Electronics,Headphones,Home Office,2,26216,10,52432,5243.2,47188.8,37256.61,9932.19,UPI,Delivered
+ORD0505,2025-11-10,Pune,Home & Kitchen,Mixer Grinder,Home Office,1,7915,5,7915,395.75,7519.25,5958.63,1560.62,UPI,Delivered
+ORD0506,2025-01-11,Chennai,Clothing,Sneakers,Consumer,2,2395,5,4790,239.5,4550.5,2790.05,1760.45,Net Banking,Delivered
+ORD0507,2025-08-31,Mumbai,Home & Kitchen,Bedsheet,Home Office,3,9669,10,29007,2900.7,26106.3,17318.95,8787.35,Net Banking,Delivered
+ORD0508,2025-09-03,Mumbai,Home & Kitchen,Bedsheet,Corporate,2,5086,15,10172,1525.8,8646.2,5605.42,3040.78,Debit Card,Delivered
+ORD0509,2025-02-12,Bengaluru,Clothing,Jacket,Home Office,4,2202,15,8808,1321.2,7486.8,4947.53,2539.27,Net Banking,Delivered
+ORD0510,2025-10-11,Pune,Beauty,Face Wash,Consumer,5,719,5,3595,179.75,3415.25,1966.32,1448.93,Cash on Delivery,Cancelled
+ORD0511,2025-10-12,Delhi,Home & Kitchen,Coffee Maker,Home Office,4,6624,15,26496,3974.4,22521.6,17002.76,5518.84,Cash on Delivery,Returned
+ORD0512,2025-01-27,Kolkata,Beauty,Perfume,Consumer,2,4756,20,9512,1902.4,7609.6,5840.11,1769.49,Cash on Delivery,Delivered
+ORD0513,2025-01-30,Chennai,Beauty,Moisturizer,Home Office,2,3165,20,6330,1266.0,5064.0,3916.43,1147.57,Credit Card,Cancelled
+ORD0514,2025-11-25,Kolkata,Clothing,Jeans,Home Office,5,2209,15,11045,1656.75,9388.25,7409.61,1978.64,Debit Card,Returned
+ORD0515,2025-02-19,Mumbai,Beauty,Perfume,Consumer,1,3606,15,3606,540.9,3065.1,2242.84,822.26,Cash on Delivery,Returned
+ORD0516,2025-10-17,Chennai,Clothing,T-Shirt,Corporate,2,577,15,1154,173.1,980.9,611.17,369.73,UPI,Delivered
+ORD0517,2025-12-05,Kolkata,Beauty,Perfume,Consumer,3,689,0,2067,0.0,2067.0,1419.85,647.15,Credit Card,Delivered
+ORD0518,2025-12-18,Ahmedabad,Beauty,Moisturizer,Corporate,2,329,15,658,98.7,559.3,408.09,151.21,Net Banking,Delivered
+ORD0519,2025-11-02,Hyderabad,Electronics,Headphones,Home Office,5,34454,15,172270,25840.5,146429.5,104384.01,42045.49,UPI,Delivered
+ORD0520,2025-04-16,Ahmedabad,Clothing,Sneakers,Home Office,4,620,20,2480,496.0,1984.0,1501.19,482.81,Credit Card,Delivered
+ORD0521,2025-10-10,Bengaluru,Home & Kitchen,Coffee Maker,Corporate,5,7998,10,39990,3999.0,35991.0,22946.74,13044.26,Credit Card,Delivered
+ORD0522,2025-04-06,Chennai,Home & Kitchen,Bedsheet,Corporate,4,2577,25,10308,2577.0,7731.0,4551.37,3179.63,Cash on Delivery,Delivered
+ORD0523,2025-09-03,Ahmedabad,Electronics,Laptop,Consumer,1,34583,25,34583,8645.75,25937.25,15797.15,10140.1,UPI,Delivered
+ORD0524,2025-01-12,Ahmedabad,Home & Kitchen,Coffee Maker,Consumer,2,6172,5,12344,617.2,11726.8,8330.93,3395.87,Cash on Delivery,Delivered
+ORD0525,2025-05-04,Hyderabad,Electronics,Smartphone,Corporate,4,70145,15,280580,42087.0,238493.0,181233.93,57259.07,Debit Card,Delivered
+ORD0526,2025-05-05,Kolkata,Electronics,Smartphone,Consumer,4,8252,20,33008,6601.6,26406.4,18636.53,7769.87,Credit Card,Returned
+ORD0527,2025-02-05,Chennai,Sports,Running Shoes,Corporate,2,2151,5,4302,215.1,4086.9,2696.45,1390.45,Net Banking,Delivered
+ORD0528,2025-07-14,Kolkata,Electronics,Smartwatch,Consumer,4,28364,15,113456,17018.4,96437.6,77670.81,18766.79,Debit Card,Delivered
+ORD0529,2025-07-25,Pune,Sports,Dumbbells,Consumer,3,3108,25,9324,2331.0,6993.0,4681.39,2311.61,Net Banking,Returned
+ORD0530,2025-02-13,Mumbai,Sports,Cricket Bat,Consumer,4,4029,0,16116,0.0,16116.0,12482.0,3634.0,Net Banking,Delivered
+ORD0531,2025-12-19,Chennai,Beauty,Perfume,Home Office,3,815,25,2445,611.25,1833.75,1067.09,766.66,Debit Card,Delivered
+ORD0532,2025-05-13,Bengaluru,Beauty,Perfume,Consumer,5,2437,10,12185,1218.5,10966.5,8470.24,2496.26,UPI,Returned
+ORD0533,2025-09-04,Bengaluru,Home & Kitchen,Mixer Grinder,Home Office,4,5432,10,21728,2172.8,19555.2,12024.12,7531.08,Debit Card,Returned
+ORD0534,2025-07-12,Kolkata,Clothing,T-Shirt,Corporate,3,2875,15,8625,1293.75,7331.25,5185.63,2145.62,Net Banking,Delivered
+ORD0535,2025-07-07,Delhi,Electronics,Smartphone,Consumer,5,8293,10,41465,4146.5,37318.5,24199.59,13118.91,Debit Card,Delivered
+ORD0536,2025-08-31,Pune,Beauty,Hair Dryer,Home Office,4,1844,0,7376,0.0,7376.0,5658.17,1717.83,Debit Card,Cancelled
+ORD0537,2025-12-08,Delhi,Clothing,T-Shirt,Home Office,4,3812,15,15248,2287.2,12960.8,8850.34,4110.46,Cash on Delivery,Delivered
+ORD0538,2025-05-17,Hyderabad,Home & Kitchen,Bedsheet,Home Office,2,7270,10,14540,1454.0,13086.0,8178.99,4907.01,Debit Card,Delivered
+ORD0539,2025-10-02,Ahmedabad,Clothing,Jeans,Corporate,3,5461,10,16383,1638.3,14744.7,8275.11,6469.59,Cash on Delivery,Returned
+ORD0540,2025-09-20,Delhi,Electronics,Smartphone,Home Office,3,72032,10,216096,21609.6,194486.4,114092.69,80393.71,Net Banking,Delivered
+ORD0541,2025-02-15,Chennai,Electronics,Smartwatch,Consumer,4,74169,10,296676,29667.6,267008.4,214735.03,52273.37,Net Banking,Delivered
+ORD0542,2025-03-16,Ahmedabad,Sports,Running Shoes,Consumer,1,4037,15,4037,605.55,3431.45,2513.29,918.16,Credit Card,Delivered
+ORD0543,2025-11-09,Mumbai,Beauty,Moisturizer,Consumer,2,2676,15,5352,802.8,4549.2,3214.13,1335.07,Net Banking,Delivered
+ORD0544,2025-07-27,Pune,Electronics,Smartwatch,Corporate,3,28205,25,84615,21153.75,63461.25,43459.01,20002.24,Cash on Delivery,Cancelled
+ORD0545,2025-02-16,Chennai,Sports,Cricket Bat,Corporate,1,5117,10,5117,511.7,4605.3,2533.15,2072.15,Cash on Delivery,Delivered
+ORD0546,2025-05-18,Bengaluru,Electronics,Smartphone,Home Office,2,43632,0,87264,0.0,87264.0,51563.14,35700.86,Net Banking,Delivered
+ORD0547,2025-01-04,Bengaluru,Clothing,Sneakers,Home Office,1,972,15,972,145.8,826.2,541.8,284.4,Credit Card,Delivered
+ORD0548,2025-01-08,Chennai,Electronics,Headphones,Home Office,2,64765,0,129530,0.0,129530.0,74689.65,54840.35,Cash on Delivery,Delivered
+ORD0549,2025-01-16,Delhi,Beauty,Perfume,Home Office,1,2069,5,2069,103.45,1965.55,1172.38,793.17,Debit Card,Delivered
+ORD0550,2025-06-07,Pune,Beauty,Face Wash,Home Office,2,3822,0,7644,0.0,7644.0,5914.0,1730.0,Credit Card,Delivered
+ORD0551,2025-12-12,Kolkata,Beauty,Moisturizer,Corporate,5,892,0,4460,0.0,4460.0,2842.08,1617.92,Net Banking,Returned
+ORD0552,2025-09-11,Chennai,Beauty,Hair Dryer,Corporate,3,3935,20,11805,2361.0,9444.0,6271.92,3172.08,UPI,Delivered
+ORD0553,2025-09-03,Chennai,Electronics,Smartphone,Home Office,4,57348,25,229392,57348.0,172044.0,123328.28,48715.72,Net Banking,Delivered
+ORD0554,2025-06-21,Pune,Clothing,Jeans,Corporate,2,3488,15,6976,1046.4,5929.6,3299.88,2629.72,Debit Card,Delivered
+ORD0555,2025-04-05,Mumbai,Home & Kitchen,Bedsheet,Home Office,5,921,5,4605,230.25,4374.75,2928.88,1445.87,Cash on Delivery,Delivered
+ORD0556,2025-01-25,Kolkata,Home & Kitchen,Bedsheet,Consumer,2,7248,15,14496,2174.4,12321.6,9888.73,2432.87,Net Banking,Delivered
+ORD0557,2025-05-30,Ahmedabad,Beauty,Hair Dryer,Consumer,3,419,0,1257,0.0,1257.0,885.35,371.65,Net Banking,Delivered
+ORD0558,2025-09-28,Kolkata,Sports,Dumbbells,Consumer,2,3914,10,7828,782.8,7045.2,5142.72,1902.48,Debit Card,Delivered
+ORD0559,2025-04-21,Pune,Clothing,Jeans,Consumer,5,2695,10,13475,1347.5,12127.5,6837.61,5289.89,Net Banking,Delivered
+ORD0560,2025-06-28,Chennai,Clothing,Sneakers,Home Office,2,4386,15,8772,1315.8,7456.2,5056.03,2400.17,Net Banking,Cancelled
+ORD0561,2025-11-23,Kolkata,Clothing,Sneakers,Home Office,4,2356,25,9424,2356.0,7068.0,5719.03,1348.97,Credit Card,Delivered
+ORD0562,2025-11-02,Hyderabad,Electronics,Laptop,Consumer,3,35881,25,107643,26910.75,80732.25,54304.97,26427.28,UPI,Delivered
+ORD0563,2025-06-20,Pune,Home & Kitchen,Air Fryer,Home Office,1,4417,15,4417,662.55,3754.45,2427.99,1326.46,Net Banking,Delivered
+ORD0564,2025-05-26,Delhi,Electronics,Smartphone,Home Office,5,53213,10,266065,26606.5,239458.5,167567.69,71890.81,UPI,Delivered
+ORD0565,2025-03-09,Pune,Clothing,Sneakers,Consumer,1,5574,15,5574,836.1,4737.9,3347.31,1390.59,Credit Card,Delivered
+ORD0566,2025-05-28,Pune,Home & Kitchen,Bedsheet,Corporate,5,10233,20,51165,10233.0,40932.0,24385.9,16546.1,Credit Card,Delivered
+ORD0567,2025-04-24,Kolkata,Home & Kitchen,Coffee Maker,Consumer,2,11552,15,23104,3465.6,19638.4,11186.79,8451.61,Debit Card,Delivered
+ORD0568,2025-02-14,Hyderabad,Clothing,Jacket,Consumer,2,5728,25,11456,2864.0,8592.0,6956.39,1635.61,UPI,Delivered
+ORD0569,2025-08-08,Hyderabad,Clothing,Jacket,Home Office,3,4034,5,12102,605.1,11496.9,8839.12,2657.78,UPI,Delivered
+ORD0570,2025-04-09,Mumbai,Beauty,Perfume,Home Office,5,4987,25,24935,6233.75,18701.25,10586.72,8114.53,Debit Card,Returned
+ORD0571,2025-01-28,Ahmedabad,Sports,Running Shoes,Home Office,4,1766,25,7064,1766.0,5298.0,2998.55,2299.45,Cash on Delivery,Cancelled
+ORD0572,2025-03-06,Pune,Beauty,Perfume,Home Office,5,4286,5,21430,1071.5,20358.5,16183.0,4175.5,Debit Card,Delivered
+ORD0573,2025-08-13,Chennai,Clothing,Jacket,Consumer,5,1675,10,8375,837.5,7537.5,4857.62,2679.88,Debit Card,Cancelled
+ORD0574,2025-02-19,Ahmedabad,Beauty,Moisturizer,Home Office,3,3359,10,10077,1007.7,9069.3,5857.0,3212.3,Debit Card,Delivered
+ORD0575,2025-12-09,Hyderabad,Sports,Yoga Mat,Consumer,2,2980,20,5960,1192.0,4768.0,3250.86,1517.14,Net Banking,Delivered
+ORD0576,2025-10-24,Pune,Electronics,Smartwatch,Home Office,2,24264,0,48528,0.0,48528.0,30870.71,17657.29,UPI,Cancelled
+ORD0577,2025-12-21,Bengaluru,Sports,Cricket Bat,Home Office,2,2077,10,4154,415.4,3738.6,2232.28,1506.32,Credit Card,Delivered
+ORD0578,2025-05-06,Delhi,Beauty,Face Wash,Corporate,1,1258,15,1258,188.7,1069.3,667.67,401.63,UPI,Delivered
+ORD0579,2025-11-25,Bengaluru,Sports,Cricket Bat,Corporate,3,6438,0,19314,0.0,19314.0,14533.05,4780.95,Debit Card,Delivered
+ORD0580,2025-02-14,Pune,Home & Kitchen,Bedsheet,Consumer,2,8415,5,16830,841.5,15988.5,10675.82,5312.68,Credit Card,Returned
+ORD0581,2025-10-01,Hyderabad,Electronics,Smartwatch,Consumer,2,67337,25,134674,33668.5,101005.5,75049.4,25956.1,UPI,Delivered
+ORD0582,2025-05-23,Delhi,Electronics,Laptop,Consumer,2,47016,15,94032,14104.8,79927.2,49700.28,30226.92,Cash on Delivery,Cancelled
+ORD0583,2025-09-17,Mumbai,Sports,Dumbbells,Consumer,2,6622,5,13244,662.2,12581.8,9692.28,2889.52,Credit Card,Cancelled
+ORD0584,2025-04-09,Chennai,Electronics,Smartwatch,Consumer,1,866,25,866,216.5,649.5,402.15,247.35,Credit Card,Cancelled
+ORD0585,2025-03-14,Hyderabad,Beauty,Hair Dryer,Home Office,4,4948,20,19792,3958.4,15833.6,9730.51,6103.09,Credit Card,Returned
+ORD0586,2025-06-28,Chennai,Beauty,Perfume,Home Office,5,1838,20,9190,1838.0,7352.0,4645.83,2706.17,UPI,Delivered
+ORD0587,2025-05-02,Kolkata,Beauty,Hair Dryer,Corporate,5,4504,5,22520,1126.0,21394.0,17342.12,4051.88,Debit Card,Delivered
+ORD0588,2025-11-11,Hyderabad,Clothing,Jeans,Home Office,4,3233,20,12932,2586.4,10345.6,6338.76,4006.84,UPI,Delivered
+ORD0589,2025-01-07,Pune,Electronics,Smartwatch,Home Office,1,15405,10,15405,1540.5,13864.5,11205.27,2659.23,UPI,Delivered
+ORD0590,2025-09-30,Kolkata,Clothing,Sneakers,Consumer,4,4093,15,16372,2455.8,13916.2,9478.67,4437.53,Net Banking,Delivered
+ORD0591,2025-08-03,Pune,Home & Kitchen,Air Fryer,Consumer,1,7191,25,7191,1797.75,5393.25,3971.52,1421.73,UPI,Delivered
+ORD0592,2025-03-16,Pune,Clothing,Jeans,Consumer,3,3754,25,11262,2815.5,8446.5,5357.25,3089.25,Debit Card,Delivered
+ORD0593,2025-08-12,Pune,Sports,Running Shoes,Home Office,3,1607,10,4821,482.1,4338.9,3494.34,844.56,UPI,Cancelled
+ORD0594,2025-09-03,Chennai,Electronics,Laptop,Home Office,4,17374,10,69496,6949.6,62546.4,49144.06,13402.34,Debit Card,Delivered
+ORD0595,2025-10-25,Chennai,Clothing,Sneakers,Consumer,4,1266,0,5064,0.0,5064.0,3907.12,1156.88,Credit Card,Delivered
+ORD0596,2025-02-17,Ahmedabad,Sports,Yoga Mat,Home Office,1,6218,10,6218,621.8,5596.2,4276.21,1319.99,Cash on Delivery,Returned
+ORD0597,2025-09-30,Hyderabad,Clothing,Sneakers,Home Office,5,746,20,3730,746.0,2984.0,1933.65,1050.35,Credit Card,Delivered
+ORD0598,2025-09-21,Kolkata,Home & Kitchen,Coffee Maker,Home Office,3,3650,5,10950,547.5,10402.5,7494.7,2907.8,Net Banking,Delivered
+ORD0599,2025-09-26,Bengaluru,Home & Kitchen,Bedsheet,Corporate,5,6107,25,30535,7633.75,22901.25,18231.89,4669.36,Cash on Delivery,Returned
+ORD0600,2025-07-11,Chennai,Electronics,Laptop,Consumer,2,24449,25,48898,12224.5,36673.5,24750.95,11922.55,Debit Card,Returned
+ORD0601,2025-09-02,Pune,Home & Kitchen,Mixer Grinder,Home Office,5,11857,15,59285,8892.75,50392.25,33460.05,16932.2,Net Banking,Delivered
+ORD0602,2025-05-10,Hyderabad,Home & Kitchen,Bedsheet,Consumer,3,7268,0,21804,0.0,21804.0,13622.16,8181.84,Credit Card,Returned
+ORD0603,2025-01-16,Delhi,Electronics,Headphones,Consumer,5,49912,20,249560,49912.0,199648.0,159436.23,40211.77,Net Banking,Delivered
+ORD0604,2025-11-16,Pune,Sports,Running Shoes,Corporate,1,6353,10,6353,635.3,5717.7,4557.3,1160.4,Credit Card,Cancelled
+ORD0605,2025-01-01,Ahmedabad,Clothing,Jeans,Consumer,2,1932,0,3864,0.0,3864.0,2367.08,1496.92,Credit Card,Delivered
+ORD0606,2025-08-16,Hyderabad,Clothing,Jacket,Corporate,1,1867,15,1867,280.05,1586.95,973.3,613.65,Credit Card,Delivered
+ORD0607,2025-07-01,Chennai,Home & Kitchen,Bedsheet,Consumer,1,9771,20,9771,1954.2,7816.8,4470.54,3346.26,Net Banking,Delivered
+ORD0608,2025-09-07,Mumbai,Sports,Running Shoes,Corporate,2,5472,25,10944,2736.0,8208.0,4536.36,3671.64,Cash on Delivery,Delivered
+ORD0609,2025-11-01,Hyderabad,Home & Kitchen,Air Fryer,Corporate,2,8442,0,16884,0.0,16884.0,13327.48,3556.52,Debit Card,Cancelled
+ORD0610,2025-10-25,Delhi,Sports,Running Shoes,Home Office,1,2269,10,2269,226.9,2042.1,1302.84,739.26,Cash on Delivery,Delivered
+ORD0611,2025-07-04,Kolkata,Electronics,Smartphone,Home Office,1,66576,10,66576,6657.6,59918.4,39881.8,20036.6,Net Banking,Returned
+ORD0612,2025-04-08,Bengaluru,Clothing,Sneakers,Home Office,5,2473,10,12365,1236.5,11128.5,7112.69,4015.81,Credit Card,Delivered
+ORD0613,2025-02-25,Kolkata,Electronics,Smartphone,Home Office,1,27894,25,27894,6973.5,20920.5,16679.25,4241.25,UPI,Delivered
+ORD0614,2025-07-17,Chennai,Home & Kitchen,Coffee Maker,Consumer,5,11877,0,59385,0.0,59385.0,45829.63,13555.37,Debit Card,Delivered
+ORD0615,2025-06-17,Mumbai,Clothing,T-Shirt,Consumer,4,1851,10,7404,740.4,6663.6,5201.37,1462.23,Cash on Delivery,Delivered
+ORD0616,2025-04-18,Kolkata,Clothing,T-Shirt,Corporate,3,4260,15,12780,1917.0,10863.0,7751.84,3111.16,Net Banking,Delivered
+ORD0617,2025-05-20,Pune,Clothing,Jeans,Corporate,2,1333,20,2666,533.2,2132.8,1430.56,702.24,UPI,Delivered
+ORD0618,2025-04-07,Kolkata,Electronics,Smartphone,Home Office,3,36697,5,110091,5504.55,104586.45,63749.35,40837.1,Credit Card,Cancelled
+ORD0619,2025-11-13,Mumbai,Beauty,Perfume,Home Office,5,747,10,3735,373.5,3361.5,2709.03,652.47,Credit Card,Delivered
+ORD0620,2025-06-18,Bengaluru,Sports,Running Shoes,Home Office,3,4018,20,12054,2410.8,9643.2,5683.95,3959.25,Debit Card,Delivered
+ORD0621,2025-06-29,Ahmedabad,Home & Kitchen,Coffee Maker,Corporate,1,10618,0,10618,0.0,10618.0,7450.68,3167.32,Credit Card,Delivered
+ORD0622,2025-04-25,Kolkata,Home & Kitchen,Air Fryer,Home Office,4,6769,0,27076,0.0,27076.0,18006.06,9069.94,Credit Card,Delivered
+ORD0623,2025-07-28,Ahmedabad,Beauty,Hair Dryer,Corporate,1,919,25,919,229.75,689.25,532.43,156.82,Debit Card,Delivered
+ORD0624,2025-09-28,Bengaluru,Home & Kitchen,Air Fryer,Home Office,4,5234,5,20936,1046.8,19889.2,15684.52,4204.68,Cash on Delivery,Returned
+ORD0625,2025-04-27,Pune,Home & Kitchen,Mixer Grinder,Consumer,2,7358,0,14716,0.0,14716.0,10516.78,4199.22,Net Banking,Returned
+ORD0626,2025-11-14,Ahmedabad,Electronics,Laptop,Consumer,5,5623,0,28115,0.0,28115.0,15509.15,12605.85,Cash on Delivery,Delivered
+ORD0627,2025-07-02,Chennai,Electronics,Laptop,Corporate,2,24145,10,48290,4829.0,43461.0,26722.4,16738.6,Net Banking,Delivered
+ORD0628,2025-01-17,Bengaluru,Home & Kitchen,Air Fryer,Corporate,4,995,20,3980,796.0,3184.0,2266.47,917.53,UPI,Cancelled
+ORD0629,2025-03-20,Delhi,Beauty,Moisturizer,Home Office,3,4854,15,14562,2184.3,12377.7,6973.52,5404.18,Cash on Delivery,Cancelled
+ORD0630,2025-12-04,Ahmedabad,Clothing,Jeans,Consumer,2,5124,5,10248,512.4,9735.6,6042.62,3692.98,Debit Card,Delivered
+ORD0631,2025-06-26,Ahmedabad,Electronics,Smartphone,Home Office,1,1586,15,1586,237.9,1348.1,1018.88,329.22,Debit Card,Delivered
+ORD0632,2025-09-20,Pune,Electronics,Headphones,Corporate,4,20610,15,82440,12366.0,70074.0,56344.26,13729.74,Cash on Delivery,Cancelled
+ORD0633,2025-07-19,Chennai,Electronics,Laptop,Home Office,2,16696,25,33392,8348.0,25044.0,18330.06,6713.94,Cash on Delivery,Returned
+ORD0634,2025-03-31,Pune,Beauty,Hair Dryer,Home Office,1,3342,25,3342,835.5,2506.5,1747.88,758.62,UPI,Delivered
+ORD0635,2025-01-02,Pune,Electronics,Laptop,Corporate,4,69346,15,277384,41607.6,235776.4,175201.61,60574.79,UPI,Delivered
+ORD0636,2025-04-08,Hyderabad,Home & Kitchen,Bedsheet,Corporate,5,6548,25,32740,8185.0,24555.0,15177.12,9377.88,Net Banking,Delivered
+ORD0637,2025-07-24,Kolkata,Beauty,Hair Dryer,Consumer,2,1801,0,3602,0.0,3602.0,2329.23,1272.77,Cash on Delivery,Delivered
+ORD0638,2025-12-05,Mumbai,Beauty,Hair Dryer,Consumer,2,4079,15,8158,1223.7,6934.3,4597.02,2337.28,Net Banking,Delivered
+ORD0639,2025-02-20,Ahmedabad,Home & Kitchen,Bedsheet,Home Office,3,4775,25,14325,3581.25,10743.75,7641.75,3102.0,Debit Card,Returned
+ORD0640,2025-07-11,Delhi,Beauty,Perfume,Corporate,3,1015,20,3045,609.0,2436.0,1459.39,976.61,Net Banking,Cancelled
+ORD0641,2025-06-03,Chennai,Sports,Yoga Mat,Consumer,3,3742,20,11226,2245.2,8980.8,5634.09,3346.71,UPI,Delivered
+ORD0642,2025-09-23,Hyderabad,Home & Kitchen,Bedsheet,Corporate,3,3440,25,10320,2580.0,7740.0,4810.97,2929.03,Cash on Delivery,Returned
+ORD0643,2025-08-11,Delhi,Home & Kitchen,Mixer Grinder,Consumer,2,7165,0,14330,0.0,14330.0,8350.83,5979.17,Cash on Delivery,Delivered
+ORD0644,2025-05-12,Mumbai,Home & Kitchen,Mixer Grinder,Consumer,2,9557,20,19114,3822.8,15291.2,10958.32,4332.88,Debit Card,Delivered
+ORD0645,2025-11-03,Delhi,Beauty,Face Wash,Home Office,2,529,25,1058,264.5,793.5,477.57,315.93,UPI,Delivered
+ORD0646,2025-08-16,Mumbai,Electronics,Smartphone,Consumer,2,3367,10,6734,673.4,6060.6,3556.48,2504.12,Cash on Delivery,Delivered
+ORD0647,2025-08-30,Chennai,Sports,Running Shoes,Corporate,5,4955,25,24775,6193.75,18581.25,14514.19,4067.06,Net Banking,Delivered
+ORD0648,2025-10-21,Pune,Home & Kitchen,Air Fryer,Consumer,4,11418,0,45672,0.0,45672.0,29162.88,16509.12,Cash on Delivery,Returned
+ORD0649,2025-08-30,Pune,Beauty,Moisturizer,Home Office,2,1669,25,3338,834.5,2503.5,1750.6,752.9,Credit Card,Cancelled
+ORD0650,2025-08-08,Bengaluru,Sports,Yoga Mat,Corporate,1,5901,10,5901,590.1,5310.9,4043.77,1267.13,Debit Card,Delivered
+ORD0651,2025-10-06,Mumbai,Electronics,Smartwatch,Consumer,2,15049,5,30098,1504.9,28593.1,19325.74,9267.36,Cash on Delivery,Returned
+ORD0652,2025-06-24,Bengaluru,Sports,Cricket Bat,Consumer,1,3023,20,3023,604.6,2418.4,1493.94,924.46,Credit Card,Delivered
+ORD0653,2025-09-11,Ahmedabad,Clothing,Jacket,Consumer,5,5277,25,26385,6596.25,19788.75,14376.97,5411.78,Cash on Delivery,Cancelled
+ORD0654,2025-08-06,Hyderabad,Home & Kitchen,Coffee Maker,Consumer,1,9127,10,9127,912.7,8214.3,6444.2,1770.1,Net Banking,Delivered
+ORD0655,2025-10-06,Delhi,Beauty,Moisturizer,Corporate,2,3162,20,6324,1264.8,5059.2,3178.76,1880.44,UPI,Delivered
+ORD0656,2025-07-01,Chennai,Home & Kitchen,Mixer Grinder,Home Office,2,2427,0,4854,0.0,4854.0,3387.01,1466.99,Net Banking,Delivered
+ORD0657,2025-04-18,Hyderabad,Home & Kitchen,Bedsheet,Corporate,2,11630,5,23260,1163.0,22097.0,16638.56,5458.44,Net Banking,Cancelled
+ORD0658,2025-09-11,Hyderabad,Beauty,Moisturizer,Consumer,2,4577,15,9154,1373.1,7780.9,4544.44,3236.46,Net Banking,Cancelled
+ORD0659,2025-06-27,Kolkata,Sports,Cricket Bat,Corporate,4,3801,20,15204,3040.8,12163.2,7581.55,4581.65,Cash on Delivery,Delivered
+ORD0660,2025-01-26,Chennai,Beauty,Face Wash,Consumer,1,2957,15,2957,443.55,2513.45,1535.63,977.82,Net Banking,Cancelled
+ORD0661,2025-05-24,Pune,Sports,Yoga Mat,Consumer,3,1408,20,4224,844.8,3379.2,1977.49,1401.71,Cash on Delivery,Cancelled
+ORD0662,2025-12-19,Hyderabad,Home & Kitchen,Mixer Grinder,Consumer,2,8575,20,17150,3430.0,13720.0,8664.02,5055.98,Cash on Delivery,Cancelled
+ORD0663,2025-08-14,Chennai,Beauty,Moisturizer,Home Office,3,4579,20,13737,2747.4,10989.6,8943.12,2046.48,Credit Card,Cancelled
+ORD0664,2025-02-02,Kolkata,Home & Kitchen,Air Fryer,Consumer,2,7742,25,15484,3871.0,11613.0,7251.19,4361.81,Net Banking,Delivered
+ORD0665,2025-11-03,Mumbai,Home & Kitchen,Coffee Maker,Corporate,5,7020,20,35100,7020.0,28080.0,18379.77,9700.23,Cash on Delivery,Delivered
+ORD0666,2025-01-09,Chennai,Beauty,Face Wash,Consumer,4,4510,5,18040,902.0,17138.0,13136.22,4001.78,Credit Card,Delivered
+ORD0667,2025-09-17,Chennai,Clothing,Jeans,Consumer,1,3434,5,3434,171.7,3262.3,2460.33,801.97,Net Banking,Delivered
+ORD0668,2025-08-22,Bengaluru,Beauty,Moisturizer,Home Office,4,3607,15,14428,2164.2,12263.8,7738.22,4525.58,Credit Card,Delivered
+ORD0669,2025-03-31,Bengaluru,Clothing,Jacket,Corporate,3,5251,25,15753,3938.25,11814.75,9319.15,2495.6,Cash on Delivery,Delivered
+ORD0670,2025-09-04,Pune,Clothing,T-Shirt,Home Office,2,1135,0,2270,0.0,2270.0,1672.46,597.54,Debit Card,Delivered
+ORD0671,2025-01-27,Hyderabad,Home & Kitchen,Coffee Maker,Corporate,4,5284,5,21136,1056.8,20079.2,14199.19,5880.01,Cash on Delivery,Returned
+ORD0672,2025-11-07,Chennai,Beauty,Perfume,Home Office,2,3264,15,6528,979.2,5548.8,3154.85,2393.95,Cash on Delivery,Delivered
+ORD0673,2025-05-25,Mumbai,Sports,Dumbbells,Consumer,4,4702,20,18808,3761.6,15046.4,9907.42,5138.98,Net Banking,Delivered
+ORD0674,2025-01-19,Chennai,Sports,Running Shoes,Home Office,4,6749,15,26996,4049.4,22946.6,17052.83,5893.77,UPI,Delivered
+ORD0675,2025-02-11,Bengaluru,Sports,Dumbbells,Consumer,2,945,20,1890,378.0,1512.0,834.52,677.48,Net Banking,Delivered
+ORD0676,2025-07-12,Hyderabad,Home & Kitchen,Air Fryer,Consumer,3,1881,15,5643,846.45,4796.55,3551.92,1244.63,Net Banking,Returned
+ORD0677,2025-11-04,Chennai,Sports,Yoga Mat,Corporate,5,1568,5,7840,392.0,7448.0,4366.74,3081.26,Debit Card,Delivered
+ORD0678,2025-04-18,Mumbai,Beauty,Moisturizer,Home Office,5,645,10,3225,322.5,2902.5,2016.07,886.43,UPI,Delivered
+ORD0679,2025-01-25,Hyderabad,Home & Kitchen,Coffee Maker,Consumer,4,8783,15,35132,5269.8,29862.2,20837.02,9025.18,Net Banking,Delivered
+ORD0680,2025-10-04,Delhi,Electronics,Laptop,Consumer,1,29490,0,29490,0.0,29490.0,20898.36,8591.64,Debit Card,Delivered
+ORD0681,2025-12-20,Chennai,Sports,Running Shoes,Home Office,4,4476,15,17904,2685.6,15218.4,8844.14,6374.26,Debit Card,Cancelled
+ORD0682,2025-07-30,Ahmedabad,Sports,Yoga Mat,Home Office,1,2648,20,2648,529.6,2118.4,1628.81,489.59,Credit Card,Delivered
+ORD0683,2025-03-04,Pune,Clothing,Sneakers,Home Office,1,2676,10,2676,267.6,2408.4,1492.15,916.25,UPI,Cancelled
+ORD0684,2025-07-16,Pune,Home & Kitchen,Mixer Grinder,Consumer,3,9449,0,28347,0.0,28347.0,22346.12,6000.88,UPI,Delivered
+ORD0685,2025-07-30,Hyderabad,Clothing,Sneakers,Corporate,5,4409,5,22045,1102.25,20942.75,12030.58,8912.17,UPI,Returned
+ORD0686,2025-09-09,Bengaluru,Clothing,Jacket,Home Office,1,5698,0,5698,0.0,5698.0,3667.68,2030.32,Cash on Delivery,Delivered
+ORD0687,2025-05-28,Bengaluru,Sports,Cricket Bat,Consumer,3,2149,10,6447,644.7,5802.3,3720.75,2081.55,UPI,Cancelled
+ORD0688,2025-04-13,Hyderabad,Electronics,Smartphone,Corporate,3,67406,10,202218,20221.8,181996.2,109208.71,72787.49,Credit Card,Returned
+ORD0689,2025-03-13,Pune,Clothing,Sneakers,Home Office,1,978,20,978,195.6,782.4,481.9,300.5,Credit Card,Delivered
+ORD0690,2025-07-19,Kolkata,Home & Kitchen,Bedsheet,Home Office,1,7154,10,7154,715.4,6438.6,4789.71,1648.89,Debit Card,Delivered
+ORD0691,2025-07-23,Mumbai,Sports,Running Shoes,Home Office,4,4203,15,16812,2521.8,14290.2,9105.82,5184.38,Cash on Delivery,Cancelled
+ORD0692,2025-12-17,Hyderabad,Beauty,Perfume,Corporate,1,287,0,287,0.0,287.0,215.76,71.24,Net Banking,Delivered
+ORD0693,2025-03-15,Kolkata,Home & Kitchen,Air Fryer,Corporate,4,10073,15,40292,6043.8,34248.2,23590.23,10657.97,Cash on Delivery,Delivered
+ORD0694,2025-04-29,Mumbai,Electronics,Smartwatch,Corporate,1,33885,10,33885,3388.5,30496.5,21773.82,8722.68,Credit Card,Returned
+ORD0695,2025-11-22,Mumbai,Sports,Running Shoes,Consumer,2,3650,15,7300,1095.0,6205.0,4564.03,1640.97,Credit Card,Delivered
+ORD0696,2025-04-03,Ahmedabad,Clothing,Jeans,Consumer,3,4469,10,13407,1340.7,12066.3,6861.03,5205.27,Net Banking,Delivered
+ORD0697,2025-07-30,Chennai,Beauty,Moisturizer,Corporate,2,524,0,1048,0.0,1048.0,637.93,410.07,Cash on Delivery,Delivered
+ORD0698,2025-11-06,Delhi,Clothing,Jacket,Home Office,1,2671,20,2671,534.2,2136.8,1214.49,922.31,Cash on Delivery,Delivered
+ORD0699,2025-08-20,Bengaluru,Sports,Dumbbells,Home Office,5,1213,10,6065,606.5,5458.5,3952.01,1506.49,UPI,Delivered
+ORD0700,2025-01-22,Kolkata,Home & Kitchen,Mixer Grinder,Home Office,4,8757,15,35028,5254.2,29773.8,21949.6,7824.2,Debit Card,Delivered
+ORD0701,2025-01-13,Bengaluru,Beauty,Moisturizer,Consumer,5,2643,15,13215,1982.25,11232.75,8761.36,2471.39,Net Banking,Cancelled
+ORD0702,2025-12-02,Ahmedabad,Beauty,Face Wash,Consumer,2,1343,0,2686,0.0,2686.0,1765.06,920.94,Debit Card,Delivered
+ORD0703,2025-06-11,Delhi,Sports,Running Shoes,Home Office,5,922,5,4610,230.5,4379.5,3155.71,1223.79,Debit Card,Cancelled
+ORD0704,2025-07-18,Kolkata,Sports,Running Shoes,Consumer,1,1493,15,1493,223.95,1269.05,808.59,460.46,Net Banking,Delivered
+ORD0705,2025-12-01,Hyderabad,Sports,Cricket Bat,Consumer,2,5610,25,11220,2805.0,8415.0,6056.02,2358.98,Net Banking,Cancelled
+ORD0706,2025-10-20,Pune,Electronics,Smartwatch,Home Office,5,47505,5,237525,11876.25,225648.75,163035.74,62613.01,Credit Card,Delivered
+ORD0707,2025-12-24,Delhi,Clothing,Sneakers,Corporate,2,5719,0,11438,0.0,11438.0,6609.66,4828.34,Cash on Delivery,Delivered
+ORD0708,2025-06-30,Kolkata,Sports,Yoga Mat,Consumer,3,3935,20,11805,2361.0,9444.0,6850.49,2593.51,Cash on Delivery,Cancelled
+ORD0709,2025-01-07,Mumbai,Clothing,Jeans,Home Office,5,3685,10,18425,1842.5,16582.5,10104.76,6477.74,Net Banking,Delivered
+ORD0710,2025-06-03,Ahmedabad,Sports,Cricket Bat,Home Office,2,1387,20,2774,554.8,2219.2,1720.86,498.34,Debit Card,Delivered
+ORD0711,2025-01-03,Ahmedabad,Sports,Running Shoes,Consumer,2,5132,10,10264,1026.4,9237.6,6170.02,3067.58,Cash on Delivery,Delivered
+ORD0712,2025-02-08,Kolkata,Electronics,Smartphone,Corporate,3,14553,10,43659,4365.9,39293.1,23977.15,15315.95,Credit Card,Delivered
+ORD0713,2025-10-18,Kolkata,Beauty,Perfume,Home Office,3,4633,0,13899,0.0,13899.0,9574.21,4324.79,UPI,Delivered
+ORD0714,2025-05-06,Hyderabad,Clothing,Jeans,Consumer,3,895,10,2685,268.5,2416.5,1392.38,1024.12,Credit Card,Cancelled
+ORD0715,2025-06-13,Pune,Electronics,Smartphone,Consumer,5,2011,5,10055,502.75,9552.25,5963.43,3588.82,UPI,Returned
+ORD0716,2025-12-12,Pune,Electronics,Headphones,Home Office,2,28836,20,57672,11534.4,46137.6,34712.88,11424.72,Cash on Delivery,Delivered
+ORD0717,2025-09-16,Hyderabad,Sports,Running Shoes,Home Office,3,4766,0,14298,0.0,14298.0,7909.91,6388.09,Net Banking,Delivered
+ORD0718,2025-11-14,Delhi,Sports,Running Shoes,Corporate,3,837,25,2511,627.75,1883.25,1290.56,592.69,UPI,Delivered
+ORD0719,2025-12-07,Ahmedabad,Electronics,Laptop,Corporate,5,42245,10,211225,21122.5,190102.5,136946.67,53155.83,Credit Card,Delivered
+ORD0720,2025-03-21,Hyderabad,Sports,Dumbbells,Consumer,2,4248,5,8496,424.8,8071.2,5708.42,2362.78,Net Banking,Returned
+ORD0721,2025-08-13,Bengaluru,Electronics,Smartwatch,Consumer,4,50799,25,203196,50799.0,152397.0,92165.19,60231.81,UPI,Delivered
+ORD0722,2025-08-08,Ahmedabad,Sports,Running Shoes,Home Office,3,1964,0,5892,0.0,5892.0,4235.91,1656.09,Net Banking,Cancelled
+ORD0723,2025-10-29,Mumbai,Home & Kitchen,Coffee Maker,Consumer,4,9757,0,39028,0.0,39028.0,22794.29,16233.71,UPI,Cancelled
+ORD0724,2025-03-08,Pune,Clothing,T-Shirt,Consumer,4,3797,0,15188,0.0,15188.0,8786.65,6401.35,Credit Card,Returned
+ORD0725,2025-07-23,Pune,Sports,Running Shoes,Consumer,2,1225,5,2450,122.5,2327.5,1804.52,522.98,Cash on Delivery,Delivered
+ORD0726,2025-08-25,Pune,Electronics,Laptop,Consumer,3,61424,0,184272,0.0,184272.0,102992.06,81279.94,Debit Card,Returned
+ORD0727,2025-01-24,Kolkata,Clothing,Sneakers,Corporate,4,5377,20,21508,4301.6,17206.4,13713.59,3492.81,Debit Card,Delivered
+ORD0728,2025-07-26,Ahmedabad,Beauty,Hair Dryer,Home Office,3,4271,0,12813,0.0,12813.0,7923.72,4889.28,UPI,Delivered
+ORD0729,2025-03-16,Mumbai,Clothing,T-Shirt,Corporate,3,2053,15,6159,923.85,5235.15,3512.54,1722.61,UPI,Delivered
+ORD0730,2025-06-25,Kolkata,Home & Kitchen,Coffee Maker,Corporate,1,4287,5,4287,214.35,4072.65,2456.22,1616.43,UPI,Delivered
+ORD0731,2025-02-25,Delhi,Beauty,Moisturizer,Corporate,4,875,20,3500,700.0,2800.0,1768.0,1032.0,Cash on Delivery,Delivered
+ORD0732,2025-11-03,Pune,Electronics,Smartwatch,Home Office,3,2649,0,7947,0.0,7947.0,4600.92,3346.08,Net Banking,Delivered
+ORD0733,2025-06-30,Mumbai,Sports,Yoga Mat,Corporate,4,5875,15,23500,3525.0,19975.0,15968.16,4006.84,UPI,Delivered
+ORD0734,2025-03-26,Bengaluru,Home & Kitchen,Mixer Grinder,Home Office,4,2931,20,11724,2344.8,9379.2,5257.34,4121.86,Debit Card,Delivered
+ORD0735,2025-12-19,Delhi,Electronics,Laptop,Corporate,4,56609,25,226436,56609.0,169827.0,114819.16,55007.84,Credit Card,Delivered
+ORD0736,2025-03-23,Ahmedabad,Beauty,Moisturizer,Consumer,1,954,10,954,95.4,858.6,670.92,187.68,Cash on Delivery,Delivered
+ORD0737,2025-03-10,Chennai,Sports,Yoga Mat,Corporate,2,905,5,1810,90.5,1719.5,1382.36,337.14,UPI,Delivered
+ORD0738,2025-04-24,Pune,Electronics,Smartwatch,Consumer,1,59825,25,59825,14956.25,44868.75,35728.82,9139.93,Credit Card,Cancelled
+ORD0739,2025-08-19,Ahmedabad,Sports,Dumbbells,Home Office,2,2529,0,5058,0.0,5058.0,2912.4,2145.6,Debit Card,Delivered
+ORD0740,2025-09-12,Hyderabad,Home & Kitchen,Air Fryer,Corporate,5,9011,5,45055,2252.75,42802.25,34052.72,8749.53,UPI,Delivered
+ORD0741,2025-01-08,Hyderabad,Sports,Dumbbells,Corporate,1,1286,15,1286,192.9,1093.1,671.09,422.01,Cash on Delivery,Cancelled
+ORD0742,2025-05-06,Delhi,Sports,Cricket Bat,Corporate,1,5052,5,5052,252.6,4799.4,2851.84,1947.56,Credit Card,Delivered
+ORD0743,2025-03-03,Delhi,Sports,Cricket Bat,Corporate,1,4969,20,4969,993.8,3975.2,2281.24,1693.96,Cash on Delivery,Delivered
+ORD0744,2025-09-03,Bengaluru,Clothing,T-Shirt,Home Office,3,5719,0,17157,0.0,17157.0,9522.19,7634.81,Cash on Delivery,Delivered
+ORD0745,2025-11-26,Ahmedabad,Home & Kitchen,Mixer Grinder,Home Office,5,2145,5,10725,536.25,10188.75,5777.63,4411.12,UPI,Delivered
+ORD0746,2025-11-09,Pune,Sports,Running Shoes,Consumer,3,3542,20,10626,2125.2,8500.8,4754.4,3746.4,Debit Card,Delivered
+ORD0747,2025-01-11,Kolkata,Home & Kitchen,Mixer Grinder,Corporate,4,11549,0,46196,0.0,46196.0,34325.35,11870.65,Credit Card,Delivered
+ORD0748,2025-06-30,Delhi,Sports,Dumbbells,Corporate,4,1015,25,4060,1015.0,3045.0,2203.98,841.02,Credit Card,Delivered
+ORD0749,2025-04-25,Hyderabad,Sports,Dumbbells,Consumer,2,941,0,1882,0.0,1882.0,1522.45,359.55,Debit Card,Cancelled
+ORD0750,2025-01-26,Delhi,Clothing,Jacket,Corporate,3,4267,10,12801,1280.1,11520.9,6398.62,5122.28,Debit Card,Delivered
+ORD0751,2025-04-07,Kolkata,Home & Kitchen,Mixer Grinder,Home Office,1,8367,0,8367,0.0,8367.0,5601.93,2765.07,Credit Card,Delivered
+ORD0752,2025-05-13,Pune,Sports,Running Shoes,Home Office,5,7275,20,36375,7275.0,29100.0,20548.06,8551.94,Net Banking,Delivered
+ORD0753,2025-10-09,Ahmedabad,Electronics,Headphones,Consumer,2,68106,5,136212,6810.6,129401.4,73117.82,56283.58,UPI,Delivered
+ORD0754,2025-06-15,Mumbai,Electronics,Laptop,Corporate,1,62113,25,62113,15528.25,46584.75,35694.21,10890.54,Debit Card,Delivered
+ORD0755,2025-05-30,Pune,Beauty,Moisturizer,Corporate,5,1982,5,9910,495.5,9414.5,7503.43,1911.07,Credit Card,Delivered
+ORD0756,2025-08-01,Bengaluru,Clothing,Jeans,Corporate,3,1601,5,4803,240.15,4562.85,3655.22,907.63,Net Banking,Delivered
+ORD0757,2025-02-20,Mumbai,Electronics,Headphones,Corporate,2,36691,0,73382,0.0,73382.0,58718.67,14663.33,Debit Card,Returned
+ORD0758,2025-07-11,Bengaluru,Clothing,Jacket,Home Office,3,2979,25,8937,2234.25,6702.75,4335.77,2366.98,Debit Card,Delivered
+ORD0759,2025-05-09,Delhi,Electronics,Smartwatch,Home Office,3,46690,0,140070,0.0,140070.0,104175.88,35894.12,Net Banking,Delivered
+ORD0760,2025-01-24,Delhi,Beauty,Face Wash,Corporate,2,3568,20,7136,1427.2,5708.8,3522.54,2186.26,Cash on Delivery,Delivered
+ORD0761,2025-12-17,Mumbai,Home & Kitchen,Air Fryer,Consumer,3,528,25,1584,396.0,1188.0,666.73,521.27,Debit Card,Delivered
+ORD0762,2025-11-18,Pune,Electronics,Smartwatch,Home Office,3,55743,5,167229,8361.45,158867.55,98909.57,59957.98,Debit Card,Delivered
+ORD0763,2025-12-12,Mumbai,Sports,Cricket Bat,Consumer,1,5001,0,5001,0.0,5001.0,2914.75,2086.25,Net Banking,Delivered
+ORD0764,2025-02-13,Hyderabad,Electronics,Laptop,Consumer,2,37946,10,75892,7589.2,68302.8,45062.43,23240.37,UPI,Delivered
+ORD0765,2025-08-02,Kolkata,Home & Kitchen,Bedsheet,Corporate,4,575,5,2300,115.0,2185.0,1320.28,864.72,Net Banking,Delivered
+ORD0766,2025-08-04,Kolkata,Sports,Cricket Bat,Consumer,3,5588,10,16764,1676.4,15087.6,8908.86,6178.74,Net Banking,Delivered
+ORD0767,2025-04-15,Delhi,Beauty,Hair Dryer,Home Office,3,230,0,690,0.0,690.0,382.11,307.89,Credit Card,Cancelled
+ORD0768,2025-01-20,Kolkata,Sports,Running Shoes,Consumer,4,1812,20,7248,1449.6,5798.4,4603.13,1195.27,Cash on Delivery,Delivered
+ORD0769,2025-11-19,Bengaluru,Electronics,Smartphone,Consumer,2,43416,25,86832,21708.0,65124.0,41505.45,23618.55,Debit Card,Cancelled
+ORD0770,2025-11-28,Pune,Sports,Cricket Bat,Consumer,1,4379,0,4379,0.0,4379.0,3546.25,832.75,Credit Card,Returned
+ORD0771,2025-03-10,Ahmedabad,Sports,Yoga Mat,Corporate,3,7230,15,21690,3253.5,18436.5,15013.13,3423.37,UPI,Delivered
+ORD0772,2025-03-30,Pune,Beauty,Hair Dryer,Corporate,5,531,20,2655,531.0,2124.0,1168.56,955.44,Cash on Delivery,Delivered
+ORD0773,2025-01-15,Hyderabad,Home & Kitchen,Coffee Maker,Consumer,5,11429,15,57145,8571.75,48573.25,31385.03,17188.22,Net Banking,Returned
+ORD0774,2025-03-31,Chennai,Electronics,Smartphone,Home Office,1,14065,5,14065,703.25,13361.75,10475.36,2886.39,Debit Card,Delivered
+ORD0775,2025-10-06,Bengaluru,Home & Kitchen,Mixer Grinder,Home Office,1,9124,0,9124,0.0,9124.0,5490.38,3633.62,UPI,Delivered
+ORD0776,2025-03-18,Mumbai,Sports,Dumbbells,Home Office,3,6701,20,20103,4020.6,16082.4,10985.97,5096.43,UPI,Delivered
+ORD0777,2025-08-07,Pune,Electronics,Laptop,Home Office,5,2751,25,13755,3438.75,10316.25,7269.33,3046.92,Net Banking,Delivered
+ORD0778,2025-08-06,Chennai,Beauty,Face Wash,Consumer,2,1041,20,2082,416.4,1665.6,963.87,701.73,UPI,Delivered
+ORD0779,2025-06-27,Delhi,Home & Kitchen,Bedsheet,Consumer,4,1947,10,7788,778.8,7009.2,4701.57,2307.63,UPI,Returned
+ORD0780,2025-09-16,Hyderabad,Clothing,Sneakers,Corporate,1,1389,15,1389,208.35,1180.65,861.03,319.62,UPI,Delivered
+ORD0781,2025-07-01,Kolkata,Sports,Running Shoes,Corporate,2,3260,20,6520,1304.0,5216.0,4069.45,1146.55,Credit Card,Delivered
+ORD0782,2025-09-13,Mumbai,Sports,Running Shoes,Consumer,1,2159,25,2159,539.75,1619.25,1106.14,513.11,Debit Card,Delivered
+ORD0783,2025-08-15,Ahmedabad,Clothing,Sneakers,Corporate,2,637,20,1274,254.8,1019.2,753.85,265.35,Credit Card,Returned
+ORD0784,2025-09-24,Kolkata,Clothing,Jeans,Consumer,4,2400,10,9600,960.0,8640.0,5646.37,2993.63,Cash on Delivery,Returned
+ORD0785,2025-01-29,Mumbai,Clothing,Sneakers,Home Office,3,3898,20,11694,2338.8,9355.2,5652.34,3702.86,Credit Card,Delivered
+ORD0786,2025-10-06,Delhi,Home & Kitchen,Bedsheet,Corporate,4,10983,25,43932,10983.0,32949.0,26423.85,6525.15,Debit Card,Delivered
+ORD0787,2025-02-19,Pune,Beauty,Hair Dryer,Corporate,5,322,10,1610,161.0,1449.0,1103.35,345.65,Credit Card,Delivered
+ORD0788,2025-03-19,Ahmedabad,Electronics,Headphones,Home Office,4,28299,10,113196,11319.6,101876.4,57416.23,44460.17,UPI,Cancelled
+ORD0789,2025-11-02,Kolkata,Home & Kitchen,Coffee Maker,Consumer,3,9730,25,29190,7297.5,21892.5,14957.82,6934.68,Net Banking,Delivered
+ORD0790,2025-04-11,Chennai,Beauty,Moisturizer,Corporate,1,2191,0,2191,0.0,2191.0,1788.67,402.33,Credit Card,Delivered
+ORD0791,2025-01-06,Pune,Clothing,T-Shirt,Corporate,1,4907,10,4907,490.7,4416.3,2619.2,1797.1,Debit Card,Delivered
+ORD0792,2025-05-15,Pune,Beauty,Hair Dryer,Corporate,2,2057,20,4114,822.8,3291.2,1996.88,1294.32,Cash on Delivery,Returned
+ORD0793,2025-12-10,Chennai,Electronics,Smartwatch,Corporate,3,44813,25,134439,33609.75,100829.25,62448.0,38381.25,Credit Card,Delivered
+ORD0794,2025-07-18,Kolkata,Electronics,Smartphone,Consumer,4,1355,0,5420,0.0,5420.0,4378.64,1041.36,Credit Card,Delivered
+ORD0795,2025-07-29,Pune,Home & Kitchen,Coffee Maker,Corporate,5,10855,5,54275,2713.75,51561.25,31958.2,19603.05,Cash on Delivery,Delivered
+ORD0796,2025-10-13,Ahmedabad,Sports,Yoga Mat,Home Office,5,6643,0,33215,0.0,33215.0,25471.12,7743.88,Credit Card,Delivered
+ORD0797,2025-02-22,Mumbai,Sports,Running Shoes,Corporate,4,3478,25,13912,3478.0,10434.0,6807.21,3626.79,Cash on Delivery,Delivered
+ORD0798,2025-11-19,Hyderabad,Home & Kitchen,Bedsheet,Home Office,1,11875,25,11875,2968.75,8906.25,7089.93,1816.32,Credit Card,Delivered
+ORD0799,2025-09-20,Kolkata,Beauty,Perfume,Consumer,4,1463,10,5852,585.2,5266.8,3493.26,1773.54,Credit Card,Delivered
+ORD0800,2025-06-22,Mumbai,Clothing,Jeans,Consumer,3,2868,5,8604,430.2,8173.8,4869.01,3304.79,Cash on Delivery,Returned
+ORD0801,2025-05-27,Kolkata,Beauty,Face Wash,Consumer,3,3310,5,9930,496.5,9433.5,6208.08,3225.42,Debit Card,Returned
+ORD0802,2025-09-15,Hyderabad,Electronics,Smartwatch,Corporate,3,23101,20,69303,13860.6,55442.4,45084.94,10357.46,Debit Card,Delivered
+ORD0803,2025-12-15,Bengaluru,Beauty,Face Wash,Corporate,2,578,0,1156,0.0,1156.0,843.18,312.82,Credit Card,Delivered
+ORD0804,2025-04-14,Chennai,Sports,Running Shoes,Home Office,1,6987,25,6987,1746.75,5240.25,3157.96,2082.29,Debit Card,Delivered
+ORD0805,2025-02-26,Mumbai,Clothing,Sneakers,Corporate,5,809,0,4045,0.0,4045.0,2696.69,1348.31,UPI,Delivered
+ORD0806,2025-10-08,Delhi,Home & Kitchen,Coffee Maker,Corporate,5,8130,25,40650,10162.5,30487.5,23913.98,6573.52,Credit Card,Returned
+ORD0807,2025-02-07,Ahmedabad,Clothing,Sneakers,Corporate,3,5427,10,16281,1628.1,14652.9,11136.72,3516.18,Net Banking,Delivered
+ORD0808,2025-11-04,Pune,Beauty,Hair Dryer,Consumer,4,1769,0,7076,0.0,7076.0,5589.57,1486.43,UPI,Delivered
+ORD0809,2025-07-16,Mumbai,Beauty,Face Wash,Corporate,5,4260,20,21300,4260.0,17040.0,10819.25,6220.75,Debit Card,Delivered
+ORD0810,2025-08-21,Delhi,Sports,Yoga Mat,Home Office,1,1699,25,1699,424.75,1274.25,853.02,421.23,Cash on Delivery,Delivered
+ORD0811,2025-02-08,Chennai,Electronics,Laptop,Corporate,3,31736,25,95208,23802.0,71406.0,49647.56,21758.44,UPI,Returned
+ORD0812,2025-12-24,Delhi,Beauty,Face Wash,Home Office,4,997,10,3988,398.8,3589.2,2599.35,989.85,Cash on Delivery,Delivered
+ORD0813,2025-04-13,Hyderabad,Sports,Cricket Bat,Home Office,2,2160,20,4320,864.0,3456.0,2833.3,622.7,Debit Card,Delivered
+ORD0814,2025-10-19,Bengaluru,Home & Kitchen,Bedsheet,Consumer,1,9148,5,9148,457.4,8690.6,6997.28,1693.32,Credit Card,Cancelled
+ORD0815,2025-08-20,Kolkata,Sports,Running Shoes,Consumer,4,4779,10,19116,1911.6,17204.4,12398.75,4805.65,Cash on Delivery,Delivered
+ORD0816,2025-03-26,Chennai,Beauty,Face Wash,Home Office,3,1936,0,5808,0.0,5808.0,3256.21,2551.79,Net Banking,Delivered
+ORD0817,2025-04-09,Kolkata,Clothing,Jeans,Home Office,5,1712,15,8560,1284.0,7276.0,5357.65,1918.35,Debit Card,Returned
+ORD0818,2025-02-21,Delhi,Sports,Cricket Bat,Consumer,2,4020,25,8040,2010.0,6030.0,3460.0,2570.0,UPI,Delivered
+ORD0819,2025-03-05,Delhi,Beauty,Hair Dryer,Corporate,3,3509,15,10527,1579.05,8947.95,6991.72,1956.23,Net Banking,Delivered
+ORD0820,2025-12-15,Bengaluru,Beauty,Hair Dryer,Corporate,3,1431,25,4293,1073.25,3219.75,2130.53,1089.22,Cash on Delivery,Delivered
+ORD0821,2025-04-13,Mumbai,Beauty,Perfume,Home Office,2,4880,15,9760,1464.0,8296.0,6298.58,1997.42,Credit Card,Delivered
+ORD0822,2025-09-06,Pune,Clothing,Sneakers,Consumer,2,3534,25,7068,1767.0,5301.0,3755.34,1545.66,Credit Card,Delivered
+ORD0823,2025-11-28,Chennai,Home & Kitchen,Bedsheet,Corporate,3,9801,5,29403,1470.15,27932.85,22012.25,5920.6,Debit Card,Delivered
+ORD0824,2025-02-15,Pune,Sports,Cricket Bat,Home Office,2,7192,10,14384,1438.4,12945.6,10175.57,2770.03,Cash on Delivery,Delivered
+ORD0825,2025-10-14,Delhi,Sports,Running Shoes,Corporate,3,561,25,1683,420.75,1262.25,859.26,402.99,Cash on Delivery,Delivered
+ORD0826,2025-02-15,Ahmedabad,Home & Kitchen,Coffee Maker,Home Office,1,1389,25,1389,347.25,1041.75,663.05,378.7,UPI,Cancelled
+ORD0827,2025-06-07,Bengaluru,Clothing,Jacket,Home Office,1,1741,15,1741,261.15,1479.85,1090.06,389.79,Credit Card,Delivered
+ORD0828,2025-11-14,Delhi,Beauty,Hair Dryer,Consumer,5,4185,15,20925,3138.75,17786.25,11494.98,6291.27,Cash on Delivery,Delivered
+ORD0829,2025-10-17,Hyderabad,Clothing,Jeans,Consumer,3,1137,0,3411,0.0,3411.0,2533.58,877.42,UPI,Returned
+ORD0830,2025-11-16,Delhi,Beauty,Face Wash,Home Office,3,4847,10,14541,1454.1,13086.9,8902.67,4184.23,Credit Card,Delivered
+ORD0831,2025-05-18,Kolkata,Clothing,Jacket,Corporate,1,1835,0,1835,0.0,1835.0,1308.4,526.6,UPI,Delivered
+ORD0832,2025-08-22,Bengaluru,Beauty,Face Wash,Consumer,4,492,0,1968,0.0,1968.0,1159.57,808.43,UPI,Delivered
+ORD0833,2025-05-21,Kolkata,Clothing,T-Shirt,Home Office,4,334,15,1336,200.4,1135.6,796.17,339.43,Credit Card,Cancelled
+ORD0834,2025-01-31,Mumbai,Electronics,Smartwatch,Home Office,3,6209,20,18627,3725.4,14901.6,9132.94,5768.66,UPI,Delivered
+ORD0835,2025-01-16,Kolkata,Home & Kitchen,Coffee Maker,Consumer,3,10935,20,32805,6561.0,26244.0,20050.04,6193.96,Net Banking,Delivered
+ORD0836,2025-08-17,Mumbai,Sports,Dumbbells,Consumer,3,6155,25,18465,4616.25,13848.75,8960.91,4887.84,Debit Card,Returned
+ORD0837,2025-06-06,Delhi,Sports,Running Shoes,Home Office,1,6102,10,6102,610.2,5491.8,4012.94,1478.86,Credit Card,Delivered
+ORD0838,2025-04-02,Pune,Beauty,Moisturizer,Home Office,1,1549,0,1549,0.0,1549.0,1256.52,292.48,UPI,Delivered
+ORD0839,2025-04-02,Delhi,Electronics,Headphones,Consumer,3,41952,25,125856,31464.0,94392.0,55596.69,38795.31,UPI,Cancelled
+ORD0840,2025-10-14,Delhi,Sports,Dumbbells,Consumer,3,1475,5,4425,221.25,4203.75,2341.45,1862.3,Net Banking,Delivered
+ORD0841,2025-01-02,Kolkata,Sports,Running Shoes,Corporate,1,5316,25,5316,1329.0,3987.0,2847.21,1139.79,Net Banking,Delivered
+ORD0842,2025-03-30,Mumbai,Beauty,Moisturizer,Home Office,5,4795,20,23975,4795.0,19180.0,13946.17,5233.83,Cash on Delivery,Delivered
+ORD0843,2025-12-10,Delhi,Beauty,Face Wash,Consumer,4,348,20,1392,278.4,1113.6,723.88,389.72,Debit Card,Delivered
+ORD0844,2025-02-15,Bengaluru,Home & Kitchen,Coffee Maker,Home Office,4,1097,5,4388,219.4,4168.6,3045.88,1122.72,Net Banking,Delivered
+ORD0845,2025-06-01,Delhi,Sports,Running Shoes,Home Office,3,988,0,2964,0.0,2964.0,1993.49,970.51,Debit Card,Delivered
+ORD0846,2025-10-23,Bengaluru,Clothing,Sneakers,Consumer,4,5098,15,20392,3058.8,17333.2,13132.66,4200.54,UPI,Delivered
+ORD0847,2025-12-22,Ahmedabad,Clothing,T-Shirt,Home Office,2,5133,5,10266,513.3,9752.7,5703.84,4048.86,Debit Card,Delivered
+ORD0848,2025-06-02,Chennai,Electronics,Laptop,Home Office,2,21600,25,43200,10800.0,32400.0,23618.05,8781.95,Credit Card,Delivered
+ORD0849,2025-10-29,Hyderabad,Sports,Running Shoes,Corporate,3,7813,5,23439,1171.95,22267.05,16859.19,5407.86,Cash on Delivery,Returned
+ORD0850,2025-10-14,Bengaluru,Clothing,Sneakers,Consumer,2,3541,10,7082,708.2,6373.8,4912.94,1460.86,Credit Card,Delivered
+ORD0851,2025-07-07,Mumbai,Home & Kitchen,Bedsheet,Corporate,1,6283,20,6283,1256.6,5026.4,2880.42,2145.98,Debit Card,Delivered
+ORD0852,2025-05-18,Pune,Clothing,Sneakers,Home Office,3,3178,20,9534,1906.8,7627.2,6045.48,1581.72,UPI,Delivered
+ORD0853,2025-03-29,Mumbai,Home & Kitchen,Coffee Maker,Corporate,2,5506,5,11012,550.6,10461.4,6659.39,3802.01,Debit Card,Delivered
+ORD0854,2025-08-01,Hyderabad,Home & Kitchen,Mixer Grinder,Consumer,2,9780,0,19560,0.0,19560.0,15027.1,4532.9,Net Banking,Delivered
+ORD0855,2025-12-19,Ahmedabad,Beauty,Moisturizer,Corporate,2,3675,0,7350,0.0,7350.0,4301.12,3048.88,Cash on Delivery,Cancelled
+ORD0856,2025-01-26,Mumbai,Clothing,Sneakers,Corporate,5,3303,20,16515,3303.0,13212.0,8169.83,5042.17,UPI,Delivered
+ORD0857,2025-07-05,Pune,Clothing,Jacket,Home Office,3,1486,20,4458,891.6,3566.4,2629.92,936.48,Credit Card,Delivered
+ORD0858,2025-07-23,Kolkata,Sports,Cricket Bat,Corporate,4,786,5,3144,157.2,2986.8,2279.93,706.87,Credit Card,Delivered
+ORD0859,2025-12-03,Pune,Clothing,T-Shirt,Home Office,5,355,5,1775,88.75,1686.25,1101.58,584.67,Cash on Delivery,Delivered
+ORD0860,2025-02-22,Delhi,Electronics,Smartphone,Consumer,1,17293,0,17293,0.0,17293.0,13853.06,3439.94,Cash on Delivery,Delivered
+ORD0861,2025-06-16,Bengaluru,Electronics,Smartwatch,Corporate,2,31669,15,63338,9500.7,53837.3,31506.77,22330.53,Debit Card,Returned
+ORD0862,2025-06-14,Chennai,Sports,Dumbbells,Consumer,3,5392,20,16176,3235.2,12940.8,10223.11,2717.69,Credit Card,Returned
+ORD0863,2025-07-07,Mumbai,Sports,Yoga Mat,Home Office,2,7216,25,14432,3608.0,10824.0,7338.75,3485.25,UPI,Delivered
+ORD0864,2025-09-10,Delhi,Beauty,Face Wash,Corporate,5,2891,0,14455,0.0,14455.0,8644.49,5810.51,UPI,Delivered
+ORD0865,2025-11-17,Mumbai,Clothing,T-Shirt,Consumer,3,2887,0,8661,0.0,8661.0,6759.35,1901.65,UPI,Delivered
+ORD0866,2025-04-15,Pune,Clothing,T-Shirt,Home Office,1,1829,15,1829,274.35,1554.65,1043.77,510.88,Credit Card,Delivered
+ORD0867,2025-10-20,Kolkata,Beauty,Face Wash,Corporate,1,2040,10,2040,204.0,1836.0,1308.14,527.86,UPI,Returned
+ORD0868,2025-01-08,Mumbai,Sports,Running Shoes,Consumer,4,4509,15,18036,2705.4,15330.6,10959.81,4370.79,Cash on Delivery,Delivered
+ORD0869,2025-12-04,Mumbai,Beauty,Hair Dryer,Corporate,2,1018,20,2036,407.2,1628.8,1095.24,533.56,Credit Card,Delivered
+ORD0870,2025-05-18,Kolkata,Sports,Yoga Mat,Consumer,4,2206,15,8824,1323.6,7500.4,5602.01,1898.39,Credit Card,Delivered
+ORD0871,2025-03-06,Chennai,Electronics,Smartphone,Consumer,5,62982,5,314910,15745.5,299164.5,189055.83,110108.67,Net Banking,Delivered
+ORD0872,2025-05-19,Hyderabad,Beauty,Perfume,Corporate,3,2868,0,8604,0.0,8604.0,5956.04,2647.96,Debit Card,Cancelled
+ORD0873,2025-07-24,Delhi,Clothing,Sneakers,Corporate,1,1916,5,1916,95.8,1820.2,1406.2,414.0,Net Banking,Returned
+ORD0874,2025-05-12,Hyderabad,Electronics,Headphones,Corporate,1,53043,5,53043,2652.15,50390.85,29495.67,20895.18,Credit Card,Delivered
+ORD0875,2025-03-15,Pune,Clothing,T-Shirt,Corporate,4,1281,5,5124,256.2,4867.8,3902.39,965.41,Credit Card,Delivered
+ORD0876,2025-11-02,Chennai,Home & Kitchen,Bedsheet,Home Office,4,9821,0,39284,0.0,39284.0,25901.92,13382.08,Net Banking,Delivered
+ORD0877,2025-04-27,Delhi,Home & Kitchen,Air Fryer,Consumer,3,3685,25,11055,2763.75,8291.25,5946.18,2345.07,Credit Card,Delivered
+ORD0878,2025-04-25,Kolkata,Home & Kitchen,Air Fryer,Corporate,2,10069,25,20138,5034.5,15103.5,12015.59,3087.91,Cash on Delivery,Cancelled
+ORD0879,2025-06-28,Bengaluru,Sports,Running Shoes,Corporate,2,3155,0,6310,0.0,6310.0,4645.75,1664.25,Net Banking,Delivered
+ORD0880,2025-06-08,Mumbai,Electronics,Smartwatch,Corporate,2,38815,25,77630,19407.5,58222.5,45743.33,12479.17,UPI,Delivered
+ORD0881,2025-06-18,Chennai,Sports,Yoga Mat,Home Office,1,2129,15,2129,319.35,1809.65,1124.29,685.36,Net Banking,Returned
+ORD0882,2025-06-17,Mumbai,Home & Kitchen,Bedsheet,Consumer,1,5422,5,5422,271.1,5150.9,3084.21,2066.69,UPI,Delivered
+ORD0883,2025-11-27,Pune,Electronics,Smartphone,Corporate,4,3286,10,13144,1314.4,11829.6,9235.4,2594.2,Cash on Delivery,Cancelled
+ORD0884,2025-10-12,Mumbai,Electronics,Smartwatch,Home Office,2,25026,10,50052,5005.2,45046.8,30377.64,14669.16,Credit Card,Delivered
+ORD0885,2025-09-10,Delhi,Home & Kitchen,Bedsheet,Home Office,2,8349,5,16698,834.9,15863.1,10531.18,5331.92,Debit Card,Delivered
+ORD0886,2025-07-09,Pune,Beauty,Perfume,Consumer,1,4523,25,4523,1130.75,3392.25,2645.62,746.63,Cash on Delivery,Cancelled
+ORD0887,2025-05-16,Hyderabad,Clothing,Sneakers,Home Office,5,2638,25,13190,3297.5,9892.5,5902.31,3990.19,Cash on Delivery,Returned
+ORD0888,2025-11-20,Delhi,Beauty,Hair Dryer,Consumer,3,1975,20,5925,1185.0,4740.0,3695.48,1044.52,Net Banking,Delivered
+ORD0889,2025-02-08,Hyderabad,Beauty,Hair Dryer,Corporate,2,276,25,552,138.0,414.0,300.81,113.19,Debit Card,Delivered
+ORD0890,2025-09-23,Pune,Electronics,Laptop,Corporate,2,12140,15,24280,3642.0,20638.0,15620.95,5017.05,Net Banking,Delivered
+ORD0891,2025-06-07,Pune,Electronics,Laptop,Consumer,4,18076,0,72304,0.0,72304.0,54668.3,17635.7,Debit Card,Delivered
+ORD0892,2025-03-25,Ahmedabad,Electronics,Smartwatch,Corporate,4,41802,10,167208,16720.8,150487.2,101789.29,48697.91,Debit Card,Cancelled
+ORD0893,2025-10-16,Pune,Electronics,Headphones,Home Office,3,34525,0,103575,0.0,103575.0,71825.3,31749.7,Cash on Delivery,Delivered
+ORD0894,2025-07-18,Kolkata,Beauty,Moisturizer,Corporate,1,2014,20,2014,402.8,1611.2,1173.48,437.72,UPI,Returned
+ORD0895,2025-11-09,Delhi,Beauty,Perfume,Corporate,1,1925,15,1925,288.75,1636.25,1240.66,395.59,Cash on Delivery,Delivered
+ORD0896,2025-12-11,Ahmedabad,Electronics,Smartphone,Corporate,1,23169,20,23169,4633.8,18535.2,12343.53,6191.67,Net Banking,Delivered
+ORD0897,2025-10-19,Mumbai,Sports,Cricket Bat,Home Office,3,3152,25,9456,2364.0,7092.0,4206.27,2885.73,UPI,Delivered
+ORD0898,2025-04-23,Chennai,Clothing,Jeans,Home Office,1,4444,10,4444,444.4,3999.6,2913.97,1085.63,Debit Card,Delivered
+ORD0899,2025-05-11,Bengaluru,Sports,Cricket Bat,Corporate,5,1906,15,9530,1429.5,8100.5,5933.54,2166.96,UPI,Delivered
+ORD0900,2025-01-13,Hyderabad,Home & Kitchen,Coffee Maker,Home Office,3,11018,20,33054,6610.8,26443.2,14803.83,11639.37,Debit Card,Delivered
+ORD0901,2025-11-07,Chennai,Electronics,Smartphone,Home Office,3,45233,0,135699,0.0,135699.0,100298.23,35400.77,Debit Card,Delivered
+ORD0902,2025-01-10,Hyderabad,Beauty,Face Wash,Corporate,4,4959,10,19836,1983.6,17852.4,13032.46,4819.94,UPI,Cancelled
+ORD0903,2025-01-25,Hyderabad,Beauty,Perfume,Consumer,4,601,20,2404,480.8,1923.2,1505.87,417.33,UPI,Delivered
+ORD0904,2025-06-26,Pune,Electronics,Smartphone,Consumer,1,7249,10,7249,724.9,6524.1,4873.31,1650.79,UPI,Delivered
+ORD0905,2025-10-06,Bengaluru,Clothing,Sneakers,Corporate,5,5232,0,26160,0.0,26160.0,20955.86,5204.14,Credit Card,Delivered
+ORD0906,2025-07-26,Mumbai,Home & Kitchen,Air Fryer,Home Office,2,756,5,1512,75.6,1436.4,968.47,467.93,Cash on Delivery,Returned
+ORD0907,2025-03-15,Delhi,Sports,Dumbbells,Home Office,3,7166,5,21498,1074.9,20423.1,12568.77,7854.33,UPI,Delivered
+ORD0908,2025-03-04,Ahmedabad,Beauty,Moisturizer,Consumer,2,572,20,1144,228.8,915.2,548.49,366.71,UPI,Delivered
+ORD0909,2025-06-01,Chennai,Electronics,Headphones,Home Office,4,32758,20,131032,26206.4,104825.6,71357.91,33467.69,Debit Card,Returned
+ORD0910,2025-03-06,Bengaluru,Home & Kitchen,Mixer Grinder,Home Office,1,3503,15,3503,525.45,2977.55,2245.43,732.12,Cash on Delivery,Delivered
+ORD0911,2025-03-11,Ahmedabad,Sports,Running Shoes,Consumer,2,3436,25,6872,1718.0,5154.0,3217.98,1936.02,Cash on Delivery,Delivered
+ORD0912,2025-09-10,Kolkata,Beauty,Perfume,Corporate,2,1358,0,2716,0.0,2716.0,1673.28,1042.72,Net Banking,Delivered
+ORD0913,2025-11-28,Hyderabad,Home & Kitchen,Coffee Maker,Home Office,5,4034,15,20170,3025.5,17144.5,13075.64,4068.86,UPI,Delivered
+ORD0914,2025-08-06,Pune,Sports,Dumbbells,Consumer,5,846,20,4230,846.0,3384.0,2310.61,1073.39,UPI,Delivered
+ORD0915,2025-01-30,Kolkata,Home & Kitchen,Coffee Maker,Home Office,2,3013,5,6026,301.3,5724.7,4005.08,1719.62,Credit Card,Delivered
+ORD0916,2025-10-18,Bengaluru,Electronics,Laptop,Consumer,1,35368,20,35368,7073.6,28294.4,21476.8,6817.6,Cash on Delivery,Delivered
+ORD0917,2025-03-24,Bengaluru,Electronics,Headphones,Home Office,5,17957,20,89785,17957.0,71828.0,51487.0,20341.0,Net Banking,Returned
+ORD0918,2025-09-01,Bengaluru,Home & Kitchen,Bedsheet,Consumer,3,11329,10,33987,3398.7,30588.3,19453.61,11134.69,Cash on Delivery,Delivered
+ORD0919,2025-05-03,Chennai,Home & Kitchen,Air Fryer,Home Office,5,1103,10,5515,551.5,4963.5,3682.93,1280.57,Cash on Delivery,Delivered
+ORD0920,2025-08-07,Mumbai,Sports,Yoga Mat,Home Office,4,2746,10,10984,1098.4,9885.6,6446.93,3438.67,Credit Card,Cancelled
+ORD0921,2025-09-30,Hyderabad,Beauty,Moisturizer,Consumer,2,2623,15,5246,786.9,4459.1,2931.41,1527.69,Net Banking,Delivered
+ORD0922,2025-03-30,Bengaluru,Sports,Dumbbells,Corporate,1,2777,10,2777,277.7,2499.3,1774.49,724.81,Credit Card,Delivered
+ORD0923,2025-07-15,Bengaluru,Clothing,T-Shirt,Consumer,1,2017,20,2017,403.4,1613.6,1240.27,373.33,Debit Card,Returned
+ORD0924,2025-09-18,Kolkata,Home & Kitchen,Coffee Maker,Home Office,1,6269,0,6269,0.0,6269.0,3944.48,2324.52,Debit Card,Delivered
+ORD0925,2025-12-22,Delhi,Home & Kitchen,Coffee Maker,Home Office,5,8227,25,41135,10283.75,30851.25,18196.45,12654.8,Net Banking,Delivered
+ORD0926,2025-01-13,Delhi,Electronics,Smartwatch,Consumer,3,46182,0,138546,0.0,138546.0,112612.47,25933.53,Credit Card,Returned
+ORD0927,2025-12-15,Kolkata,Beauty,Hair Dryer,Corporate,2,1269,10,2538,253.8,2284.2,1262.05,1022.15,UPI,Delivered
+ORD0928,2025-01-24,Pune,Beauty,Hair Dryer,Home Office,2,3133,0,6266,0.0,6266.0,4180.63,2085.37,Cash on Delivery,Delivered
+ORD0929,2025-01-04,Chennai,Clothing,T-Shirt,Consumer,3,5393,5,16179,808.95,15370.05,9155.38,6214.67,UPI,Delivered
+ORD0930,2025-06-13,Ahmedabad,Home & Kitchen,Air Fryer,Home Office,2,4990,10,9980,998.0,8982.0,6279.6,2702.4,Credit Card,Cancelled
+ORD0931,2025-07-17,Chennai,Sports,Yoga Mat,Corporate,3,538,25,1614,403.5,1210.5,932.8,277.7,Net Banking,Delivered
+ORD0932,2025-10-15,Mumbai,Home & Kitchen,Bedsheet,Home Office,2,9331,20,18662,3732.4,14929.6,8719.8,6209.8,Credit Card,Delivered
+ORD0933,2025-08-27,Bengaluru,Home & Kitchen,Mixer Grinder,Corporate,4,4488,20,17952,3590.4,14361.6,10839.62,3521.98,UPI,Delivered
+ORD0934,2025-06-07,Bengaluru,Sports,Cricket Bat,Consumer,1,7531,20,7531,1506.2,6024.8,3651.71,2373.09,UPI,Delivered
+ORD0935,2025-06-09,Mumbai,Beauty,Face Wash,Corporate,1,1951,0,1951,0.0,1951.0,1332.63,618.37,Debit Card,Delivered
+ORD0936,2025-05-25,Hyderabad,Clothing,Sneakers,Corporate,2,2760,5,5520,276.0,5244.0,4019.2,1224.8,Cash on Delivery,Cancelled
+ORD0937,2025-02-19,Hyderabad,Electronics,Laptop,Consumer,2,3763,10,7526,752.6,6773.4,5030.96,1742.44,Credit Card,Cancelled
+ORD0938,2025-05-05,Ahmedabad,Home & Kitchen,Coffee Maker,Corporate,3,5012,15,15036,2255.4,12780.6,7258.48,5522.12,Credit Card,Delivered
+ORD0939,2025-04-04,Delhi,Electronics,Smartphone,Home Office,1,55984,15,55984,8397.6,47586.4,35203.18,12383.22,Credit Card,Cancelled
+ORD0940,2025-06-09,Bengaluru,Home & Kitchen,Coffee Maker,Home Office,4,9934,25,39736,9934.0,29802.0,21027.19,8774.81,Net Banking,Delivered
+ORD0941,2025-09-17,Delhi,Sports,Yoga Mat,Home Office,5,3005,5,15025,751.25,14273.75,10870.43,3403.32,UPI,Delivered
+ORD0942,2025-08-15,Bengaluru,Beauty,Hair Dryer,Corporate,1,4221,20,4221,844.2,3376.8,1974.11,1402.69,Net Banking,Delivered
+ORD0943,2025-12-02,Chennai,Clothing,Jacket,Corporate,1,1872,10,1872,187.2,1684.8,1152.4,532.4,UPI,Delivered
+ORD0944,2025-02-27,Kolkata,Clothing,Jeans,Consumer,5,380,5,1900,95.0,1805.0,1088.81,716.19,Cash on Delivery,Delivered
+ORD0945,2025-05-17,Chennai,Clothing,T-Shirt,Home Office,1,1645,25,1645,411.25,1233.75,729.91,503.84,Net Banking,Delivered
+ORD0946,2025-11-09,Bengaluru,Home & Kitchen,Air Fryer,Home Office,3,11103,25,33309,8327.25,24981.75,17815.16,7166.59,Debit Card,Returned
+ORD0947,2025-04-14,Pune,Beauty,Face Wash,Corporate,1,1498,10,1498,149.8,1348.2,898.39,449.81,Net Banking,Delivered
+ORD0948,2025-09-11,Ahmedabad,Home & Kitchen,Air Fryer,Home Office,1,7870,25,7870,1967.5,5902.5,4801.6,1100.9,Net Banking,Returned
+ORD0949,2025-05-14,Delhi,Beauty,Face Wash,Consumer,3,2866,0,8598,0.0,8598.0,6806.69,1791.31,UPI,Delivered
+ORD0950,2025-06-13,Delhi,Electronics,Headphones,Corporate,5,6699,10,33495,3349.5,30145.5,18344.74,11800.76,UPI,Delivered
+ORD0951,2025-01-21,Hyderabad,Home & Kitchen,Bedsheet,Corporate,4,1056,0,4224,0.0,4224.0,3264.25,959.75,Debit Card,Delivered
+ORD0952,2025-11-21,Hyderabad,Clothing,T-Shirt,Corporate,4,1948,5,7792,389.6,7402.4,5302.99,2099.41,Cash on Delivery,Cancelled
+ORD0953,2025-03-15,Kolkata,Beauty,Perfume,Corporate,4,1916,0,7664,0.0,7664.0,5734.52,1929.48,Credit Card,Delivered
+ORD0954,2025-05-11,Delhi,Clothing,Sneakers,Consumer,2,800,10,1600,160.0,1440.0,800.96,639.04,Debit Card,Cancelled
+ORD0955,2025-08-07,Bengaluru,Electronics,Laptop,Corporate,2,48793,15,97586,14637.9,82948.1,55715.46,27232.64,Debit Card,Cancelled
+ORD0956,2025-10-09,Bengaluru,Electronics,Headphones,Corporate,5,44084,10,220420,22042.0,198378.0,119558.33,78819.67,Debit Card,Returned
+ORD0957,2025-03-02,Pune,Clothing,T-Shirt,Home Office,4,2888,10,11552,1155.2,10396.8,6854.3,3542.5,UPI,Returned
+ORD0958,2025-02-24,Delhi,Electronics,Laptop,Corporate,4,40877,0,163508,0.0,163508.0,106861.36,56646.64,UPI,Delivered
+ORD0959,2025-02-21,Mumbai,Sports,Yoga Mat,Corporate,1,6229,25,6229,1557.25,4671.75,3450.95,1220.8,UPI,Cancelled
+ORD0960,2025-03-28,Chennai,Clothing,Jacket,Consumer,4,2205,5,8820,441.0,8379.0,6249.72,2129.28,UPI,Delivered
+ORD0961,2025-07-10,Pune,Electronics,Smartwatch,Consumer,3,24471,20,73413,14682.6,58730.4,45106.07,13624.33,Net Banking,Returned
+ORD0962,2025-05-05,Ahmedabad,Beauty,Moisturizer,Home Office,5,1831,0,9155,0.0,9155.0,7137.11,2017.89,Cash on Delivery,Delivered
+ORD0963,2025-05-02,Mumbai,Home & Kitchen,Mixer Grinder,Consumer,1,5524,20,5524,1104.8,4419.2,3376.03,1043.17,Cash on Delivery,Returned
+ORD0964,2025-09-05,Kolkata,Home & Kitchen,Mixer Grinder,Corporate,4,8980,20,35920,7184.0,28736.0,19636.44,9099.56,Credit Card,Returned
+ORD0965,2025-04-25,Mumbai,Beauty,Moisturizer,Consumer,1,4307,5,4307,215.35,4091.65,3116.45,975.2,Credit Card,Delivered
+ORD0966,2025-05-21,Mumbai,Home & Kitchen,Air Fryer,Home Office,3,1392,5,4176,208.8,3967.2,2808.98,1158.22,Net Banking,Delivered
+ORD0967,2025-03-26,Kolkata,Electronics,Headphones,Corporate,3,54965,0,164895,0.0,164895.0,128110.15,36784.85,Net Banking,Delivered
+ORD0968,2025-08-09,Pune,Electronics,Laptop,Consumer,4,18957,5,75828,3791.4,72036.6,54176.55,17860.05,Cash on Delivery,Delivered
+ORD0969,2025-08-16,Ahmedabad,Beauty,Moisturizer,Consumer,3,4682,5,14046,702.3,13343.7,8812.32,4531.38,Net Banking,Cancelled
+ORD0970,2025-04-20,Delhi,Electronics,Laptop,Consumer,5,15546,15,77730,11659.5,66070.5,45768.21,20302.29,UPI,Cancelled
+ORD0971,2025-01-19,Hyderabad,Beauty,Perfume,Corporate,1,2591,25,2591,647.75,1943.25,1453.46,489.79,UPI,Delivered
+ORD0972,2025-04-07,Ahmedabad,Beauty,Perfume,Home Office,5,4131,10,20655,2065.5,18589.5,14825.01,3764.49,Net Banking,Returned
+ORD0973,2025-10-28,Ahmedabad,Electronics,Laptop,Corporate,3,50408,0,151224,0.0,151224.0,103148.69,48075.31,Net Banking,Delivered
+ORD0974,2025-10-01,Bengaluru,Electronics,Laptop,Corporate,1,70635,20,70635,14127.0,56508.0,42139.51,14368.49,UPI,Delivered
+ORD0975,2025-07-02,Ahmedabad,Sports,Dumbbells,Home Office,2,786,0,1572,0.0,1572.0,1176.5,395.5,Credit Card,Delivered
+ORD0976,2025-09-29,Kolkata,Sports,Cricket Bat,Home Office,2,6064,20,12128,2425.6,9702.4,7092.15,2610.25,UPI,Returned
+ORD0977,2025-11-04,Chennai,Clothing,T-Shirt,Consumer,1,2154,25,2154,538.5,1615.5,1094.79,520.71,Net Banking,Delivered
+ORD0978,2025-08-15,Bengaluru,Electronics,Laptop,Consumer,5,45671,15,228355,34253.25,194101.75,114996.29,79105.46,Credit Card,Delivered
+ORD0979,2025-04-10,Chennai,Electronics,Laptop,Consumer,2,54769,20,109538,21907.6,87630.4,65957.71,21672.69,Credit Card,Returned
+ORD0980,2025-02-23,Mumbai,Clothing,T-Shirt,Consumer,3,1977,25,5931,1482.75,4448.25,2572.08,1876.17,Net Banking,Delivered
+ORD0981,2025-07-28,Kolkata,Home & Kitchen,Coffee Maker,Corporate,5,8307,20,41535,8307.0,33228.0,25057.59,8170.41,Cash on Delivery,Delivered
+ORD0982,2025-06-20,Chennai,Electronics,Smartwatch,Home Office,2,48161,20,96322,19264.4,77057.6,60908.39,16149.21,UPI,Delivered
+ORD0983,2025-01-07,Kolkata,Beauty,Hair Dryer,Home Office,5,2342,0,11710,0.0,11710.0,8471.19,3238.81,Net Banking,Cancelled
+ORD0984,2025-10-20,Kolkata,Electronics,Smartphone,Consumer,5,55986,5,279930,13996.5,265933.5,206274.36,59659.14,Net Banking,Cancelled
+ORD0985,2025-12-19,Chennai,Clothing,Jeans,Consumer,4,1187,5,4748,237.4,4510.6,3618.64,891.96,Net Banking,Delivered
+ORD0986,2025-07-14,Chennai,Clothing,Jacket,Corporate,4,3826,10,15304,1530.4,13773.6,9641.41,4132.19,Credit Card,Delivered
+ORD0987,2025-05-27,Delhi,Clothing,T-Shirt,Home Office,1,4881,20,4881,976.2,3904.8,2223.93,1680.87,UPI,Delivered
+ORD0988,2025-03-18,Bengaluru,Clothing,Jacket,Consumer,2,1688,15,3376,506.4,2869.6,1783.33,1086.27,Net Banking,Returned
+ORD0989,2025-02-23,Hyderabad,Clothing,Jacket,Corporate,4,1081,15,4324,648.6,3675.4,2359.09,1316.31,Debit Card,Delivered
+ORD0990,2025-04-22,Kolkata,Sports,Yoga Mat,Consumer,4,6237,25,24948,6237.0,18711.0,12550.66,6160.34,Debit Card,Returned
+ORD0991,2025-05-04,Delhi,Home & Kitchen,Air Fryer,Consumer,5,5984,20,29920,5984.0,23936.0,13518.21,10417.79,Net Banking,Delivered
+ORD0992,2025-03-27,Hyderabad,Clothing,T-Shirt,Home Office,3,5602,10,16806,1680.6,15125.4,11612.58,3512.82,UPI,Delivered
+ORD0993,2025-01-28,Ahmedabad,Home & Kitchen,Bedsheet,Corporate,5,11346,20,56730,11346.0,45384.0,31289.54,14094.46,Cash on Delivery,Cancelled
+ORD0994,2025-07-08,Mumbai,Home & Kitchen,Coffee Maker,Corporate,2,8870,0,17740,0.0,17740.0,11887.29,5852.71,UPI,Delivered
+ORD0995,2025-10-21,Bengaluru,Electronics,Smartwatch,Corporate,4,32168,0,128672,0.0,128672.0,101665.81,27006.19,Net Banking,Returned
+ORD0996,2025-06-25,Ahmedabad,Electronics,Laptop,Consumer,2,38705,15,77410,11611.5,65798.5,36447.38,29351.12,Debit Card,Delivered
+ORD0997,2025-02-24,Delhi,Sports,Yoga Mat,Consumer,1,3158,5,3158,157.9,3000.1,1878.92,1121.18,Net Banking,Returned
+ORD0998,2025-07-21,Delhi,Sports,Running Shoes,Consumer,5,1232,20,6160,1232.0,4928.0,3155.09,1772.91,Debit Card,Cancelled
+ORD0999,2025-02-09,Kolkata,Sports,Running Shoes,Corporate,4,977,0,3908,0.0,3908.0,2823.07,1084.93,Debit Card,Returned
+ORD1000,2025-02-02,Hyderabad,Sports,Yoga Mat,Corporate,1,5028,10,5028,502.8,4525.2,3159.55,1365.65,Debit Card,Delivered
+ORD1001,2025-05-24,Kolkata,Beauty,Face Wash,Consumer,1,269,15,269,40.35,228.65,137.28,91.37,UPI,Delivered
+ORD1002,2025-01-18,Hyderabad,Sports,Cricket Bat,Home Office,5,2772,15,13860,2079.0,11781.0,7267.19,4513.81,Debit Card,Delivered
+ORD1003,2025-02-25,Kolkata,Electronics,Headphones,Consumer,4,41618,5,166472,8323.6,158148.4,105407.05,52741.35,Debit Card,Delivered
+ORD1004,2025-06-16,Kolkata,Home & Kitchen,Mixer Grinder,Corporate,3,9950,5,29850,1492.5,28357.5,18514.89,9842.61,Net Banking,Delivered
+ORD1005,2025-01-25,Ahmedabad,Beauty,Perfume,Corporate,5,2514,15,12570,1885.5,10684.5,7493.97,3190.53,Cash on Delivery,Returned
+ORD1006,2025-03-03,Ahmedabad,Sports,Cricket Bat,Consumer,1,7742,10,7742,774.2,6967.8,4971.8,1996.0,UPI,Returned
+ORD1007,2025-04-21,Chennai,Clothing,Jeans,Home Office,3,5944,10,17832,1783.2,16048.8,10840.42,5208.38,Credit Card,Cancelled
+ORD1008,2025-03-01,Ahmedabad,Beauty,Face Wash,Home Office,2,3237,0,6474,0.0,6474.0,3997.84,2476.16,Debit Card,Cancelled
+ORD1009,2025-08-11,Ahmedabad,Home & Kitchen,Air Fryer,Corporate,5,1891,0,9455,0.0,9455.0,7451.62,2003.38,Net Banking,Delivered
+ORD1010,2025-11-20,Kolkata,Electronics,Smartphone,Consumer,4,67067,5,268268,13413.4,254854.6,169762.46,85092.14,Credit Card,Delivered
+ORD1011,2025-08-09,Mumbai,Electronics,Smartwatch,Corporate,1,65314,5,65314,3265.7,62048.3,48722.9,13325.4,Cash on Delivery,Delivered
+ORD1012,2025-08-04,Hyderabad,Beauty,Moisturizer,Home Office,2,4461,10,8922,892.2,8029.8,4619.8,3410.0,Net Banking,Returned
+ORD1013,2025-11-14,Ahmedabad,Clothing,Sneakers,Consumer,3,1530,5,4590,229.5,4360.5,2771.02,1589.48,UPI,Delivered
+ORD1014,2025-12-24,Bengaluru,Clothing,Sneakers,Home Office,3,5592,15,16776,2516.4,14259.6,11294.4,2965.2,Net Banking,Delivered
+ORD1015,2025-07-12,Delhi,Clothing,Jeans,Consumer,3,606,20,1818,363.6,1454.4,987.88,466.52,UPI,Delivered
+ORD1016,2025-05-15,Bengaluru,Clothing,Sneakers,Consumer,3,3409,10,10227,1022.7,9204.3,6136.48,3067.82,UPI,Cancelled
+ORD1017,2025-11-23,Hyderabad,Home & Kitchen,Coffee Maker,Home Office,3,7072,20,21216,4243.2,16972.8,11218.33,5754.47,Cash on Delivery,Delivered
+ORD1018,2025-04-21,Ahmedabad,Electronics,Smartwatch,Consumer,1,46946,5,46946,2347.3,44598.7,34927.15,9671.55,Cash on Delivery,Returned
+ORD1019,2025-06-10,Kolkata,Beauty,Face Wash,Home Office,5,1694,15,8470,1270.5,7199.5,4615.2,2584.3,Net Banking,Cancelled
+ORD1020,2025-08-24,Chennai,Sports,Running Shoes,Corporate,2,4190,25,8380,2095.0,6285.0,4986.14,1298.86,Cash on Delivery,Returned
+ORD1021,2025-06-03,Kolkata,Home & Kitchen,Coffee Maker,Home Office,5,1926,5,9630,481.5,9148.5,7378.79,1769.71,Debit Card,Returned
+ORD1022,2025-08-09,Ahmedabad,Home & Kitchen,Coffee Maker,Home Office,3,2383,5,7149,357.45,6791.55,5135.04,1656.51,Cash on Delivery,Cancelled
+ORD1023,2025-07-30,Mumbai,Beauty,Face Wash,Consumer,5,4350,25,21750,5437.5,16312.5,9116.34,7196.16,Debit Card,Returned
+ORD1024,2025-02-18,Bengaluru,Clothing,T-Shirt,Consumer,3,4654,5,13962,698.1,13263.9,9143.96,4119.94,Net Banking,Delivered
+ORD1025,2025-01-08,Ahmedabad,Home & Kitchen,Mixer Grinder,Corporate,5,8130,20,40650,8130.0,32520.0,24504.5,8015.5,Net Banking,Cancelled
+ORD1026,2025-05-29,Hyderabad,Clothing,T-Shirt,Home Office,5,5857,0,29285,0.0,29285.0,21537.77,7747.23,Credit Card,Delivered
+ORD1027,2025-07-31,Bengaluru,Electronics,Smartphone,Corporate,3,70306,15,210918,31637.7,179280.3,112757.55,66522.75,Credit Card,Delivered
+ORD1028,2025-10-31,Hyderabad,Clothing,T-Shirt,Consumer,2,572,0,1144,0.0,1144.0,754.19,389.81,Credit Card,Delivered
+ORD1029,2025-08-24,Pune,Home & Kitchen,Mixer Grinder,Home Office,1,5367,20,5367,1073.4,4293.6,2823.82,1469.78,Credit Card,Returned
+ORD1030,2025-05-28,Mumbai,Home & Kitchen,Bedsheet,Consumer,2,11784,5,23568,1178.4,22389.6,13824.69,8564.91,UPI,Delivered
+ORD1031,2025-11-22,Delhi,Clothing,Jeans,Corporate,5,3199,20,15995,3199.0,12796.0,8849.69,3946.31,Debit Card,Delivered
+ORD1032,2025-12-10,Kolkata,Electronics,Laptop,Corporate,5,50910,25,254550,63637.5,190912.5,145063.94,45848.56,Credit Card,Delivered
+ORD1033,2025-02-02,Pune,Beauty,Perfume,Consumer,2,4744,5,9488,474.4,9013.6,7118.24,1895.36,Debit Card,Delivered
+ORD1034,2025-02-01,Kolkata,Beauty,Perfume,Home Office,1,1725,10,1725,172.5,1552.5,927.51,624.99,Net Banking,Delivered
+ORD1035,2025-10-22,Kolkata,Electronics,Headphones,Corporate,4,39525,20,158100,31620.0,126480.0,85977.94,40502.06,Debit Card,Cancelled
+ORD1036,2025-01-16,Bengaluru,Sports,Dumbbells,Corporate,2,7672,10,15344,1534.4,13809.6,8483.0,5326.6,Credit Card,Delivered
+ORD1037,2025-02-10,Pune,Home & Kitchen,Mixer Grinder,Corporate,2,1293,20,2586,517.2,2068.8,1322.85,745.95,Credit Card,Delivered
+ORD1038,2025-09-22,Mumbai,Home & Kitchen,Coffee Maker,Consumer,1,1616,10,1616,161.6,1454.4,855.62,598.78,Cash on Delivery,Delivered
+ORD1039,2025-03-18,Ahmedabad,Electronics,Headphones,Corporate,2,14206,15,28412,4261.8,24150.2,14845.65,9304.55,Net Banking,Returned
+ORD1040,2025-07-07,Pune,Home & Kitchen,Coffee Maker,Home Office,3,11728,15,35184,5277.6,29906.4,19752.9,10153.5,UPI,Delivered
+ORD1041,2025-04-25,Bengaluru,Clothing,Jeans,Corporate,1,631,10,631,63.1,567.9,435.19,132.71,Cash on Delivery,Delivered
+ORD1042,2025-04-20,Pune,Home & Kitchen,Mixer Grinder,Home Office,2,3365,25,6730,1682.5,5047.5,4103.17,944.33,Credit Card,Delivered
+ORD1043,2025-03-26,Delhi,Beauty,Perfume,Home Office,1,4183,5,4183,209.15,3973.85,3247.12,726.73,UPI,Delivered
+ORD1044,2025-03-02,Hyderabad,Electronics,Headphones,Home Office,5,18621,10,93105,9310.5,83794.5,67209.57,16584.93,Credit Card,Delivered
+ORD1045,2025-05-13,Delhi,Beauty,Moisturizer,Consumer,5,4741,15,23705,3555.75,20149.25,14789.44,5359.81,UPI,Cancelled
+ORD1046,2025-11-03,Mumbai,Clothing,Jeans,Corporate,2,5627,20,11254,2250.8,9003.2,6661.94,2341.26,UPI,Cancelled
+ORD1047,2025-03-30,Delhi,Home & Kitchen,Air Fryer,Home Office,3,6834,10,20502,2050.2,18451.8,11747.39,6704.41,Credit Card,Cancelled
+ORD1048,2025-02-03,Hyderabad,Beauty,Hair Dryer,Corporate,3,834,15,2502,375.3,2126.7,1456.53,670.17,Debit Card,Returned
+ORD1049,2025-10-24,Bengaluru,Clothing,T-Shirt,Home Office,2,4414,0,8828,0.0,8828.0,5858.0,2970.0,Debit Card,Returned
+ORD1050,2025-10-09,Ahmedabad,Clothing,T-Shirt,Home Office,1,742,15,742,111.3,630.7,457.72,172.98,Cash on Delivery,Delivered
+ORD1051,2025-10-08,Kolkata,Electronics,Smartwatch,Home Office,3,11008,10,33024,3302.4,29721.6,16670.48,13051.12,UPI,Delivered
+ORD1052,2025-03-12,Bengaluru,Clothing,T-Shirt,Consumer,2,2208,15,4416,662.4,3753.6,2215.76,1537.84,Net Banking,Delivered
+ORD1053,2025-08-29,Pune,Beauty,Moisturizer,Consumer,5,1529,5,7645,382.25,7262.75,4400.98,2861.77,Net Banking,Delivered
+ORD1054,2025-12-12,Pune,Clothing,Jacket,Consumer,5,2365,20,11825,2365.0,9460.0,6240.64,3219.36,UPI,Delivered
+ORD1055,2025-10-31,Hyderabad,Home & Kitchen,Coffee Maker,Corporate,5,11514,20,57570,11514.0,46056.0,32267.24,13788.76,Debit Card,Delivered
+ORD1056,2025-02-04,Kolkata,Beauty,Face Wash,Consumer,5,769,25,3845,961.25,2883.75,1713.07,1170.68,Credit Card,Delivered
+ORD1057,2025-06-29,Kolkata,Electronics,Smartphone,Consumer,3,74586,25,223758,55939.5,167818.5,111484.25,56334.25,UPI,Cancelled
+ORD1058,2025-03-27,Mumbai,Sports,Dumbbells,Home Office,5,5261,10,26305,2630.5,23674.5,18832.89,4841.61,UPI,Delivered
+ORD1059,2025-07-16,Delhi,Home & Kitchen,Bedsheet,Consumer,2,6411,20,12822,2564.4,10257.6,6897.01,3360.59,Net Banking,Cancelled
+ORD1060,2025-08-10,Mumbai,Clothing,Jacket,Corporate,4,1102,15,4408,661.2,3746.8,2873.09,873.71,Cash on Delivery,Delivered
+ORD1061,2025-02-25,Pune,Electronics,Smartwatch,Home Office,1,65103,0,65103,0.0,65103.0,41566.11,23536.89,Debit Card,Delivered
+ORD1062,2025-12-23,Ahmedabad,Beauty,Hair Dryer,Consumer,3,2867,5,8601,430.05,8170.95,5943.73,2227.22,Cash on Delivery,Returned
+ORD1063,2025-12-22,Ahmedabad,Home & Kitchen,Air Fryer,Corporate,5,4538,5,22690,1134.5,21555.5,17010.3,4545.2,Debit Card,Delivered
+ORD1064,2025-01-19,Kolkata,Electronics,Laptop,Corporate,5,24257,0,121285,0.0,121285.0,67530.0,53755.0,Credit Card,Delivered
+ORD1065,2025-03-26,Mumbai,Clothing,T-Shirt,Corporate,2,1061,20,2122,424.4,1697.6,1345.06,352.54,Cash on Delivery,Delivered
+ORD1066,2025-06-17,Pune,Sports,Yoga Mat,Corporate,4,4236,15,16944,2541.6,14402.4,11149.65,3252.75,Credit Card,Delivered
+ORD1067,2025-05-30,Pune,Sports,Cricket Bat,Home Office,5,536,15,2680,402.0,2278.0,1613.45,664.55,Debit Card,Delivered
+ORD1068,2025-11-10,Mumbai,Clothing,Jacket,Home Office,3,3029,5,9087,454.35,8632.65,6239.58,2393.07,Credit Card,Delivered
+ORD1069,2025-12-13,Hyderabad,Clothing,Jacket,Home Office,3,4996,5,14988,749.4,14238.6,11128.84,3109.76,UPI,Returned
+ORD1070,2025-06-01,Hyderabad,Electronics,Smartphone,Consumer,5,52932,10,264660,26466.0,238194.0,174258.22,63935.78,Cash on Delivery,Returned
+ORD1071,2025-09-17,Ahmedabad,Sports,Running Shoes,Home Office,2,2300,5,4600,230.0,4370.0,2873.57,1496.43,UPI,Delivered
+ORD1072,2025-09-04,Mumbai,Sports,Yoga Mat,Consumer,3,2665,15,7995,1199.25,6795.75,3966.87,2828.88,UPI,Returned
+ORD1073,2025-09-29,Delhi,Beauty,Hair Dryer,Consumer,2,1038,15,2076,311.4,1764.6,1178.4,586.2,Credit Card,Delivered
+ORD1074,2025-06-06,Pune,Beauty,Hair Dryer,Home Office,3,1037,10,3111,311.1,2799.9,2214.39,585.51,UPI,Delivered
+ORD1075,2025-12-14,Pune,Electronics,Smartwatch,Consumer,5,1391,20,6955,1391.0,5564.0,4117.68,1446.32,Cash on Delivery,Delivered
+ORD1076,2025-06-07,Mumbai,Clothing,T-Shirt,Corporate,1,4703,5,4703,235.15,4467.85,3157.87,1309.98,Debit Card,Delivered
+ORD1077,2025-12-09,Hyderabad,Clothing,Jacket,Consumer,2,2590,20,5180,1036.0,4144.0,2470.17,1673.83,Cash on Delivery,Returned
+ORD1078,2025-10-07,Delhi,Beauty,Hair Dryer,Home Office,3,1587,25,4761,1190.25,3570.75,2548.17,1022.58,Cash on Delivery,Delivered
+ORD1079,2025-08-09,Ahmedabad,Electronics,Smartwatch,Home Office,4,12826,25,51304,12826.0,38478.0,24880.24,13597.76,Net Banking,Cancelled
+ORD1080,2025-06-06,Hyderabad,Home & Kitchen,Coffee Maker,Corporate,5,4128,5,20640,1032.0,19608.0,12671.06,6936.94,Net Banking,Cancelled
+ORD1081,2025-10-27,Kolkata,Home & Kitchen,Coffee Maker,Home Office,3,7135,0,21405,0.0,21405.0,13761.28,7643.72,Debit Card,Delivered
+ORD1082,2025-05-11,Ahmedabad,Home & Kitchen,Bedsheet,Consumer,4,10738,10,42952,4295.2,38656.8,29200.97,9455.83,Cash on Delivery,Returned
+ORD1083,2025-01-05,Chennai,Beauty,Hair Dryer,Consumer,2,834,15,1668,250.2,1417.8,882.51,535.29,Net Banking,Returned
+ORD1084,2025-08-16,Ahmedabad,Clothing,T-Shirt,Home Office,1,2355,15,2355,353.25,2001.75,1234.32,767.43,Debit Card,Delivered
+ORD1085,2025-07-08,Hyderabad,Clothing,T-Shirt,Corporate,1,2904,15,2904,435.6,2468.4,1635.02,833.38,UPI,Returned
+ORD1086,2025-01-15,Bengaluru,Electronics,Smartwatch,Corporate,5,8210,0,41050,0.0,41050.0,32684.24,8365.76,Debit Card,Delivered
+ORD1087,2025-07-06,Chennai,Sports,Cricket Bat,Corporate,1,4156,25,4156,1039.0,3117.0,2390.6,726.4,Net Banking,Delivered
+ORD1088,2025-01-12,Hyderabad,Clothing,Jeans,Consumer,1,4706,15,4706,705.9,4000.1,2504.55,1495.55,Debit Card,Cancelled
+ORD1089,2025-03-18,Hyderabad,Home & Kitchen,Air Fryer,Consumer,5,3565,20,17825,3565.0,14260.0,7854.63,6405.37,Cash on Delivery,Cancelled
+ORD1090,2025-03-17,Hyderabad,Clothing,Sneakers,Consumer,5,3698,0,18490,0.0,18490.0,11325.63,7164.37,UPI,Cancelled
+ORD1091,2025-12-10,Chennai,Sports,Running Shoes,Consumer,1,4650,15,4650,697.5,3952.5,2529.34,1423.16,UPI,Delivered
+ORD1092,2025-07-06,Pune,Clothing,Sneakers,Consumer,2,606,25,1212,303.0,909.0,537.59,371.41,UPI,Cancelled
+ORD1093,2025-05-19,Ahmedabad,Beauty,Moisturizer,Home Office,1,3396,20,3396,679.2,2716.8,2142.74,574.06,Credit Card,Cancelled
+ORD1094,2025-01-15,Chennai,Beauty,Hair Dryer,Consumer,1,2628,20,2628,525.6,2102.4,1680.43,421.97,Debit Card,Delivered
+ORD1095,2025-01-04,Chennai,Sports,Yoga Mat,Home Office,2,5141,5,10282,514.1,9767.9,5431.7,4336.2,Net Banking,Delivered
+ORD1096,2025-02-11,Kolkata,Sports,Cricket Bat,Consumer,3,3392,0,10176,0.0,10176.0,7182.03,2993.97,Cash on Delivery,Cancelled
+ORD1097,2025-10-13,Ahmedabad,Beauty,Moisturizer,Home Office,1,2323,15,2323,348.45,1974.55,1445.43,529.12,Cash on Delivery,Returned
+ORD1098,2025-05-23,Chennai,Beauty,Perfume,Consumer,4,3189,20,12756,2551.2,10204.8,5876.29,4328.51,Debit Card,Returned
+ORD1099,2025-08-22,Kolkata,Electronics,Laptop,Home Office,2,11310,15,22620,3393.0,19227.0,13497.61,5729.39,Net Banking,Delivered
+ORD1100,2025-11-04,Delhi,Sports,Dumbbells,Home Office,1,718,20,718,143.6,574.4,421.98,152.42,Net Banking,Delivered
+ORD1101,2025-02-10,Pune,Beauty,Face Wash,Corporate,3,2892,0,8676,0.0,8676.0,7003.38,1672.62,Cash on Delivery,Delivered
+ORD1102,2025-07-31,Hyderabad,Clothing,Jeans,Corporate,3,2033,20,6099,1219.8,4879.2,2911.23,1967.97,Credit Card,Delivered
+ORD1103,2025-10-17,Bengaluru,Clothing,T-Shirt,Consumer,1,2959,0,2959,0.0,2959.0,2003.21,955.79,Net Banking,Delivered
+ORD1104,2025-09-08,Delhi,Clothing,Sneakers,Consumer,4,1582,20,6328,1265.6,5062.4,3796.22,1266.18,UPI,Delivered
+ORD1105,2025-10-09,Kolkata,Electronics,Smartphone,Corporate,3,8032,5,24096,1204.8,22891.2,15662.48,7228.72,Credit Card,Delivered
+ORD1106,2025-02-16,Kolkata,Electronics,Smartwatch,Consumer,1,5591,5,5591,279.55,5311.45,4179.7,1131.75,Net Banking,Delivered
+ORD1107,2025-09-28,Pune,Home & Kitchen,Air Fryer,Consumer,4,11910,5,47640,2382.0,45258.0,26085.85,19172.15,Net Banking,Delivered
+ORD1108,2025-02-21,Hyderabad,Beauty,Perfume,Corporate,1,419,10,419,41.9,377.1,293.79,83.31,Net Banking,Delivered
+ORD1109,2025-10-05,Chennai,Beauty,Moisturizer,Consumer,3,2478,25,7434,1858.5,5575.5,4081.49,1494.01,Net Banking,Returned
+ORD1110,2025-05-23,Delhi,Clothing,Jacket,Home Office,3,3499,10,10497,1049.7,9447.3,6361.78,3085.52,Credit Card,Delivered
+ORD1111,2025-04-08,Ahmedabad,Sports,Dumbbells,Consumer,4,3572,20,14288,2857.6,11430.4,7994.91,3435.49,UPI,Delivered
+ORD1112,2025-04-18,Hyderabad,Home & Kitchen,Bedsheet,Corporate,3,2696,15,8088,1213.2,6874.8,4547.3,2327.5,Credit Card,Delivered
+ORD1113,2025-02-04,Delhi,Electronics,Laptop,Corporate,2,60054,5,120108,6005.4,114102.6,89880.21,24222.39,Debit Card,Delivered
+ORD1114,2025-09-28,Kolkata,Sports,Dumbbells,Home Office,2,2690,10,5380,538.0,4842.0,3587.43,1254.57,Credit Card,Returned
+ORD1115,2025-03-08,Kolkata,Clothing,Sneakers,Home Office,2,325,15,650,97.5,552.5,385.31,167.19,Credit Card,Delivered
+ORD1116,2025-11-02,Hyderabad,Beauty,Face Wash,Home Office,5,2267,20,11335,2267.0,9068.0,7404.46,1663.54,Cash on Delivery,Returned
+ORD1117,2025-12-19,Hyderabad,Sports,Cricket Bat,Corporate,1,7345,15,7345,1101.75,6243.25,3475.05,2768.2,Debit Card,Delivered
+ORD1118,2025-07-19,Hyderabad,Home & Kitchen,Air Fryer,Home Office,2,4036,10,8072,807.2,7264.8,4119.53,3145.27,UPI,Delivered
+ORD1119,2025-06-14,Chennai,Electronics,Smartphone,Home Office,1,16757,0,16757,0.0,16757.0,10404.61,6352.39,Debit Card,Cancelled
+ORD1120,2025-08-15,Mumbai,Home & Kitchen,Bedsheet,Home Office,2,2607,5,5214,260.7,4953.3,3838.27,1115.03,UPI,Delivered
+ORD1121,2025-10-14,Hyderabad,Sports,Dumbbells,Consumer,1,5684,15,5684,852.6,4831.4,3065.9,1765.5,Cash on Delivery,Delivered
+ORD1122,2025-07-07,Delhi,Beauty,Perfume,Consumer,1,2368,15,2368,355.2,2012.8,1223.2,789.6,Debit Card,Delivered
+ORD1123,2025-01-08,Chennai,Beauty,Hair Dryer,Consumer,4,1040,5,4160,208.0,3952.0,2258.94,1693.06,Cash on Delivery,Delivered
+ORD1124,2025-11-21,Delhi,Home & Kitchen,Mixer Grinder,Consumer,4,9830,0,39320,0.0,39320.0,23213.68,16106.32,Debit Card,Delivered
+ORD1125,2025-04-12,Ahmedabad,Beauty,Face Wash,Home Office,3,2531,25,7593,1898.25,5694.75,4446.16,1248.59,UPI,Returned
+ORD1126,2025-05-30,Chennai,Sports,Running Shoes,Consumer,1,4843,15,4843,726.45,4116.55,2446.82,1669.73,Net Banking,Cancelled
+ORD1127,2025-02-28,Pune,Sports,Running Shoes,Corporate,1,3352,20,3352,670.4,2681.6,2087.73,593.87,Cash on Delivery,Returned
+ORD1128,2025-09-27,Hyderabad,Sports,Dumbbells,Home Office,5,1257,0,6285,0.0,6285.0,3929.47,2355.53,Credit Card,Returned
+ORD1129,2025-10-30,Ahmedabad,Beauty,Hair Dryer,Home Office,5,737,20,3685,737.0,2948.0,1968.32,979.68,Net Banking,Delivered
+ORD1130,2025-09-30,Ahmedabad,Clothing,Jacket,Corporate,3,2656,5,7968,398.4,7569.6,5994.13,1575.47,Credit Card,Delivered
+ORD1131,2025-01-01,Mumbai,Beauty,Hair Dryer,Consumer,2,4927,15,9854,1478.1,8375.9,5752.8,2623.1,Net Banking,Delivered
+ORD1132,2025-03-29,Hyderabad,Beauty,Hair Dryer,Corporate,4,4045,5,16180,809.0,15371.0,10745.61,4625.39,Net Banking,Delivered
+ORD1133,2025-06-21,Bengaluru,Home & Kitchen,Bedsheet,Consumer,5,11971,10,59855,5985.5,53869.5,30159.41,23710.09,Cash on Delivery,Delivered
+ORD1134,2025-03-11,Ahmedabad,Sports,Cricket Bat,Home Office,3,5939,20,17817,3563.4,14253.6,10253.69,3999.91,Credit Card,Delivered
+ORD1135,2025-11-28,Ahmedabad,Sports,Yoga Mat,Home Office,1,6741,20,6741,1348.2,5392.8,3465.53,1927.27,Credit Card,Cancelled
+ORD1136,2025-05-21,Mumbai,Sports,Yoga Mat,Corporate,5,2349,0,11745,0.0,11745.0,7576.95,4168.05,Net Banking,Delivered
+ORD1137,2025-10-01,Pune,Home & Kitchen,Bedsheet,Consumer,2,10327,20,20654,4130.8,16523.2,13250.62,3272.58,Net Banking,Delivered
+ORD1138,2025-02-15,Ahmedabad,Sports,Yoga Mat,Home Office,5,5861,0,29305,0.0,29305.0,21575.86,7729.14,Net Banking,Delivered
+ORD1139,2025-02-15,Pune,Beauty,Moisturizer,Corporate,3,1829,5,5487,274.35,5212.65,4042.94,1169.71,Debit Card,Returned
+ORD1140,2025-12-09,Mumbai,Sports,Cricket Bat,Home Office,3,1239,15,3717,557.55,3159.45,2291.4,868.05,Net Banking,Delivered
+ORD1141,2025-11-11,Kolkata,Home & Kitchen,Mixer Grinder,Corporate,3,6106,5,18318,915.9,17402.1,10099.76,7302.34,Net Banking,Returned
+ORD1142,2025-12-01,Ahmedabad,Electronics,Laptop,Corporate,1,54409,0,54409,0.0,54409.0,43354.3,11054.7,Cash on Delivery,Delivered
+ORD1143,2025-04-05,Ahmedabad,Beauty,Hair Dryer,Home Office,4,2567,25,10268,2567.0,7701.0,5965.06,1735.94,Cash on Delivery,Delivered
+ORD1144,2025-05-21,Pune,Electronics,Smartwatch,Home Office,1,11885,20,11885,2377.0,9508.0,7651.15,1856.85,Cash on Delivery,Delivered
+ORD1145,2025-10-09,Mumbai,Home & Kitchen,Coffee Maker,Corporate,5,10606,15,53030,7954.5,45075.5,31530.61,13544.89,Credit Card,Returned
+ORD1146,2025-08-28,Bengaluru,Electronics,Laptop,Home Office,4,35164,0,140656,0.0,140656.0,105273.34,35382.66,Debit Card,Cancelled
+ORD1147,2025-05-22,Pune,Electronics,Smartwatch,Consumer,3,71960,0,215880,0.0,215880.0,119079.54,96800.46,Cash on Delivery,Delivered
+ORD1148,2025-11-02,Pune,Beauty,Face Wash,Consumer,2,4139,25,8278,2069.5,6208.5,4533.77,1674.73,UPI,Delivered
+ORD1149,2025-12-17,Chennai,Beauty,Perfume,Corporate,5,682,10,3410,341.0,3069.0,2335.54,733.46,Cash on Delivery,Delivered
+ORD1150,2025-03-09,Mumbai,Sports,Cricket Bat,Corporate,2,3751,25,7502,1875.5,5626.5,3609.88,2016.62,Net Banking,Delivered
+ORD1151,2025-09-07,Chennai,Home & Kitchen,Coffee Maker,Consumer,4,7145,10,28580,2858.0,25722.0,17276.05,8445.95,UPI,Cancelled
+ORD1152,2025-09-28,Bengaluru,Electronics,Laptop,Corporate,3,65448,0,196344,0.0,196344.0,143954.16,52389.84,Net Banking,Delivered
+ORD1153,2025-06-22,Delhi,Electronics,Laptop,Consumer,4,46467,25,185868,46467.0,139401.0,102542.06,36858.94,UPI,Delivered
+ORD1154,2025-06-21,Ahmedabad,Clothing,Jacket,Corporate,4,4139,15,16556,2483.4,14072.6,10407.05,3665.55,Net Banking,Delivered
+ORD1155,2025-09-29,Kolkata,Clothing,T-Shirt,Consumer,3,4296,20,12888,2577.6,10310.4,7226.12,3084.28,Net Banking,Cancelled
+ORD1156,2025-03-20,Hyderabad,Electronics,Smartwatch,Consumer,4,62636,5,250544,12527.2,238016.8,133950.53,104066.27,UPI,Delivered
+ORD1157,2025-11-11,Chennai,Home & Kitchen,Air Fryer,Home Office,1,7139,0,7139,0.0,7139.0,5041.01,2097.99,UPI,Returned
+ORD1158,2025-12-19,Pune,Electronics,Laptop,Corporate,3,37932,25,113796,28449.0,85347.0,49332.2,36014.8,Debit Card,Delivered
+ORD1159,2025-08-07,Bengaluru,Clothing,Jacket,Corporate,4,1799,15,7196,1079.4,6116.6,3531.37,2585.23,Cash on Delivery,Returned
+ORD1160,2025-01-19,Bengaluru,Sports,Cricket Bat,Consumer,4,1601,5,6404,320.2,6083.8,3747.27,2336.53,Cash on Delivery,Delivered
+ORD1161,2025-01-10,Bengaluru,Sports,Running Shoes,Corporate,1,3935,25,3935,983.75,2951.25,2209.44,741.81,Net Banking,Returned
+ORD1162,2025-12-16,Hyderabad,Home & Kitchen,Air Fryer,Corporate,1,671,10,671,67.1,603.9,412.01,191.89,Credit Card,Delivered
+ORD1163,2025-12-24,Kolkata,Clothing,Jeans,Corporate,1,4961,20,4961,992.2,3968.8,3103.46,865.34,Debit Card,Cancelled
+ORD1164,2025-10-30,Delhi,Beauty,Hair Dryer,Consumer,2,4782,25,9564,2391.0,7173.0,4923.24,2249.76,Credit Card,Delivered
+ORD1165,2025-05-31,Kolkata,Clothing,T-Shirt,Home Office,3,5846,5,17538,876.9,16661.1,12691.27,3969.83,UPI,Delivered
+ORD1166,2025-10-30,Mumbai,Sports,Cricket Bat,Consumer,5,5877,5,29385,1469.25,27915.75,20989.59,6926.16,Net Banking,Delivered
+ORD1167,2025-05-08,Hyderabad,Sports,Running Shoes,Corporate,4,3476,10,13904,1390.4,12513.6,8950.76,3562.84,Net Banking,Returned
+ORD1168,2025-02-26,Delhi,Home & Kitchen,Bedsheet,Home Office,5,2907,0,14535,0.0,14535.0,9764.53,4770.47,Cash on Delivery,Delivered
+ORD1169,2025-11-22,Chennai,Beauty,Perfume,Consumer,2,4081,0,8162,0.0,8162.0,6251.38,1910.62,Net Banking,Delivered
+ORD1170,2025-12-10,Pune,Home & Kitchen,Mixer Grinder,Home Office,3,3839,0,11517,0.0,11517.0,8274.39,3242.61,Debit Card,Delivered
+ORD1171,2025-06-15,Chennai,Home & Kitchen,Mixer Grinder,Home Office,1,7121,20,7121,1424.2,5696.8,4611.24,1085.56,Credit Card,Delivered
+ORD1172,2025-11-04,Mumbai,Home & Kitchen,Bedsheet,Corporate,1,11460,15,11460,1719.0,9741.0,7319.93,2421.07,Cash on Delivery,Delivered
+ORD1173,2025-12-26,Hyderabad,Clothing,Jeans,Corporate,2,2018,20,4036,807.2,3228.8,2089.58,1139.22,Credit Card,Delivered
+ORD1174,2025-04-05,Pune,Sports,Running Shoes,Consumer,5,2817,25,14085,3521.25,10563.75,6982.46,3581.29,Net Banking,Cancelled
+ORD1175,2025-02-11,Hyderabad,Home & Kitchen,Air Fryer,Consumer,1,7642,5,7642,382.1,7259.9,4967.45,2292.45,Cash on Delivery,Cancelled
+ORD1176,2025-05-04,Chennai,Beauty,Perfume,Corporate,2,1860,20,3720,744.0,2976.0,1892.52,1083.48,UPI,Returned
+ORD1177,2025-02-11,Bengaluru,Home & Kitchen,Air Fryer,Home Office,1,4870,15,4870,730.5,4139.5,2831.7,1307.8,Debit Card,Delivered
+ORD1178,2025-09-30,Chennai,Sports,Yoga Mat,Home Office,5,6003,15,30015,4502.25,25512.75,19340.54,6172.21,Net Banking,Delivered
+ORD1179,2025-12-27,Pune,Clothing,Sneakers,Corporate,5,4531,10,22655,2265.5,20389.5,13577.72,6811.78,UPI,Delivered
+ORD1180,2025-09-14,Bengaluru,Electronics,Smartphone,Home Office,5,71058,20,355290,71058.0,284232.0,180181.52,104050.48,Cash on Delivery,Delivered
+ORD1181,2025-09-05,Hyderabad,Beauty,Moisturizer,Corporate,1,3555,25,3555,888.75,2666.25,1614.75,1051.5,Cash on Delivery,Delivered
+ORD1182,2025-07-25,Delhi,Electronics,Smartphone,Consumer,4,52350,25,209400,52350.0,157050.0,123489.46,33560.54,Net Banking,Returned
+ORD1183,2025-11-21,Mumbai,Home & Kitchen,Coffee Maker,Consumer,3,8049,10,24147,2414.7,21732.3,15373.76,6358.54,UPI,Cancelled
+ORD1184,2025-12-05,Pune,Clothing,Jacket,Corporate,3,2635,25,7905,1976.25,5928.75,4120.21,1808.54,Net Banking,Delivered
+ORD1185,2025-07-01,Delhi,Home & Kitchen,Coffee Maker,Home Office,1,6839,20,6839,1367.8,5471.2,3402.66,2068.54,Debit Card,Delivered
+ORD1186,2025-12-28,Delhi,Clothing,Jeans,Home Office,4,3627,10,14508,1450.8,13057.2,9779.07,3278.13,Cash on Delivery,Delivered
+ORD1187,2025-06-04,Chennai,Clothing,Jeans,Corporate,4,5843,10,23372,2337.2,21034.8,13492.43,7542.37,Net Banking,Returned
+ORD1188,2025-06-08,Hyderabad,Clothing,Jacket,Consumer,4,1537,20,6148,1229.6,4918.4,3019.82,1898.58,Net Banking,Cancelled
+ORD1189,2025-04-21,Hyderabad,Electronics,Headphones,Consumer,4,29191,15,116764,17514.6,99249.4,73800.2,25449.2,Debit Card,Delivered
+ORD1190,2025-08-09,Kolkata,Beauty,Moisturizer,Home Office,1,3810,25,3810,952.5,2857.5,1768.21,1089.29,Debit Card,Delivered
+ORD1191,2025-01-14,Mumbai,Electronics,Smartwatch,Corporate,3,26098,20,78294,15658.8,62635.2,50638.97,11996.23,Net Banking,Returned
+ORD1192,2025-09-30,Kolkata,Sports,Dumbbells,Corporate,4,4088,15,16352,2452.8,13899.2,10063.88,3835.32,Net Banking,Delivered
+ORD1193,2025-01-04,Hyderabad,Sports,Dumbbells,Corporate,1,7885,5,7885,394.25,7490.75,5820.68,1670.07,Cash on Delivery,Delivered
+ORD1194,2025-12-01,Pune,Sports,Yoga Mat,Consumer,2,1597,0,3194,0.0,3194.0,2244.01,949.99,Net Banking,Cancelled
+ORD1195,2025-06-08,Chennai,Clothing,Sneakers,Home Office,4,5367,0,21468,0.0,21468.0,13344.15,8123.85,Debit Card,Cancelled
+ORD1196,2025-10-21,Ahmedabad,Home & Kitchen,Air Fryer,Home Office,3,1028,15,3084,462.6,2621.4,1629.24,992.16,UPI,Delivered
+ORD1197,2025-01-27,Hyderabad,Home & Kitchen,Bedsheet,Corporate,3,9384,0,28152,0.0,28152.0,22685.84,5466.16,Debit Card,Returned
+ORD1198,2025-03-11,Delhi,Home & Kitchen,Mixer Grinder,Home Office,3,6518,25,19554,4888.5,14665.5,11797.24,2868.26,Credit Card,Returned
+ORD1199,2025-12-18,Hyderabad,Electronics,Headphones,Consumer,1,65596,20,65596,13119.2,52476.8,31855.57,20621.23,Credit Card,Returned
+ORD1200,2025-05-11,Mumbai,Clothing,Sneakers,Home Office,5,2915,10,14575,1457.5,13117.5,10201.81,2915.69,Debit Card,Delivered
